@@ -1,0 +1,1001 @@
+Id,Time,Machine,Component,Parameter,Value,Threshold,Probability of Failure
+1,5/6/2022 7:39,Asphalt_Paver_1,Drive,Brake Control,10,Medium,Medium
+1,6/28/2022 1:17,Articulated_Truck_1,Drive,Brake Control,2,Medium,Medium
+1,6/28/2022 23:08,Dozer_1,Drive,Brake Control,7,Medium,Medium
+1,6/7/2022 8:39,Backhoe_Loader_1,Drive,Brake Control,6,Medium,Medium
+1,6/29/2022 22:23,Excavator_1,Drive,Brake Control,9,Medium,Medium
+1,5/23/2022 6:10,Asphalt_Paver_1,Engine,Speed,1340,Medium,Medium
+1,5/12/2022 9:47,Articulated_Truck_1,Engine,Speed,1700,Medium,Medium
+1,5/5/2022 13:42,Excavator_1,Engine,Speed,1755,Medium,Medium
+1,5/19/2022 10:40,Backhoe_Loader_1,Engine,Speed,1352,Medium,Medium
+1,5/7/2022 9:44,Dozer_1,Engine,Speed,1580,Medium,Medium
+1,5/19/2022 14:48,Asphalt_Paver_1,Misc,System Voltage,13.22,Medium,High
+1,5/23/2022 10:00,Articulated_Truck_1,Misc,System Voltage,12.6,Medium,High
+1,5/29/2022 1:45,Excavator_1,Misc,System Voltage,13.642271875126,Medium,High
+1,6/14/2022 7:01,Backhoe_Loader_1,Misc,System Voltage,14.9545543268625,Medium,High
+1,5/14/2022 21:15,Dozer_1,Misc,System Voltage,13.2520563108565,Medium,High
+1,6/27/2022 21:17,Excavator_1,Fuel,Water in Fuel,434,Medium,High
+1,6/17/2022 11:44,Backhoe_Loader_1,Fuel,Water in Fuel,1655,Medium,High
+1,6/9/2022 14:04,Articulated_Truck_1,Fuel,Water in Fuel,50,Medium,High
+1,5/25/2022 3:32,Dozer_1,Fuel,Water in Fuel,286,Medium,High
+1,6/12/2022 23:59,Asphalt_Paver_1,Fuel,Water in Fuel,1444,Medium,High
+2,5/6/2022 21:13,Dozer_1,Misc,Exhaust Gas Temparature,244,Medium,High
+2,6/20/2022 14:48,Backhoe_Loader_1,Misc,Exhaust Gas Temparature,217,Medium,High
+2,6/8/2022 20:46,Excavator_1,Misc,Exhaust Gas Temparature,304,Medium,High
+2,5/21/2022 22:05,Asphalt_Paver_1,Misc,Exhaust Gas Temparature,249,Medium,High
+2,6/1/2022 21:02,Articulated_Truck_1,Misc,Exhaust Gas Temparature,190,Medium,High
+2,6/2/2022 19:20,Asphalt_Paver_1,Fuel,Level,6,Medium,Low
+2,5/2/2022 5:43,Dozer_1,Fuel,Level,2,Medium,Low
+2,5/27/2022 8:34,Excavator_1,Fuel,Level,2,Medium,Low
+2,6/3/2022 5:13,Backhoe_Loader_1,Fuel,Level,1,Low,Low
+2,5/15/2022 20:33,Articulated_Truck_1,Fuel,Level,10,Medium,Low
+2,5/6/2022 20:48,Dozer_1,Engine,Temparature,91,Medium,High
+2,6/29/2022 18:42,Excavator_1,Engine,Temparature,93,Medium,High
+2,6/22/2022 10:39,Backhoe_Loader_1,Engine,Temparature,75,Medium,High
+2,5/13/2022 6:00,Asphalt_Paver_1,Engine,Temparature,86,Medium,High
+2,6/9/2022 8:21,Articulated_Truck_1,Engine,Temparature,75,Medium,High
+2,6/25/2022 1:19,Asphalt_Paver_1,Drive,Transmission Pressure,281,Medium,Medium
+2,5/25/2022 15:52,Excavator_1,Drive,Transmission Pressure,406,Medium,Medium
+2,6/1/2022 6:08,Dozer_1,Drive,Transmission Pressure,337,Medium,Medium
+2,5/2/2022 7:24,Articulated_Truck_1,Drive,Transmission Pressure,220,Medium,Medium
+2,6/14/2022 15:29,Backhoe_Loader_1,Drive,Transmission Pressure,219,Medium,Medium
+3,6/13/2022 16:09,Asphalt_Paver_1,Misc,Hydraulic Pump Rate,124,Medium,Medium
+3,6/12/2022 21:23,Dozer_1,Misc,Hydraulic Pump Rate,122,Medium,Medium
+3,6/29/2022 22:33,Backhoe_Loader_1,Misc,Hydraulic Pump Rate,95,Medium,Medium
+3,5/27/2022 6:31,Excavator_1,Misc,Hydraulic Pump Rate,124,Medium,Medium
+3,6/19/2022 4:00,Articulated_Truck_1,Misc,Hydraulic Pump Rate,115,Medium,Medium
+3,6/20/2022 22:44,Asphalt_Paver_1,Engine,Oil Pressure,58,Medium,High
+3,6/28/2022 2:33,Dozer_1,Engine,Oil Pressure,53,Medium,High
+3,6/12/2022 6:40,Backhoe_Loader_1,Engine,Oil Pressure,30,Medium,High
+3,6/1/2022 18:55,Articulated_Truck_1,Engine,Oil Pressure,60,Medium,High
+3,5/7/2022 16:15,Excavator_1,Engine,Oil Pressure,59,Medium,High
+3,6/13/2022 0:44,Excavator_1,Drive,Pedal Sensor,3.55038672307554,Medium,Low
+3,5/12/2022 6:44,Dozer_1,Drive,Pedal Sensor,3.03821902827049,Medium,Low
+3,6/6/2022 6:35,Backhoe_Loader_1,Drive,Pedal Sensor,4.82701192745497,High,Low
+3,6/26/2022 17:42,Asphalt_Paver_1,Drive,Pedal Sensor,3.06,Medium,Low
+3,5/20/2022 20:12,Articulated_Truck_1,Drive,Pedal Sensor,4.2,Medium,Low
+3,6/4/2022 23:24,Articulated_Truck_1,Fuel,Temparature,0,Medium,High
+3,5/15/2022 18:09,Dozer_1,Fuel,Temparature,298,Medium,High
+3,6/28/2022 4:22,Asphalt_Paver_1,Fuel,Temparature,394,Medium,High
+3,6/20/2022 16:43,Excavator_1,Fuel,Temparature,398,Medium,High
+3,5/1/2022 8:01,Backhoe_Loader_1,Fuel,Temparature,243,Medium,High
+4,6/25/2022 22:35,Dozer_1,Misc,Air Filter Pressure,34,Medium,Medium
+4,6/5/2022 0:21,Excavator_1,Misc,Air Filter Pressure,22,Medium,Medium
+4,6/23/2022 5:12,Backhoe_Loader_1,Misc,Air Filter Pressure,30,Medium,Medium
+4,6/30/2022 19:39,Asphalt_Paver_1,Misc,Air Filter Pressure,26,Medium,Medium
+4,6/23/2022 23:50,Articulated_Truck_1,Misc,Air Filter Pressure,22,Medium,Medium
+4,5/21/2022 23:07,Articulated_Truck_1,Fuel,Pressure,44,Medium,Low
+4,5/30/2022 14:58,Dozer_1,Fuel,Pressure,47,Medium,Low
+4,6/3/2022 16:57,Backhoe_Loader_1,Fuel,Pressure,37,Medium,Low
+4,5/22/2022 11:28,Asphalt_Paver_1,Fuel,Pressure,45,Medium,Low
+4,5/22/2022 23:13,Excavator_1,Fuel,Pressure,43,Medium,Low
+4,6/9/2022 3:45,Backhoe_Loader_1,Engine,Temparature,82,Medium,High
+4,5/23/2022 12:25,Asphalt_Paver_1,Engine,Temparature,98,Medium,High
+4,6/11/2022 14:27,Excavator_1,Engine,Temparature,104,Medium,High
+4,6/3/2022 21:24,Articulated_Truck_1,Engine,Temparature,78,Medium,High
+4,5/16/2022 8:00,Dozer_1,Engine,Temparature,89,Medium,High
+4,6/17/2022 7:14,Dozer_1,Drive,Transmission Pressure,246,Medium,Medium
+4,5/14/2022 11:42,Backhoe_Loader_1,Drive,Transmission Pressure,292,Medium,Medium
+4,6/7/2022 3:43,Excavator_1,Drive,Transmission Pressure,263,Medium,Medium
+4,5/21/2022 11:13,Articulated_Truck_1,Drive,Transmission Pressure,335,Medium,Medium
+4,5/7/2022 21:40,Asphalt_Paver_1,Drive,Transmission Pressure,259,Medium,Medium
+5,5/29/2022 0:32,Excavator_1,Drive,Pedal Sensor,3.72617889354469,Medium,Low
+5,6/1/2022 0:48,Articulated_Truck_1,Drive,Pedal Sensor,4.4,Medium,Low
+5,6/5/2022 1:06,Backhoe_Loader_1,Drive,Pedal Sensor,4.40946560893822,Medium,Low
+5,5/28/2022 3:30,Dozer_1,Drive,Pedal Sensor,4.78457944540349,High,Low
+5,6/28/2022 4:42,Asphalt_Paver_1,Drive,Pedal Sensor,3.78,Medium,Low
+5,6/24/2022 17:00,Dozer_1,Engine,Speed,1456,Medium,Medium
+5,5/17/2022 8:18,Asphalt_Paver_1,Engine,Speed,1538,Medium,Medium
+5,6/28/2022 6:46,Excavator_1,Engine,Speed,1523,Medium,Medium
+5,6/23/2022 11:02,Articulated_Truck_1,Engine,Speed,1750,Medium,Medium
+5,6/23/2022 6:41,Backhoe_Loader_1,Engine,Speed,1390,Medium,Medium
+5,5/22/2022 12:43,Backhoe_Loader_1,Misc,System Voltage,14.996014571624,Medium,High
+5,6/8/2022 13:17,Dozer_1,Misc,System Voltage,13.8674362332901,Medium,High
+5,6/20/2022 12:05,Excavator_1,Misc,System Voltage,13.7606124481358,Medium,High
+5,6/23/2022 20:53,Articulated_Truck_1,Misc,System Voltage,13.1,Medium,High
+5,5/29/2022 1:31,Asphalt_Paver_1,Misc,System Voltage,15.42,High,High
+5,5/8/2022 8:35,Asphalt_Paver_1,Fuel,Water in Fuel,1413,Medium,High
+5,6/21/2022 11:20,Excavator_1,Fuel,Water in Fuel,276,Medium,High
+5,6/6/2022 18:13,Dozer_1,Fuel,Water in Fuel,287,Medium,High
+5,5/12/2022 2:05,Articulated_Truck_1,Fuel,Water in Fuel,70,Medium,High
+5,6/19/2022 0:00,Backhoe_Loader_1,Fuel,Water in Fuel,125,Medium,High
+6,5/2/2022 8:37,Backhoe_Loader_1,Misc,Exhaust Gas Temparature,223,Medium,High
+6,6/15/2022 13:51,Excavator_1,Misc,Exhaust Gas Temparature,312,Medium,High
+6,6/29/2022 14:50,Articulated_Truck_1,Misc,Exhaust Gas Temparature,210,Medium,High
+6,5/4/2022 21:10,Dozer_1,Misc,Exhaust Gas Temparature,368,High,High
+6,6/11/2022 3:24,Asphalt_Paver_1,Misc,Exhaust Gas Temparature,323,Medium,High
+6,6/3/2022 15:23,Dozer_1,Fuel,Level,6,Medium,Low
+6,6/7/2022 14:19,Articulated_Truck_1,Fuel,Level,9,Medium,Low
+6,6/28/2022 8:12,Asphalt_Paver_1,Fuel,Level,1,Low,Low
+6,6/3/2022 18:21,Excavator_1,Fuel,Level,10,Medium,Low
+6,5/23/2022 18:45,Backhoe_Loader_1,Fuel,Level,5,Medium,Low
+6,6/20/2022 15:06,Excavator_1,Engine,Oil Pressure,60,Medium,High
+6,6/3/2022 11:49,Asphalt_Paver_1,Engine,Oil Pressure,62,Medium,High
+6,6/21/2022 17:50,Articulated_Truck_1,Engine,Oil Pressure,67,High,High
+6,6/28/2022 13:49,Dozer_1,Engine,Oil Pressure,61,Medium,High
+6,5/26/2022 15:48,Backhoe_Loader_1,Engine,Oil Pressure,51,Medium,High
+6,6/23/2022 17:33,Backhoe_Loader_1,Drive,Transmission Pressure,376,Medium,Medium
+6,5/27/2022 23:46,Dozer_1,Drive,Transmission Pressure,222,Medium,Medium
+6,6/28/2022 23:55,Asphalt_Paver_1,Drive,Transmission Pressure,332,Medium,Medium
+6,6/29/2022 2:58,Articulated_Truck_1,Drive,Transmission Pressure,375,Medium,Medium
+6,5/6/2022 5:00,Excavator_1,Drive,Transmission Pressure,255,Medium,Medium
+7,5/16/2022 7:59,Asphalt_Paver_1,Misc,Hydraulic Pump Rate,113,Medium,Medium
+7,6/16/2022 20:11,Backhoe_Loader_1,Misc,Hydraulic Pump Rate,83,Medium,Medium
+7,6/29/2022 21:21,Articulated_Truck_1,Misc,Hydraulic Pump Rate,118,Medium,Medium
+7,5/14/2022 13:26,Excavator_1,Misc,Hydraulic Pump Rate,92,Medium,Medium
+7,6/19/2022 5:59,Dozer_1,Misc,Hydraulic Pump Rate,119,Medium,Medium
+7,5/22/2022 15:47,Backhoe_Loader_1,Drive,Pedal Sensor,3.80759870831088,Medium,Low
+7,5/9/2022 12:13,Dozer_1,Drive,Pedal Sensor,3.63248849083449,Medium,Low
+7,5/5/2022 13:18,Excavator_1,Drive,Pedal Sensor,3.27235288707971,Medium,Low
+7,6/24/2022 3:34,Asphalt_Paver_1,Drive,Pedal Sensor,3.12,Medium,Low
+7,6/3/2022 19:01,Articulated_Truck_1,Drive,Pedal Sensor,3.9,Medium,Low
+7,5/30/2022 18:55,Asphalt_Paver_1,Engine,Temparature,87,Medium,High
+7,5/28/2022 23:52,Articulated_Truck_1,Engine,Temparature,80,Medium,High
+7,5/12/2022 8:33,Dozer_1,Engine,Temparature,91,Medium,High
+7,6/26/2022 19:35,Excavator_1,Engine,Temparature,91,Medium,High
+7,5/19/2022 7:14,Backhoe_Loader_1,Engine,Temparature,97,Medium,High
+7,5/19/2022 10:03,Dozer_1,Fuel,Temparature,258,Medium,High
+7,6/27/2022 21:18,Backhoe_Loader_1,Fuel,Temparature,225,Medium,High
+7,5/13/2022 22:39,Excavator_1,Fuel,Temparature,287,Medium,High
+7,5/9/2022 3:18,Asphalt_Paver_1,Fuel,Temparature,398,Medium,High
+7,5/2/2022 15:33,Articulated_Truck_1,Fuel,Temparature,0,Medium,High
+8,5/18/2022 16:12,Backhoe_Loader_1,Misc,Air Filter Pressure,27,Medium,Medium
+8,5/5/2022 11:01,Dozer_1,Misc,Air Filter Pressure,21,Medium,Medium
+8,6/3/2022 0:36,Articulated_Truck_1,Misc,Air Filter Pressure,23,Medium,Medium
+8,5/21/2022 7:16,Asphalt_Paver_1,Misc,Air Filter Pressure,25,Medium,Medium
+8,5/29/2022 19:50,Excavator_1,Misc,Air Filter Pressure,27,Medium,Medium
+8,6/22/2022 15:54,Asphalt_Paver_1,Drive,Brake Control,10,Medium,Medium
+8,6/18/2022 14:11,Dozer_1,Drive,Brake Control,8,Medium,Medium
+8,6/20/2022 1:28,Excavator_1,Drive,Brake Control,8,Medium,Medium
+8,5/16/2022 9:07,Articulated_Truck_1,Drive,Brake Control,8,Medium,Medium
+8,6/4/2022 22:55,Backhoe_Loader_1,Drive,Brake Control,3,Medium,Medium
+8,5/21/2022 21:04,Dozer_1,Fuel,Pressure,48,Medium,Low
+8,6/26/2022 11:53,Backhoe_Loader_1,Fuel,Pressure,59,Medium,Low
+8,5/15/2022 15:03,Asphalt_Paver_1,Fuel,Pressure,60,Medium,Low
+8,6/9/2022 14:12,Articulated_Truck_1,Fuel,Pressure,46,Medium,Low
+8,5/7/2022 0:43,Excavator_1,Fuel,Pressure,36,Medium,Low
+8,5/9/2022 12:13,Dozer_1,Engine,Speed,1357,Medium,Medium
+8,5/1/2022 19:51,Articulated_Truck_1,Engine,Speed,1600,Medium,Medium
+8,5/3/2022 22:17,Asphalt_Paver_1,Engine,Speed,1391,Medium,Medium
+8,5/9/2022 12:19,Excavator_1,Engine,Speed,1573,Medium,Medium
+8,6/2/2022 17:20,Backhoe_Loader_1,Engine,Speed,1429,Medium,Medium
+9,5/3/2022 12:48,Dozer_1,Drive,Brake Control,5,Medium,Medium
+9,5/12/2022 7:33,Asphalt_Paver_1,Drive,Brake Control,5,Medium,Medium
+9,6/16/2022 18:04,Articulated_Truck_1,Drive,Brake Control,3,Medium,Medium
+9,5/2/2022 13:13,Backhoe_Loader_1,Drive,Brake Control,6,Medium,Medium
+9,5/19/2022 16:41,Excavator_1,Drive,Brake Control,7,Medium,Medium
+9,5/30/2022 6:17,Asphalt_Paver_1,Engine,Oil Pressure,61,Medium,High
+9,5/20/2022 11:47,Backhoe_Loader_1,Engine,Oil Pressure,49,Medium,High
+9,5/11/2022 8:31,Excavator_1,Engine,Oil Pressure,60,Medium,High
+9,5/30/2022 14:08,Dozer_1,Engine,Oil Pressure,25,Low,High
+9,6/18/2022 10:48,Articulated_Truck_1,Engine,Oil Pressure,64,Medium,High
+9,5/18/2022 15:57,Asphalt_Paver_1,Misc,System Voltage,13.01,Medium,High
+9,5/16/2022 22:24,Articulated_Truck_1,Misc,System Voltage,12.7,Medium,High
+9,6/5/2022 5:05,Dozer_1,Misc,System Voltage,14.3795483949791,Medium,High
+9,6/24/2022 20:26,Excavator_1,Misc,System Voltage,12.7140926222136,Medium,High
+9,5/26/2022 20:01,Backhoe_Loader_1,Misc,System Voltage,13.5245302304663,Medium,High
+9,5/20/2022 12:23,Backhoe_Loader_1,Fuel,Water in Fuel,1697,Medium,High
+9,5/10/2022 9:05,Dozer_1,Fuel,Water in Fuel,1315,Medium,High
+9,5/18/2022 21:05,Excavator_1,Fuel,Water in Fuel,422,Medium,High
+9,5/21/2022 11:04,Asphalt_Paver_1,Fuel,Water in Fuel,887,Medium,High
+9,5/26/2022 18:34,Articulated_Truck_1,Fuel,Water in Fuel,73,Medium,High
+10,5/27/2022 18:48,Backhoe_Loader_1,Drive,Brake Control,9,Medium,Medium
+10,5/13/2022 18:58,Articulated_Truck_1,Drive,Brake Control,7,Medium,Medium
+10,6/7/2022 11:45,Excavator_1,Drive,Brake Control,10,Medium,Medium
+10,5/10/2022 19:19,Dozer_1,Drive,Brake Control,2,Medium,Medium
+10,5/14/2022 12:07,Asphalt_Paver_1,Drive,Brake Control,7,Medium,Medium
+10,5/5/2022 21:47,Dozer_1,Misc,Exhaust Gas Temparature,347,Medium,High
+10,6/17/2022 4:21,Articulated_Truck_1,Misc,Exhaust Gas Temparature,222,Medium,High
+10,5/27/2022 15:05,Backhoe_Loader_1,Misc,Exhaust Gas Temparature,354,Medium,High
+10,6/1/2022 5:43,Excavator_1,Misc,Exhaust Gas Temparature,359,Medium,High
+10,6/19/2022 2:42,Asphalt_Paver_1,Misc,Exhaust Gas Temparature,338,Medium,High
+10,6/24/2022 9:38,Articulated_Truck_1,Fuel,Level,9,Medium,Low
+10,5/1/2022 20:42,Backhoe_Loader_1,Fuel,Level,8,Medium,Low
+10,6/11/2022 4:01,Asphalt_Paver_1,Fuel,Level,6,Medium,Low
+10,5/5/2022 15:16,Dozer_1,Fuel,Level,3,Medium,Low
+10,5/25/2022 8:33,Excavator_1,Fuel,Level,7,Medium,Low
+10,5/25/2022 13:26,Asphalt_Paver_1,Engine,Speed,1331,Medium,Medium
+10,6/6/2022 17:21,Dozer_1,Engine,Speed,1581,Medium,Medium
+10,5/9/2022 9:14,Articulated_Truck_1,Engine,Speed,1800,High,Medium
+10,6/17/2022 21:14,Backhoe_Loader_1,Engine,Speed,1521,Medium,Medium
+10,6/19/2022 18:36,Excavator_1,Engine,Speed,1760,Medium,Medium
+11,5/4/2022 23:13,Asphalt_Paver_1,Misc,Hydraulic Pump Rate,99,Medium,Medium
+11,5/29/2022 10:17,Dozer_1,Misc,Hydraulic Pump Rate,120,Medium,Medium
+11,5/19/2022 7:13,Excavator_1,Misc,Hydraulic Pump Rate,105,Medium,Medium
+11,5/6/2022 16:01,Articulated_Truck_1,Misc,Hydraulic Pump Rate,110,Medium,Medium
+11,6/16/2022 21:07,Backhoe_Loader_1,Misc,Hydraulic Pump Rate,88,Medium,Medium
+11,6/21/2022 18:05,Articulated_Truck_1,Engine,Oil Pressure,72,High,High
+11,5/4/2022 8:34,Excavator_1,Engine,Oil Pressure,42,Medium,High
+11,5/27/2022 12:21,Asphalt_Paver_1,Engine,Oil Pressure,56,Medium,High
+11,5/22/2022 1:06,Dozer_1,Engine,Oil Pressure,28,Medium,High
+11,6/20/2022 9:55,Backhoe_Loader_1,Engine,Oil Pressure,47,Medium,High
+11,6/22/2022 14:49,Asphalt_Paver_1,Drive,Transmission Pressure,437,Medium,Medium
+11,5/6/2022 7:56,Dozer_1,Drive,Transmission Pressure,394,Medium,Medium
+11,5/7/2022 0:00,Articulated_Truck_1,Drive,Transmission Pressure,275,Medium,Medium
+11,5/6/2022 20:00,Excavator_1,Drive,Transmission Pressure,443,Medium,Medium
+11,5/7/2022 18:50,Backhoe_Loader_1,Drive,Transmission Pressure,385,Medium,Medium
+11,6/26/2022 4:18,Excavator_1,Fuel,Temparature,389,Medium,High
+11,6/25/2022 12:15,Backhoe_Loader_1,Fuel,Temparature,224,Medium,High
+11,5/14/2022 17:05,Asphalt_Paver_1,Fuel,Temparature,272,Medium,High
+11,6/28/2022 19:18,Articulated_Truck_1,Fuel,Temparature,0,Medium,High
+11,6/10/2022 14:57,Dozer_1,Fuel,Temparature,247,Medium,High
+12,6/24/2022 1:28,Excavator_1,Misc,Air Filter Pressure,22,Medium,Medium
+12,6/25/2022 8:18,Articulated_Truck_1,Misc,Air Filter Pressure,25,Medium,Medium
+12,6/2/2022 21:54,Backhoe_Loader_1,Misc,Air Filter Pressure,25,Medium,Medium
+12,6/8/2022 14:35,Asphalt_Paver_1,Misc,Air Filter Pressure,34,Medium,Medium
+12,6/30/2022 15:55,Dozer_1,Misc,Air Filter Pressure,28,Medium,Medium
+12,5/5/2022 21:50,Backhoe_Loader_1,Drive,Pedal Sensor,4.48228439860258,Medium,Low
+12,5/14/2022 9:28,Excavator_1,Drive,Pedal Sensor,4.54230551014501,Medium,Low
+12,6/23/2022 0:10,Articulated_Truck_1,Drive,Pedal Sensor,3.7,Medium,Low
+12,6/22/2022 21:04,Dozer_1,Drive,Pedal Sensor,4.69005266943066,Medium,Low
+12,5/6/2022 8:31,Asphalt_Paver_1,Drive,Pedal Sensor,4.77,High,Low
+12,5/16/2022 12:24,Dozer_1,Fuel,Pressure,40,Medium,Low
+12,5/12/2022 21:22,Excavator_1,Fuel,Pressure,35,Low,Low
+12,6/11/2022 11:11,Asphalt_Paver_1,Fuel,Pressure,42,Medium,Low
+12,6/29/2022 13:37,Articulated_Truck_1,Fuel,Pressure,56,Medium,Low
+12,5/10/2022 4:48,Backhoe_Loader_1,Fuel,Pressure,49,Medium,Low
+12,6/6/2022 9:36,Excavator_1,Engine,Speed,1644,Medium,Medium
+12,6/28/2022 17:11,Backhoe_Loader_1,Engine,Speed,1720,Medium,Medium
+12,5/11/2022 11:42,Asphalt_Paver_1,Engine,Speed,1424,Medium,Medium
+12,5/18/2022 20:55,Dozer_1,Engine,Speed,1529,Medium,Medium
+12,6/13/2022 9:02,Articulated_Truck_1,Engine,Speed,1345,Medium,Medium
+13,6/10/2022 6:17,Dozer_1,Misc,System Voltage,14.7194443541909,Medium,High
+13,6/3/2022 5:52,Asphalt_Paver_1,Misc,System Voltage,13.01,Medium,High
+13,6/9/2022 6:04,Excavator_1,Misc,System Voltage,12.2824295791822,Medium,High
+13,5/28/2022 6:14,Articulated_Truck_1,Misc,System Voltage,14.1,Medium,High
+13,6/28/2022 19:01,Backhoe_Loader_1,Misc,System Voltage,15.8231362748058,High,High
+13,6/10/2022 15:00,Backhoe_Loader_1,Engine,Temparature,79,Medium,High
+13,6/21/2022 5:48,Dozer_1,Engine,Temparature,89,Medium,High
+13,5/15/2022 5:11,Asphalt_Paver_1,Engine,Temparature,87,Medium,High
+13,5/15/2022 22:24,Articulated_Truck_1,Engine,Temparature,90,Medium,High
+13,5/24/2022 18:41,Excavator_1,Engine,Temparature,75,Medium,High
+13,6/5/2022 7:06,Dozer_1,Drive,Transmission Pressure,223,Medium,Medium
+13,6/7/2022 3:24,Backhoe_Loader_1,Drive,Transmission Pressure,286,Medium,Medium
+13,5/11/2022 3:11,Excavator_1,Drive,Transmission Pressure,403,Medium,Medium
+13,6/10/2022 17:48,Asphalt_Paver_1,Drive,Transmission Pressure,383,Medium,Medium
+13,6/12/2022 22:26,Articulated_Truck_1,Drive,Transmission Pressure,300,Medium,Medium
+13,6/16/2022 9:20,Backhoe_Loader_1,Fuel,Water in Fuel,387,Medium,High
+13,5/24/2022 0:58,Articulated_Truck_1,Fuel,Water in Fuel,78,Medium,High
+13,6/4/2022 18:32,Dozer_1,Fuel,Water in Fuel,231,Medium,High
+13,6/17/2022 15:59,Excavator_1,Fuel,Water in Fuel,544,Medium,High
+13,6/13/2022 19:58,Asphalt_Paver_1,Fuel,Water in Fuel,776,Medium,High
+14,6/30/2022 20:17,Asphalt_Paver_1,Misc,Exhaust Gas Temparature,195,Medium,High
+14,6/19/2022 23:44,Dozer_1,Misc,Exhaust Gas Temparature,344,Medium,High
+14,5/9/2022 12:01,Backhoe_Loader_1,Misc,Exhaust Gas Temparature,364,Medium,High
+14,5/6/2022 13:30,Excavator_1,Misc,Exhaust Gas Temparature,306,Medium,High
+14,5/21/2022 20:03,Articulated_Truck_1,Misc,Exhaust Gas Temparature,265,Medium,High
+14,5/28/2022 5:42,Dozer_1,Fuel,Level,6,Medium,Low
+14,6/3/2022 18:24,Asphalt_Paver_1,Fuel,Level,4,Medium,Low
+14,5/10/2022 2:55,Excavator_1,Fuel,Level,4,Medium,Low
+14,6/20/2022 9:17,Articulated_Truck_1,Fuel,Level,9,Medium,Low
+14,5/12/2022 15:06,Backhoe_Loader_1,Fuel,Level,6,Medium,Low
+14,6/17/2022 0:42,Asphalt_Paver_1,Engine,Oil Pressure,49,Medium,High
+14,5/27/2022 17:18,Articulated_Truck_1,Engine,Oil Pressure,44,Medium,High
+14,5/21/2022 20:21,Backhoe_Loader_1,Engine,Oil Pressure,45,Medium,High
+14,5/30/2022 21:15,Excavator_1,Engine,Oil Pressure,37,Medium,High
+14,5/29/2022 13:59,Dozer_1,Engine,Oil Pressure,50,Medium,High
+14,6/16/2022 0:37,Articulated_Truck_1,Drive,Pedal Sensor,4.4,Medium,Low
+14,5/6/2022 18:34,Backhoe_Loader_1,Drive,Pedal Sensor,3.53667605834637,Medium,Low
+14,5/12/2022 20:40,Dozer_1,Drive,Pedal Sensor,4.43216963907247,Medium,Low
+14,6/9/2022 19:43,Excavator_1,Drive,Pedal Sensor,4.88319137048161,High,Low
+14,6/7/2022 20:12,Asphalt_Paver_1,Drive,Pedal Sensor,3.79,Medium,Low
+15,5/11/2022 11:58,Excavator_1,Misc,Hydraulic Pump Rate,77,Medium,Medium
+15,5/6/2022 15:35,Asphalt_Paver_1,Misc,Hydraulic Pump Rate,88,Medium,Medium
+15,6/30/2022 13:37,Articulated_Truck_1,Misc,Hydraulic Pump Rate,120,Medium,Medium
+15,5/12/2022 3:24,Dozer_1,Misc,Hydraulic Pump Rate,111,Medium,Medium
+15,6/23/2022 12:01,Backhoe_Loader_1,Misc,Hydraulic Pump Rate,85,Medium,Medium
+15,5/1/2022 13:12,Excavator_1,Engine,Temparature,95,Medium,High
+15,5/13/2022 7:50,Dozer_1,Engine,Temparature,95,Medium,High
+15,6/14/2022 16:03,Articulated_Truck_1,Engine,Temparature,100,Medium,High
+15,5/5/2022 0:55,Asphalt_Paver_1,Engine,Temparature,78,Medium,High
+15,6/28/2022 11:29,Backhoe_Loader_1,Engine,Temparature,93,Medium,High
+15,6/29/2022 1:08,Articulated_Truck_1,Drive,Transmission Pressure,337,Medium,Medium
+15,6/25/2022 12:17,Asphalt_Paver_1,Drive,Transmission Pressure,306,Medium,Medium
+15,5/23/2022 21:06,Excavator_1,Drive,Transmission Pressure,381,Medium,Medium
+15,6/13/2022 6:03,Dozer_1,Drive,Transmission Pressure,253,Medium,Medium
+15,6/30/2022 15:28,Backhoe_Loader_1,Drive,Transmission Pressure,272,Medium,Medium
+15,6/23/2022 8:05,Backhoe_Loader_1,Fuel,Temparature,363,Medium,High
+15,5/30/2022 23:01,Excavator_1,Fuel,Temparature,318,Medium,High
+15,6/27/2022 1:47,Dozer_1,Fuel,Temparature,326,Medium,High
+15,6/26/2022 4:23,Asphalt_Paver_1,Fuel,Temparature,291,Medium,High
+15,5/23/2022 4:38,Articulated_Truck_1,Fuel,Temparature,0,Medium,High
+16,5/10/2022 14:45,Backhoe_Loader_1,Misc,Air Filter Pressure,27,Medium,Medium
+16,5/23/2022 15:44,Excavator_1,Misc,Air Filter Pressure,23,Medium,Medium
+16,5/19/2022 20:12,Asphalt_Paver_1,Misc,Air Filter Pressure,27,Medium,Medium
+16,5/17/2022 20:48,Dozer_1,Misc,Air Filter Pressure,31,Medium,Medium
+16,5/21/2022 1:03,Articulated_Truck_1,Misc,Air Filter Pressure,27,Medium,Medium
+16,6/2/2022 17:40,Dozer_1,Drive,Pedal Sensor,3.16496360711468,Medium,Low
+16,5/9/2022 14:21,Articulated_Truck_1,Drive,Pedal Sensor,3.6,Medium,Low
+16,5/25/2022 11:57,Asphalt_Paver_1,Drive,Pedal Sensor,3.73,Medium,Low
+16,6/21/2022 3:11,Excavator_1,Drive,Pedal Sensor,3.68591812038558,Medium,Low
+16,6/16/2022 12:45,Backhoe_Loader_1,Drive,Pedal Sensor,4.88109404124293,High,Low
+16,5/31/2022 0:07,Asphalt_Paver_1,Fuel,Pressure,56,Medium,Low
+16,5/2/2022 17:24,Dozer_1,Fuel,Pressure,48,Medium,Low
+16,6/18/2022 10:52,Articulated_Truck_1,Fuel,Pressure,67,High,Low
+16,5/22/2022 7:50,Backhoe_Loader_1,Fuel,Pressure,57,Medium,Low
+16,5/19/2022 21:20,Excavator_1,Fuel,Pressure,50,Medium,Low
+16,6/22/2022 2:38,Backhoe_Loader_1,Engine,Speed,1744,Medium,Medium
+16,5/23/2022 1:33,Articulated_Truck_1,Engine,Speed,1455,Medium,Medium
+16,5/3/2022 10:01,Dozer_1,Engine,Speed,1364,Medium,Medium
+16,5/12/2022 3:56,Asphalt_Paver_1,Engine,Speed,1554,Medium,Medium
+16,5/4/2022 5:16,Excavator_1,Engine,Speed,1664,Medium,Medium
+17,5/8/2022 7:09,Dozer_1,Drive,Brake Control,9,Medium,Medium
+17,5/9/2022 5:29,Backhoe_Loader_1,Drive,Brake Control,2,Medium,Medium
+17,6/17/2022 5:25,Articulated_Truck_1,Drive,Brake Control,2,Medium,Medium
+17,6/7/2022 19:51,Asphalt_Paver_1,Drive,Brake Control,8,Medium,Medium
+17,5/10/2022 15:23,Excavator_1,Drive,Brake Control,4,Medium,Medium
+17,5/4/2022 14:15,Asphalt_Paver_1,Engine,Oil Pressure,26,Medium,High
+17,5/23/2022 23:09,Articulated_Truck_1,Engine,Oil Pressure,33,Medium,High
+17,5/8/2022 8:31,Excavator_1,Engine,Oil Pressure,32,Medium,High
+17,5/13/2022 19:38,Backhoe_Loader_1,Engine,Oil Pressure,40,Medium,High
+17,6/5/2022 3:39,Dozer_1,Engine,Oil Pressure,43,Medium,High
+17,5/23/2022 11:17,Articulated_Truck_1,Misc,System Voltage,14.4,Medium,High
+17,5/1/2022 12:55,Excavator_1,Misc,System Voltage,12.016341002812,Medium,High
+17,5/17/2022 12:45,Backhoe_Loader_1,Misc,System Voltage,14.2861947590073,Medium,High
+17,6/8/2022 15:27,Dozer_1,Misc,System Voltage,15.2609734713185,High,High
+17,6/15/2022 1:04,Asphalt_Paver_1,Misc,System Voltage,15.7,High,High
+17,6/27/2022 23:49,Backhoe_Loader_1,Fuel,Water in Fuel,1230,Medium,High
+17,5/25/2022 0:08,Excavator_1,Fuel,Water in Fuel,1760,Medium,High
+17,6/9/2022 4:10,Asphalt_Paver_1,Fuel,Water in Fuel,539,Medium,High
+17,6/6/2022 23:08,Dozer_1,Fuel,Water in Fuel,1210,Medium,High
+17,5/25/2022 21:48,Articulated_Truck_1,Fuel,Water in Fuel,81,Medium,High
+18,6/12/2022 14:23,Dozer_1,Drive,Brake Control,2,Medium,Medium
+18,5/5/2022 19:26,Backhoe_Loader_1,Drive,Brake Control,10,Medium,Medium
+18,5/20/2022 6:13,Articulated_Truck_1,Drive,Brake Control,8,Medium,Medium
+18,5/24/2022 7:16,Asphalt_Paver_1,Drive,Brake Control,10,Medium,Medium
+18,5/28/2022 0:21,Excavator_1,Drive,Brake Control,7,Medium,Medium
+18,6/25/2022 14:13,Backhoe_Loader_1,Misc,Exhaust Gas Temparature,298,Medium,High
+18,6/29/2022 22:26,Excavator_1,Misc,Exhaust Gas Temparature,213,Medium,High
+18,5/25/2022 0:20,Articulated_Truck_1,Misc,Exhaust Gas Temparature,240,Medium,High
+18,6/29/2022 21:59,Asphalt_Paver_1,Misc,Exhaust Gas Temparature,263,Medium,High
+18,6/17/2022 10:14,Dozer_1,Misc,Exhaust Gas Temparature,202,Medium,High
+18,5/9/2022 1:20,Dozer_1,Fuel,Level,3,Medium,Low
+18,6/15/2022 16:21,Backhoe_Loader_1,Fuel,Level,6,Medium,Low
+18,6/27/2022 14:26,Asphalt_Paver_1,Fuel,Level,6,Medium,Low
+18,6/7/2022 2:38,Articulated_Truck_1,Fuel,Level,7,Medium,Low
+18,6/23/2022 7:57,Excavator_1,Fuel,Level,6,Medium,Low
+18,5/16/2022 21:44,Backhoe_Loader_1,Engine,Temparature,93,Medium,High
+18,5/27/2022 14:24,Asphalt_Paver_1,Engine,Temparature,90,Medium,High
+18,5/30/2022 7:29,Articulated_Truck_1,Engine,Temparature,102,Medium,High
+18,6/10/2022 17:46,Dozer_1,Engine,Temparature,100,Medium,High
+18,6/27/2022 11:20,Excavator_1,Engine,Temparature,79,Medium,High
+19,6/22/2022 8:46,Asphalt_Paver_1,Drive,Brake Control,7,Medium,Medium
+19,6/24/2022 2:03,Articulated_Truck_1,Drive,Brake Control,4,Medium,Medium
+19,6/7/2022 1:33,Backhoe_Loader_1,Drive,Brake Control,10,Medium,Medium
+19,6/17/2022 17:04,Dozer_1,Drive,Brake Control,7,Medium,Medium
+19,5/16/2022 16:26,Excavator_1,Drive,Brake Control,8,Medium,Medium
+19,6/20/2022 23:33,Asphalt_Paver_1,Misc,Hydraulic Pump Rate,84,Medium,Medium
+19,5/23/2022 7:36,Backhoe_Loader_1,Misc,Hydraulic Pump Rate,117,Medium,Medium
+19,5/21/2022 12:46,Excavator_1,Misc,Hydraulic Pump Rate,96,Medium,Medium
+19,5/30/2022 19:30,Dozer_1,Misc,Hydraulic Pump Rate,113,Medium,Medium
+19,6/30/2022 18:55,Articulated_Truck_1,Misc,Hydraulic Pump Rate,122,Medium,Medium
+19,6/20/2022 2:33,Backhoe_Loader_1,Engine,Speed,1666,Medium,Medium
+19,6/20/2022 13:46,Articulated_Truck_1,Engine,Speed,1650,Medium,Medium
+19,5/12/2022 4:52,Asphalt_Paver_1,Engine,Speed,1481,Medium,Medium
+19,5/3/2022 7:01,Excavator_1,Engine,Speed,1712,Medium,Medium
+19,6/4/2022 13:31,Dozer_1,Engine,Speed,1665,Medium,Medium
+19,5/20/2022 13:06,Articulated_Truck_1,Fuel,Temparature,0,Medium,High
+19,6/4/2022 19:05,Excavator_1,Fuel,Temparature,295,Medium,High
+19,5/2/2022 7:43,Asphalt_Paver_1,Fuel,Temparature,395,Medium,High
+19,5/23/2022 17:34,Backhoe_Loader_1,Fuel,Temparature,250,Medium,High
+19,5/26/2022 0:09,Dozer_1,Fuel,Temparature,377,Medium,High
+20,6/14/2022 12:34,Backhoe_Loader_1,Misc,Air Filter Pressure,23,Medium,Medium
+20,6/15/2022 16:45,Articulated_Truck_1,Misc,Air Filter Pressure,29,Medium,Medium
+20,5/23/2022 4:38,Dozer_1,Misc,Air Filter Pressure,31,Medium,Medium
+20,6/30/2022 20:00,Excavator_1,Misc,Air Filter Pressure,25,Medium,Medium
+20,6/2/2022 17:54,Asphalt_Paver_1,Misc,Air Filter Pressure,24,Medium,Medium
+20,6/28/2022 5:59,Backhoe_Loader_1,Drive,Brake Control,9,Medium,Medium
+20,6/2/2022 2:28,Excavator_1,Drive,Brake Control,5,Medium,Medium
+20,5/12/2022 9:48,Articulated_Truck_1,Drive,Brake Control,5,Medium,Medium
+20,5/30/2022 18:53,Asphalt_Paver_1,Drive,Brake Control,8,Medium,Medium
+20,5/26/2022 6:06,Dozer_1,Drive,Brake Control,10,Medium,Medium
+20,6/19/2022 14:44,Asphalt_Paver_1,Engine,Oil Pressure,29,Medium,High
+20,6/2/2022 11:23,Backhoe_Loader_1,Engine,Oil Pressure,41,Medium,High
+20,5/19/2022 10:27,Excavator_1,Engine,Oil Pressure,58,Medium,High
+20,6/21/2022 14:25,Dozer_1,Engine,Oil Pressure,54,Medium,High
+20,5/8/2022 17:09,Articulated_Truck_1,Engine,Oil Pressure,55,Medium,High
+20,5/25/2022 2:23,Excavator_1,Fuel,Pressure,45,Medium,Low
+20,5/2/2022 14:34,Dozer_1,Fuel,Pressure,38,Medium,Low
+20,6/9/2022 3:52,Articulated_Truck_1,Fuel,Pressure,62,Medium,Low
+20,6/9/2022 0:47,Asphalt_Paver_1,Fuel,Pressure,65,High,Low
+20,6/12/2022 18:58,Backhoe_Loader_1,Fuel,Pressure,47,Medium,Low
+21,5/11/2022 20:59,Backhoe_Loader_1,Engine,Speed,1765,Medium,Medium
+21,6/6/2022 19:04,Excavator_1,Engine,Speed,1712,Medium,Medium
+21,5/9/2022 6:46,Asphalt_Paver_1,Engine,Speed,1300,Medium,Medium
+21,6/12/2022 5:42,Dozer_1,Engine,Speed,1398,Medium,Medium
+21,6/2/2022 11:18,Articulated_Truck_1,Engine,Speed,1640,Medium,Medium
+21,6/26/2022 15:31,Excavator_1,Misc,System Voltage,15.1925724290097,High,High
+21,5/29/2022 16:46,Articulated_Truck_1,Misc,System Voltage,14.7,Medium,High
+21,6/24/2022 4:29,Backhoe_Loader_1,Misc,System Voltage,15.0323467078955,High,High
+21,5/9/2022 21:40,Dozer_1,Misc,System Voltage,14.4000777397312,Medium,High
+21,6/14/2022 9:13,Asphalt_Paver_1,Misc,System Voltage,13.11,Medium,High
+21,6/10/2022 13:16,Asphalt_Paver_1,Drive,Transmission Pressure,249,Medium,Medium
+21,6/27/2022 13:06,Excavator_1,Drive,Transmission Pressure,374,Medium,Medium
+21,6/12/2022 21:34,Articulated_Truck_1,Drive,Transmission Pressure,250,Medium,Medium
+21,5/23/2022 1:36,Dozer_1,Drive,Transmission Pressure,402,Medium,Medium
+21,6/6/2022 17:28,Backhoe_Loader_1,Drive,Transmission Pressure,404,Medium,Medium
+21,6/10/2022 17:56,Asphalt_Paver_1,Fuel,Water in Fuel,1161,Medium,High
+21,6/5/2022 0:55,Articulated_Truck_1,Fuel,Water in Fuel,88,Medium,High
+21,6/3/2022 1:26,Backhoe_Loader_1,Fuel,Water in Fuel,1300,Medium,High
+21,5/28/2022 6:46,Dozer_1,Fuel,Water in Fuel,1491,Medium,High
+21,5/25/2022 8:41,Excavator_1,Fuel,Water in Fuel,263,Medium,High
+22,5/2/2022 7:48,Excavator_1,Misc,Exhaust Gas Temparature,240,Medium,High
+22,6/18/2022 1:20,Backhoe_Loader_1,Misc,Exhaust Gas Temparature,205,Medium,High
+22,5/27/2022 2:03,Asphalt_Paver_1,Misc,Exhaust Gas Temparature,243,Medium,High
+22,5/8/2022 10:33,Dozer_1,Misc,Exhaust Gas Temparature,332,Medium,High
+22,6/21/2022 3:15,Articulated_Truck_1,Misc,Exhaust Gas Temparature,210,Medium,High
+22,5/19/2022 2:06,Articulated_Truck_1,Fuel,Level,6,Medium,Low
+22,6/17/2022 8:17,Dozer_1,Fuel,Level,8,Medium,Low
+22,6/5/2022 14:21,Asphalt_Paver_1,Fuel,Level,7,Medium,Low
+22,6/21/2022 16:09,Backhoe_Loader_1,Fuel,Level,8,Medium,Low
+22,5/17/2022 15:55,Excavator_1,Fuel,Level,9,Medium,Low
+22,6/4/2022 17:55,Excavator_1,Engine,Oil Pressure,26,Medium,High
+22,5/24/2022 13:49,Asphalt_Paver_1,Engine,Oil Pressure,32,Medium,High
+22,5/28/2022 5:24,Dozer_1,Engine,Oil Pressure,48,Medium,High
+22,6/25/2022 20:18,Articulated_Truck_1,Engine,Oil Pressure,65,High,High
+22,6/3/2022 22:35,Backhoe_Loader_1,Engine,Oil Pressure,39,Medium,High
+22,5/7/2022 11:39,Excavator_1,Drive,Pedal Sensor,4.81656671338541,High,Low
+22,6/17/2022 17:06,Articulated_Truck_1,Drive,Pedal Sensor,3.6,Medium,Low
+22,6/17/2022 11:11,Asphalt_Paver_1,Drive,Pedal Sensor,4.2,Medium,Low
+22,5/9/2022 2:05,Backhoe_Loader_1,Drive,Pedal Sensor,3.14204320723515,Medium,Low
+22,6/2/2022 18:29,Dozer_1,Drive,Pedal Sensor,3.69778036117471,Medium,Low
+23,6/12/2022 19:45,Asphalt_Paver_1,Misc,Hydraulic Pump Rate,88,Medium,Medium
+23,6/18/2022 19:07,Articulated_Truck_1,Misc,Hydraulic Pump Rate,123,Medium,Medium
+23,5/11/2022 14:50,Excavator_1,Misc,Hydraulic Pump Rate,80,Medium,Medium
+23,6/15/2022 11:11,Dozer_1,Misc,Hydraulic Pump Rate,90,Medium,Medium
+23,6/21/2022 5:32,Backhoe_Loader_1,Misc,Hydraulic Pump Rate,96,Medium,Medium
+23,5/30/2022 5:05,Excavator_1,Engine,Speed,1593,Medium,Medium
+23,6/27/2022 22:36,Dozer_1,Engine,Speed,1497,Medium,Medium
+23,5/9/2022 15:32,Backhoe_Loader_1,Engine,Speed,1422,Medium,Medium
+23,6/13/2022 6:30,Asphalt_Paver_1,Engine,Speed,1622,Medium,Medium
+23,5/27/2022 22:41,Articulated_Truck_1,Engine,Speed,1340,Medium,Medium
+23,5/12/2022 20:36,Backhoe_Loader_1,Drive,Transmission Pressure,231,Medium,Medium
+23,6/17/2022 2:44,Excavator_1,Drive,Transmission Pressure,399,Medium,Medium
+23,6/9/2022 23:05,Articulated_Truck_1,Drive,Transmission Pressure,321,Medium,Medium
+23,5/26/2022 16:51,Asphalt_Paver_1,Drive,Transmission Pressure,427,Medium,Medium
+23,6/25/2022 8:31,Dozer_1,Drive,Transmission Pressure,450,High,Medium
+23,5/8/2022 10:16,Asphalt_Paver_1,Fuel,Temparature,288,Medium,High
+23,6/16/2022 13:19,Articulated_Truck_1,Fuel,Temparature,0,Medium,High
+23,6/18/2022 16:45,Backhoe_Loader_1,Fuel,Temparature,376,Medium,High
+23,5/23/2022 20:40,Dozer_1,Fuel,Temparature,372,Medium,High
+23,6/26/2022 9:05,Excavator_1,Fuel,Temparature,300,Medium,High
+24,6/30/2022 5:18,Backhoe_Loader_1,Misc,Air Filter Pressure,23,Medium,Medium
+24,6/26/2022 14:59,Asphalt_Paver_1,Misc,Air Filter Pressure,32,Medium,Medium
+24,6/14/2022 22:34,Excavator_1,Misc,Air Filter Pressure,22,Medium,Medium
+24,6/23/2022 23:45,Articulated_Truck_1,Misc,Air Filter Pressure,31,Medium,Medium
+24,6/2/2022 22:34,Dozer_1,Misc,Air Filter Pressure,20,Low,Medium
+24,5/26/2022 4:44,Excavator_1,Drive,Pedal Sensor,4.25971924073969,Medium,Low
+24,5/26/2022 7:34,Backhoe_Loader_1,Drive,Pedal Sensor,3.10690086119832,Medium,Low
+24,6/14/2022 8:05,Articulated_Truck_1,Drive,Pedal Sensor,4.5,Medium,Low
+24,6/6/2022 7:17,Dozer_1,Drive,Pedal Sensor,3.92894727488635,Medium,Low
+24,5/8/2022 14:36,Asphalt_Paver_1,Drive,Pedal Sensor,4.95,High,Low
+24,6/7/2022 12:15,Articulated_Truck_1,Fuel,Pressure,56,Medium,Low
+24,5/11/2022 1:30,Asphalt_Paver_1,Fuel,Pressure,37,Medium,Low
+24,5/4/2022 4:55,Excavator_1,Fuel,Pressure,37,Medium,Low
+24,6/21/2022 15:12,Backhoe_Loader_1,Fuel,Pressure,42,Medium,Low
+24,6/17/2022 3:01,Dozer_1,Fuel,Pressure,52,Medium,Low
+24,5/27/2022 6:25,Articulated_Truck_1,Engine,Temparature,104,Medium,High
+24,6/12/2022 18:49,Asphalt_Paver_1,Engine,Temparature,105,High,High
+24,6/23/2022 10:14,Excavator_1,Engine,Temparature,81,Medium,High
+24,5/25/2022 4:47,Backhoe_Loader_1,Engine,Temparature,94,Medium,High
+24,6/23/2022 2:05,Dozer_1,Engine,Temparature,95,Medium,High
+25,5/22/2022 20:48,Articulated_Truck_1,Engine,Oil Pressure,45,Medium,High
+25,5/17/2022 23:42,Excavator_1,Engine,Oil Pressure,37,Medium,High
+25,5/4/2022 18:38,Dozer_1,Engine,Oil Pressure,45,Medium,High
+25,5/24/2022 3:55,Asphalt_Paver_1,Engine,Oil Pressure,46,Medium,High
+25,5/18/2022 23:31,Backhoe_Loader_1,Engine,Oil Pressure,55,Medium,High
+25,5/9/2022 10:36,Excavator_1,Misc,System Voltage,12.4112527953599,Medium,High
+25,5/3/2022 6:45,Dozer_1,Misc,System Voltage,14.9987392390939,Medium,High
+25,6/17/2022 23:54,Articulated_Truck_1,Misc,System Voltage,14.9,Medium,High
+25,5/2/2022 17:27,Backhoe_Loader_1,Misc,System Voltage,14.3542094077956,Medium,High
+25,5/9/2022 10:56,Asphalt_Paver_1,Misc,System Voltage,14.79,Medium,High
+25,6/15/2022 15:14,Articulated_Truck_1,Drive,Transmission Pressure,366,Medium,Medium
+25,6/25/2022 11:08,Backhoe_Loader_1,Drive,Transmission Pressure,262,Medium,Medium
+25,6/14/2022 1:45,Dozer_1,Drive,Transmission Pressure,435,Medium,Medium
+25,5/20/2022 17:20,Asphalt_Paver_1,Drive,Transmission Pressure,378,Medium,Medium
+25,5/15/2022 19:10,Excavator_1,Drive,Transmission Pressure,280,Medium,Medium
+25,6/14/2022 8:08,Excavator_1,Fuel,Water in Fuel,1643,Medium,High
+25,5/20/2022 16:53,Backhoe_Loader_1,Fuel,Water in Fuel,283,Medium,High
+25,6/30/2022 22:11,Articulated_Truck_1,Fuel,Water in Fuel,112,Medium,High
+25,5/15/2022 0:41,Asphalt_Paver_1,Fuel,Water in Fuel,416,Medium,High
+25,6/1/2022 9:23,Dozer_1,Fuel,Water in Fuel,1369,Medium,High
+26,5/2/2022 4:59,Excavator_1,Misc,Exhaust Gas Temparature,345,Medium,High
+26,5/29/2022 5:21,Backhoe_Loader_1,Misc,Exhaust Gas Temparature,265,Medium,High
+26,6/18/2022 19:57,Dozer_1,Misc,Exhaust Gas Temparature,228,Medium,High
+26,6/12/2022 9:55,Asphalt_Paver_1,Misc,Exhaust Gas Temparature,259,Medium,High
+26,6/23/2022 0:44,Articulated_Truck_1,Misc,Exhaust Gas Temparature,190,Medium,High
+26,6/6/2022 21:59,Articulated_Truck_1,Fuel,Level,5,Medium,Low
+26,6/16/2022 14:33,Excavator_1,Fuel,Level,9,Medium,Low
+26,5/15/2022 22:43,Backhoe_Loader_1,Fuel,Level,5,Medium,Low
+26,6/22/2022 21:50,Dozer_1,Fuel,Level,2,Medium,Low
+26,6/19/2022 21:50,Asphalt_Paver_1,Fuel,Level,10,Medium,Low
+26,6/7/2022 18:45,Dozer_1,Drive,Pedal Sensor,3.86902729304534,Medium,Low
+26,5/18/2022 10:49,Asphalt_Paver_1,Drive,Pedal Sensor,4.28,Medium,Low
+26,6/9/2022 2:21,Articulated_Truck_1,Drive,Pedal Sensor,3.9,Medium,Low
+26,5/2/2022 5:23,Backhoe_Loader_1,Drive,Pedal Sensor,3.06173493091086,Medium,Low
+26,5/18/2022 13:07,Excavator_1,Drive,Pedal Sensor,3.86326881782653,Medium,Low
+26,6/6/2022 2:45,Dozer_1,Engine,Temparature,89,Medium,High
+26,5/19/2022 13:36,Backhoe_Loader_1,Engine,Temparature,75,Medium,High
+26,6/7/2022 19:41,Excavator_1,Engine,Temparature,93,Medium,High
+26,5/13/2022 19:45,Articulated_Truck_1,Engine,Temparature,98,Medium,High
+26,6/7/2022 19:24,Asphalt_Paver_1,Engine,Temparature,75,Medium,High
+27,5/26/2022 15:44,Asphalt_Paver_1,Drive,Brake Control,4,Medium,Medium
+27,6/21/2022 17:17,Articulated_Truck_1,Drive,Brake Control,8,Medium,Medium
+27,5/9/2022 5:13,Dozer_1,Drive,Brake Control,1,Low,Medium
+27,5/20/2022 19:45,Backhoe_Loader_1,Drive,Brake Control,5,Medium,Medium
+27,6/26/2022 2:09,Excavator_1,Drive,Brake Control,8,Medium,Medium
+27,5/12/2022 14:23,Asphalt_Paver_1,Misc,Hydraulic Pump Rate,77,Medium,Medium
+27,5/20/2022 16:04,Backhoe_Loader_1,Misc,Hydraulic Pump Rate,82,Medium,Medium
+27,6/25/2022 2:18,Dozer_1,Misc,Hydraulic Pump Rate,85,Medium,Medium
+27,6/27/2022 14:43,Articulated_Truck_1,Misc,Hydraulic Pump Rate,119,Medium,Medium
+27,5/7/2022 16:33,Excavator_1,Misc,Hydraulic Pump Rate,85,Medium,Medium
+27,6/22/2022 7:08,Excavator_1,Engine,Speed,1683,Medium,Medium
+27,5/1/2022 3:12,Dozer_1,Engine,Speed,1310,Medium,Medium
+27,6/17/2022 20:56,Backhoe_Loader_1,Engine,Speed,1341,Medium,Medium
+27,6/21/2022 22:35,Asphalt_Paver_1,Engine,Speed,1594,Medium,Medium
+27,5/26/2022 21:27,Articulated_Truck_1,Engine,Speed,1470,Medium,Medium
+27,5/25/2022 4:38,Backhoe_Loader_1,Fuel,Temparature,340,Medium,High
+27,6/9/2022 15:48,Articulated_Truck_1,Fuel,Temparature,0,Medium,High
+27,6/16/2022 11:16,Dozer_1,Fuel,Temparature,382,Medium,High
+27,5/7/2022 21:46,Asphalt_Paver_1,Fuel,Temparature,283,Medium,High
+27,5/3/2022 22:07,Excavator_1,Fuel,Temparature,355,Medium,High
+28,6/18/2022 9:59,Backhoe_Loader_1,Misc,Air Filter Pressure,22,Medium,Medium
+28,5/19/2022 19:47,Excavator_1,Misc,Air Filter Pressure,35,Medium,Medium
+28,6/30/2022 1:30,Asphalt_Paver_1,Misc,Air Filter Pressure,23,Medium,Medium
+28,6/8/2022 9:20,Dozer_1,Misc,Air Filter Pressure,26,Medium,Medium
+28,6/7/2022 12:07,Articulated_Truck_1,Misc,Air Filter Pressure,33,Medium,Medium
+28,6/19/2022 8:29,Excavator_1,Drive,Brake Control,1,Low,Medium
+28,5/8/2022 10:59,Backhoe_Loader_1,Drive,Brake Control,2,Medium,Medium
+28,6/9/2022 5:23,Articulated_Truck_1,Drive,Brake Control,3,Medium,Medium
+28,6/7/2022 20:55,Asphalt_Paver_1,Drive,Brake Control,3,Medium,Medium
+28,5/30/2022 9:46,Dozer_1,Drive,Brake Control,6,Medium,Medium
+28,6/12/2022 10:46,Backhoe_Loader_1,Engine,Oil Pressure,57,Medium,High
+28,6/5/2022 3:22,Asphalt_Paver_1,Engine,Oil Pressure,61,Medium,High
+28,5/13/2022 9:16,Excavator_1,Engine,Oil Pressure,53,Medium,High
+28,6/7/2022 11:31,Articulated_Truck_1,Engine,Oil Pressure,36,Medium,High
+28,5/18/2022 19:01,Dozer_1,Engine,Oil Pressure,38,Medium,High
+28,5/9/2022 15:57,Excavator_1,Fuel,Pressure,44,Medium,Low
+28,5/20/2022 5:38,Asphalt_Paver_1,Fuel,Pressure,58,Medium,Low
+28,6/1/2022 18:40,Dozer_1,Fuel,Pressure,54,Medium,Low
+28,6/29/2022 6:59,Backhoe_Loader_1,Fuel,Pressure,51,Medium,Low
+28,5/17/2022 8:03,Articulated_Truck_1,Fuel,Pressure,59,Medium,Low
+29,5/29/2022 23:47,Articulated_Truck_1,Drive,Brake Control,7,Medium,Medium
+29,6/14/2022 19:10,Excavator_1,Drive,Brake Control,1,Low,Medium
+29,5/10/2022 5:58,Backhoe_Loader_1,Drive,Brake Control,8,Medium,Medium
+29,5/15/2022 7:07,Dozer_1,Drive,Brake Control,5,Medium,Medium
+29,5/22/2022 20:33,Asphalt_Paver_1,Drive,Brake Control,4,Medium,Medium
+29,6/2/2022 1:46,Backhoe_Loader_1,Misc,System Voltage,13.7143291018493,Medium,High
+29,6/22/2022 14:04,Articulated_Truck_1,Misc,System Voltage,13.3,Medium,High
+29,6/5/2022 5:54,Excavator_1,Misc,System Voltage,14.3333814954155,Medium,High
+29,5/30/2022 15:48,Asphalt_Paver_1,Misc,System Voltage,15.84,High,High
+29,5/23/2022 18:32,Dozer_1,Misc,System Voltage,13.417613669912,Medium,High
+29,5/25/2022 20:53,Dozer_1,Engine,Temparature,103,Medium,High
+29,5/18/2022 8:25,Asphalt_Paver_1,Engine,Temparature,102,Medium,High
+29,6/23/2022 10:50,Articulated_Truck_1,Engine,Temparature,95,Medium,High
+29,5/14/2022 13:38,Backhoe_Loader_1,Engine,Temparature,87,Medium,High
+29,5/8/2022 22:00,Excavator_1,Engine,Temparature,87,Medium,High
+29,5/6/2022 9:45,Articulated_Truck_1,Fuel,Water in Fuel,119,Medium,High
+29,5/26/2022 21:41,Excavator_1,Fuel,Water in Fuel,140,Medium,High
+29,6/20/2022 12:34,Backhoe_Loader_1,Fuel,Water in Fuel,1785,Medium,High
+29,5/19/2022 0:52,Asphalt_Paver_1,Fuel,Water in Fuel,203,Medium,High
+29,6/27/2022 20:22,Dozer_1,Fuel,Water in Fuel,371,Medium,High
+30,5/13/2022 8:52,Dozer_1,Misc,Exhaust Gas Temparature,353,Medium,High
+30,6/22/2022 23:36,Articulated_Truck_1,Misc,Exhaust Gas Temparature,180,Medium,High
+30,6/28/2022 7:21,Excavator_1,Misc,Exhaust Gas Temparature,310,Medium,High
+30,5/16/2022 9:10,Asphalt_Paver_1,Misc,Exhaust Gas Temparature,282,Medium,High
+30,6/11/2022 21:31,Backhoe_Loader_1,Misc,Exhaust Gas Temparature,198,Medium,High
+30,5/30/2022 11:43,Asphalt_Paver_1,Fuel,Level,9,Medium,Low
+30,6/13/2022 6:05,Dozer_1,Fuel,Level,8,Medium,Low
+30,5/29/2022 20:14,Excavator_1,Fuel,Level,3,Medium,Low
+30,6/4/2022 22:21,Articulated_Truck_1,Fuel,Level,4,Medium,Low
+30,5/11/2022 19:09,Backhoe_Loader_1,Fuel,Level,6,Medium,Low
+30,5/21/2022 19:03,Asphalt_Paver_1,Engine,Speed,1661,Medium,Medium
+30,6/10/2022 0:01,Dozer_1,Engine,Speed,1654,Medium,Medium
+30,5/29/2022 2:53,Articulated_Truck_1,Engine,Speed,1250,Medium,Medium
+30,5/12/2022 23:43,Backhoe_Loader_1,Engine,Speed,1435,Medium,Medium
+30,6/24/2022 6:17,Excavator_1,Engine,Speed,1455,Medium,Medium
+30,6/24/2022 6:14,Dozer_1,Drive,Transmission Pressure,271,Medium,Medium
+30,6/9/2022 21:12,Asphalt_Paver_1,Drive,Transmission Pressure,270,Medium,Medium
+30,6/11/2022 11:19,Backhoe_Loader_1,Drive,Transmission Pressure,256,Medium,Medium
+30,6/24/2022 15:39,Excavator_1,Drive,Transmission Pressure,274,Medium,Medium
+30,5/22/2022 12:35,Articulated_Truck_1,Drive,Transmission Pressure,267,Medium,Medium
+31,5/7/2022 13:53,Asphalt_Paver_1,Misc,Hydraulic Pump Rate,117,Medium,Medium
+31,5/4/2022 1:41,Dozer_1,Misc,Hydraulic Pump Rate,94,Medium,Medium
+31,5/11/2022 11:08,Backhoe_Loader_1,Misc,Hydraulic Pump Rate,82,Medium,Medium
+31,6/21/2022 14:37,Articulated_Truck_1,Misc,Hydraulic Pump Rate,118,Medium,Medium
+31,5/24/2022 9:35,Excavator_1,Misc,Hydraulic Pump Rate,102,Medium,Medium
+31,5/30/2022 21:58,Articulated_Truck_1,Engine,Oil Pressure,25,Low,High
+31,6/12/2022 13:05,Backhoe_Loader_1,Engine,Oil Pressure,65,High,High
+31,5/19/2022 1:27,Asphalt_Paver_1,Engine,Oil Pressure,40,Medium,High
+31,6/13/2022 13:46,Excavator_1,Engine,Oil Pressure,29,Medium,High
+31,6/18/2022 12:33,Dozer_1,Engine,Oil Pressure,50,Medium,High
+31,5/17/2022 4:05,Excavator_1,Drive,Pedal Sensor,4.6829241799672,Medium,Low
+31,6/13/2022 19:53,Articulated_Truck_1,Drive,Pedal Sensor,3.7,Medium,Low
+31,6/15/2022 10:35,Asphalt_Paver_1,Drive,Pedal Sensor,3.81,Medium,Low
+31,5/5/2022 23:19,Backhoe_Loader_1,Drive,Pedal Sensor,4.55789921834801,Medium,Low
+31,6/12/2022 5:07,Dozer_1,Drive,Pedal Sensor,4.10075371944927,Medium,Low
+31,6/12/2022 4:21,Articulated_Truck_1,Fuel,Water in Fuel,120,Medium,High
+31,5/11/2022 3:15,Asphalt_Paver_1,Fuel,Water in Fuel,924,Medium,High
+31,5/16/2022 23:49,Backhoe_Loader_1,Fuel,Water in Fuel,393,Medium,High
+31,6/14/2022 21:59,Excavator_1,Fuel,Water in Fuel,413,Medium,High
+31,6/6/2022 19:21,Dozer_1,Fuel,Water in Fuel,1337,Medium,High
+32,6/14/2022 11:44,Dozer_1,Misc,Air Filter Pressure,31,Medium,Medium
+32,5/24/2022 19:52,Asphalt_Paver_1,Misc,Air Filter Pressure,33,Medium,Medium
+32,6/16/2022 19:53,Excavator_1,Misc,Air Filter Pressure,34,Medium,Medium
+32,5/14/2022 23:13,Backhoe_Loader_1,Misc,Air Filter Pressure,25,Medium,Medium
+32,5/28/2022 10:16,Articulated_Truck_1,Misc,Air Filter Pressure,35,Medium,Medium
+32,6/30/2022 11:08,Articulated_Truck_1,Fuel,Level,4,Medium,Low
+32,5/10/2022 14:37,Dozer_1,Fuel,Level,7,Medium,Low
+32,5/13/2022 4:58,Excavator_1,Fuel,Level,9,Medium,Low
+32,6/8/2022 8:29,Backhoe_Loader_1,Fuel,Level,5,Medium,Low
+32,6/19/2022 2:44,Asphalt_Paver_1,Fuel,Level,2,Medium,Low
+32,6/3/2022 18:55,Asphalt_Paver_1,Engine,Speed,1726,Medium,Medium
+32,6/4/2022 6:36,Articulated_Truck_1,Engine,Speed,1550,Medium,Medium
+32,5/18/2022 0:34,Backhoe_Loader_1,Engine,Speed,1475,Medium,Medium
+32,5/11/2022 6:13,Dozer_1,Engine,Speed,1558,Medium,Medium
+32,5/7/2022 0:11,Excavator_1,Engine,Speed,1541,Medium,Medium
+32,6/9/2022 21:30,Asphalt_Paver_1,Drive,Transmission Pressure,206,Medium,Medium
+32,6/20/2022 5:53,Excavator_1,Drive,Transmission Pressure,397,Medium,Medium
+32,5/18/2022 7:43,Backhoe_Loader_1,Drive,Transmission Pressure,377,Medium,Medium
+32,6/14/2022 17:23,Articulated_Truck_1,Drive,Transmission Pressure,450,High,Medium
+32,6/7/2022 4:00,Dozer_1,Drive,Transmission Pressure,328,Medium,Medium
+33,5/19/2022 16:09,Backhoe_Loader_1,Engine,Oil Pressure,61,Medium,High
+33,6/9/2022 0:16,Articulated_Truck_1,Engine,Oil Pressure,35,Medium,High
+33,5/29/2022 7:35,Asphalt_Paver_1,Engine,Oil Pressure,58,Medium,High
+33,5/20/2022 15:07,Excavator_1,Engine,Oil Pressure,36,Medium,High
+33,5/1/2022 4:00,Dozer_1,Engine,Oil Pressure,62,Medium,High
+33,6/7/2022 12:29,Dozer_1,Drive,Pedal Sensor,4.46104821875013,Medium,Low
+33,5/10/2022 10:06,Articulated_Truck_1,Drive,Pedal Sensor,4.4,Medium,Low
+33,5/20/2022 2:50,Backhoe_Loader_1,Drive,Pedal Sensor,4.76204019117027,High,Low
+33,6/10/2022 16:51,Asphalt_Paver_1,Drive,Pedal Sensor,3.59,Medium,Low
+33,5/10/2022 15:44,Excavator_1,Drive,Pedal Sensor,4.33372297954216,Medium,Low
+33,6/22/2022 6:01,Excavator_1,Misc,System Voltage,12.4256715063544,Medium,High
+33,5/21/2022 0:11,Backhoe_Loader_1,Misc,System Voltage,15.0509895053747,High,High
+33,5/14/2022 9:43,Dozer_1,Misc,System Voltage,15.0141789004478,High,High
+33,6/18/2022 12:26,Articulated_Truck_1,Misc,System Voltage,15.1,High,High
+33,5/27/2022 6:28,Asphalt_Paver_1,Misc,System Voltage,14.31,Medium,High
+33,6/17/2022 17:43,Backhoe_Loader_1,Fuel,Temparature,302,Medium,High
+33,5/13/2022 5:53,Excavator_1,Fuel,Temparature,352,Medium,High
+33,6/18/2022 3:03,Asphalt_Paver_1,Fuel,Temparature,398,Medium,High
+33,5/16/2022 2:16,Articulated_Truck_1,Fuel,Temparature,0,Medium,High
+33,5/26/2022 1:00,Dozer_1,Fuel,Temparature,212,Medium,High
+34,6/10/2022 12:30,Dozer_1,Misc,Exhaust Gas Temparature,347,Medium,High
+34,5/4/2022 15:01,Backhoe_Loader_1,Misc,Exhaust Gas Temparature,293,Medium,High
+34,5/27/2022 20:00,Articulated_Truck_1,Misc,Exhaust Gas Temparature,177,Medium,High
+34,5/6/2022 19:46,Excavator_1,Misc,Exhaust Gas Temparature,195,Medium,High
+34,5/15/2022 2:17,Asphalt_Paver_1,Misc,Exhaust Gas Temparature,200,Medium,High
+34,6/18/2022 3:42,Asphalt_Paver_1,Fuel,Pressure,65,High,Low
+34,6/10/2022 3:56,Dozer_1,Fuel,Pressure,43,Medium,Low
+34,5/7/2022 9:54,Excavator_1,Fuel,Pressure,52,Medium,Low
+34,6/23/2022 20:40,Backhoe_Loader_1,Fuel,Pressure,59,Medium,Low
+34,5/13/2022 7:29,Articulated_Truck_1,Fuel,Pressure,71,High,Low
+34,6/1/2022 23:11,Articulated_Truck_1,Engine,Speed,1650,Medium,Medium
+34,6/29/2022 7:20,Excavator_1,Engine,Speed,1419,Medium,Medium
+34,6/3/2022 2:57,Dozer_1,Engine,Speed,1385,Medium,Medium
+34,6/12/2022 19:25,Asphalt_Paver_1,Engine,Speed,1709,Medium,Medium
+34,6/10/2022 23:04,Backhoe_Loader_1,Engine,Speed,1434,Medium,Medium
+34,5/13/2022 20:51,Dozer_1,Drive,Transmission Pressure,249,Medium,Medium
+34,6/23/2022 14:37,Asphalt_Paver_1,Drive,Transmission Pressure,387,Medium,Medium
+34,6/21/2022 4:35,Backhoe_Loader_1,Drive,Transmission Pressure,433,Medium,Medium
+34,6/16/2022 1:32,Articulated_Truck_1,Drive,Transmission Pressure,447,Medium,Medium
+34,6/27/2022 4:19,Excavator_1,Drive,Transmission Pressure,203,Medium,Medium
+35,5/23/2022 12:19,Asphalt_Paver_1,Misc,Hydraulic Pump Rate,110,Medium,Medium
+35,5/27/2022 22:00,Dozer_1,Misc,Hydraulic Pump Rate,108,Medium,Medium
+35,5/9/2022 3:24,Articulated_Truck_1,Misc,Hydraulic Pump Rate,117,Medium,Medium
+35,5/24/2022 20:26,Backhoe_Loader_1,Misc,Hydraulic Pump Rate,76,Medium,Medium
+35,5/3/2022 17:36,Excavator_1,Misc,Hydraulic Pump Rate,120,Medium,Medium
+35,6/21/2022 13:10,Excavator_1,Drive,Pedal Sensor,4.82744894227216,High,Low
+35,5/25/2022 10:00,Articulated_Truck_1,Drive,Pedal Sensor,3.6,Medium,Low
+35,6/12/2022 9:01,Dozer_1,Drive,Pedal Sensor,3.65408129821094,Medium,Low
+35,5/21/2022 9:27,Backhoe_Loader_1,Drive,Pedal Sensor,4.98857667508814,High,Low
+35,6/3/2022 16:38,Asphalt_Paver_1,Drive,Pedal Sensor,4.36,Medium,Low
+35,5/27/2022 13:21,Excavator_1,Engine,Temparature,79,Medium,High
+35,5/30/2022 3:59,Articulated_Truck_1,Engine,Temparature,94,Medium,High
+35,5/12/2022 20:53,Asphalt_Paver_1,Engine,Temparature,87,Medium,High
+35,5/18/2022 5:49,Backhoe_Loader_1,Engine,Temparature,94,Medium,High
+35,5/13/2022 5:51,Dozer_1,Engine,Temparature,85,Medium,High
+35,6/6/2022 11:23,Articulated_Truck_1,Fuel,Water in Fuel,144,Medium,High
+35,5/4/2022 23:37,Dozer_1,Fuel,Water in Fuel,1737,Medium,High
+35,5/24/2022 16:19,Excavator_1,Fuel,Water in Fuel,1647,Medium,High
+35,6/3/2022 19:30,Backhoe_Loader_1,Fuel,Water in Fuel,1325,Medium,High
+35,5/14/2022 11:22,Asphalt_Paver_1,Fuel,Water in Fuel,97,Medium,High
+36,5/15/2022 14:06,Dozer_1,Misc,Air Filter Pressure,26,Medium,Medium
+36,6/29/2022 6:03,Asphalt_Paver_1,Misc,Air Filter Pressure,20,Low,Medium
+36,6/22/2022 20:24,Excavator_1,Misc,Air Filter Pressure,29,Medium,Medium
+36,6/19/2022 13:23,Backhoe_Loader_1,Misc,Air Filter Pressure,27,Medium,Medium
+36,5/13/2022 11:20,Articulated_Truck_1,Misc,Air Filter Pressure,32,Medium,Medium
+36,6/25/2022 8:39,Asphalt_Paver_1,Drive,Brake Control,2,Medium,Medium
+36,6/26/2022 4:53,Articulated_Truck_1,Drive,Brake Control,2,Medium,Medium
+36,5/16/2022 17:11,Dozer_1,Drive,Brake Control,10,Medium,Medium
+36,5/26/2022 3:39,Excavator_1,Drive,Brake Control,9,Medium,Medium
+36,6/30/2022 5:14,Backhoe_Loader_1,Drive,Brake Control,4,Medium,Medium
+36,6/16/2022 10:52,Articulated_Truck_1,Fuel,Level,3,Medium,Low
+36,5/9/2022 5:38,Backhoe_Loader_1,Fuel,Level,5,Medium,Low
+36,6/7/2022 10:24,Dozer_1,Fuel,Level,2,Medium,Low
+36,5/16/2022 2:56,Asphalt_Paver_1,Fuel,Level,2,Medium,Low
+36,5/15/2022 15:22,Excavator_1,Fuel,Level,7,Medium,Low
+36,6/21/2022 1:23,Asphalt_Paver_1,Engine,Oil Pressure,34,Medium,High
+36,6/11/2022 2:51,Dozer_1,Engine,Oil Pressure,52,Medium,High
+36,5/6/2022 7:00,Backhoe_Loader_1,Engine,Oil Pressure,48,Medium,High
+36,6/27/2022 16:29,Excavator_1,Engine,Oil Pressure,39,Medium,High
+36,5/10/2022 12:45,Articulated_Truck_1,Engine,Oil Pressure,45,Medium,High
+37,6/24/2022 14:18,Asphalt_Paver_1,Drive,Brake Control,5,Medium,Medium
+37,6/3/2022 3:33,Backhoe_Loader_1,Drive,Brake Control,4,Medium,Medium
+37,6/8/2022 10:58,Articulated_Truck_1,Drive,Brake Control,8,Medium,Medium
+37,5/18/2022 14:22,Excavator_1,Drive,Brake Control,9,Medium,Medium
+37,5/23/2022 15:59,Dozer_1,Drive,Brake Control,7,Medium,Medium
+37,5/5/2022 13:08,Asphalt_Paver_1,Misc,System Voltage,13.98,Medium,High
+37,6/16/2022 15:27,Excavator_1,Misc,System Voltage,15.5295803498284,High,High
+37,6/19/2022 12:40,Backhoe_Loader_1,Misc,System Voltage,12.5232009829424,Medium,High
+37,6/5/2022 4:17,Articulated_Truck_1,Misc,System Voltage,13.7,Medium,High
+37,6/28/2022 18:23,Dozer_1,Misc,System Voltage,12.5404373638007,Medium,High
+37,6/15/2022 0:53,Dozer_1,Engine,Temparature,89,Medium,High
+37,6/1/2022 16:12,Backhoe_Loader_1,Engine,Temparature,75,Medium,High
+37,6/23/2022 5:33,Excavator_1,Engine,Temparature,92,Medium,High
+37,5/20/2022 18:34,Articulated_Truck_1,Engine,Temparature,92,Medium,High
+37,5/26/2022 19:16,Asphalt_Paver_1,Engine,Temparature,101,Medium,High
+37,5/8/2022 18:20,Excavator_1,Fuel,Temparature,348,Medium,High
+37,6/25/2022 15:39,Backhoe_Loader_1,Fuel,Temparature,202,Medium,High
+37,5/14/2022 15:59,Asphalt_Paver_1,Fuel,Temparature,279,Medium,High
+37,5/21/2022 14:46,Dozer_1,Fuel,Temparature,253,Medium,High
+37,6/27/2022 0:30,Articulated_Truck_1,Fuel,Temparature,0,Medium,High
+38,5/6/2022 20:06,Backhoe_Loader_1,Drive,Brake Control,6,Medium,Medium
+38,5/25/2022 21:05,Dozer_1,Drive,Brake Control,5,Medium,Medium
+38,5/9/2022 18:52,Articulated_Truck_1,Drive,Brake Control,4,Medium,Medium
+38,6/8/2022 17:46,Excavator_1,Drive,Brake Control,5,Medium,Medium
+38,5/28/2022 23:24,Asphalt_Paver_1,Drive,Brake Control,10,Medium,Medium
+38,6/26/2022 13:54,Backhoe_Loader_1,Misc,Exhaust Gas Temparature,211,Medium,High
+38,6/11/2022 4:31,Articulated_Truck_1,Misc,Exhaust Gas Temparature,181,Medium,High
+38,6/15/2022 3:59,Dozer_1,Misc,Exhaust Gas Temparature,309,Medium,High
+38,6/27/2022 8:23,Asphalt_Paver_1,Misc,Exhaust Gas Temparature,237,Medium,High
+38,6/3/2022 14:43,Excavator_1,Misc,Exhaust Gas Temparature,348,Medium,High
+38,6/2/2022 22:25,Excavator_1,Fuel,Pressure,53,Medium,Low
+38,5/25/2022 11:32,Articulated_Truck_1,Fuel,Pressure,72,High,Low
+38,5/20/2022 9:56,Asphalt_Paver_1,Fuel,Pressure,45,Medium,Low
+38,6/1/2022 7:11,Dozer_1,Fuel,Pressure,55,Medium,Low
+38,5/12/2022 5:24,Backhoe_Loader_1,Fuel,Pressure,56,Medium,Low
+38,6/5/2022 14:13,Backhoe_Loader_1,Engine,Speed,1585,Medium,Medium
+38,5/18/2022 18:36,Dozer_1,Engine,Speed,1724,Medium,Medium
+38,5/17/2022 15:25,Excavator_1,Engine,Speed,1443,Medium,Medium
+38,5/15/2022 16:00,Asphalt_Paver_1,Engine,Speed,1421,Medium,Medium
+38,5/9/2022 4:20,Articulated_Truck_1,Engine,Speed,1870,High,Medium
+39,6/12/2022 9:50,Excavator_1,Misc,Hydraulic Pump Rate,112,Medium,Medium
+39,6/13/2022 10:51,Backhoe_Loader_1,Misc,Hydraulic Pump Rate,90,Medium,Medium
+39,6/11/2022 2:48,Asphalt_Paver_1,Misc,Hydraulic Pump Rate,124,Medium,Medium
+39,6/1/2022 6:07,Dozer_1,Misc,Hydraulic Pump Rate,87,Medium,Medium
+39,6/2/2022 5:50,Articulated_Truck_1,Misc,Hydraulic Pump Rate,116,Medium,Medium
+39,5/21/2022 9:11,Dozer_1,Engine,Oil Pressure,33,Medium,High
+39,6/9/2022 12:41,Asphalt_Paver_1,Engine,Oil Pressure,50,Medium,High
+39,5/9/2022 8:23,Articulated_Truck_1,Engine,Oil Pressure,46,Medium,High
+39,5/5/2022 20:47,Backhoe_Loader_1,Engine,Oil Pressure,49,Medium,High
+39,5/3/2022 14:03,Excavator_1,Engine,Oil Pressure,41,Medium,High
+39,5/23/2022 20:13,Backhoe_Loader_1,Drive,Pedal Sensor,4.36001650764642,Medium,Low
+39,5/18/2022 13:10,Dozer_1,Drive,Pedal Sensor,4.69467030609353,Medium,Low
+39,5/20/2022 22:52,Articulated_Truck_1,Drive,Pedal Sensor,3.8,Medium,Low
+39,5/28/2022 2:03,Asphalt_Paver_1,Drive,Pedal Sensor,4.63,Medium,Low
+39,5/13/2022 3:23,Excavator_1,Drive,Pedal Sensor,4.53398240590276,Medium,Low
+39,6/16/2022 2:41,Excavator_1,Fuel,Water in Fuel,461,Medium,High
+39,6/4/2022 2:56,Dozer_1,Fuel,Water in Fuel,348,Medium,High
+39,5/25/2022 20:04,Asphalt_Paver_1,Fuel,Water in Fuel,708,Medium,High
+39,5/18/2022 20:38,Articulated_Truck_1,Fuel,Water in Fuel,184,Medium,High
+39,6/4/2022 20:30,Backhoe_Loader_1,Fuel,Water in Fuel,1342,Medium,High
+40,6/15/2022 23:56,Asphalt_Paver_1,Misc,Air Filter Pressure,23,Medium,Medium
+40,5/11/2022 14:11,Excavator_1,Misc,Air Filter Pressure,20,Low,Medium
+40,6/15/2022 17:27,Backhoe_Loader_1,Misc,Air Filter Pressure,23,Medium,Medium
+40,6/14/2022 18:31,Dozer_1,Misc,Air Filter Pressure,31,Medium,Medium
+40,5/12/2022 4:55,Articulated_Truck_1,Misc,Air Filter Pressure,36,Medium,Medium
+40,5/21/2022 14:34,Backhoe_Loader_1,Fuel,Level,6,Medium,Low
+40,5/12/2022 16:25,Dozer_1,Fuel,Level,7,Medium,Low
+40,5/18/2022 15:29,Asphalt_Paver_1,Fuel,Level,2,Medium,Low
+40,5/19/2022 23:24,Articulated_Truck_1,Fuel,Level,7,Medium,Low
+40,6/28/2022 18:33,Excavator_1,Fuel,Level,6,Medium,Low
+40,6/28/2022 23:32,Asphalt_Paver_1,Engine,Temparature,81,Medium,High
+40,6/13/2022 19:48,Dozer_1,Engine,Temparature,89,Medium,High
+40,5/12/2022 7:55,Excavator_1,Engine,Temparature,75,Medium,High
+40,5/18/2022 20:27,Articulated_Truck_1,Engine,Temparature,100,Medium,High
+40,6/9/2022 16:33,Backhoe_Loader_1,Engine,Temparature,93,Medium,High
+40,5/22/2022 13:59,Backhoe_Loader_1,Drive,Transmission Pressure,349,Medium,Medium
+40,5/1/2022 0:19,Dozer_1,Drive,Transmission Pressure,291,Medium,Medium
+40,5/17/2022 5:00,Asphalt_Paver_1,Drive,Transmission Pressure,384,Medium,Medium
+40,6/21/2022 3:03,Excavator_1,Drive,Transmission Pressure,354,Medium,Medium
+40,5/22/2022 10:03,Articulated_Truck_1,Drive,Transmission Pressure,443,Medium,Medium
+41,5/10/2022 4:13,Dozer_1,Fuel,Level,5,Medium,Low
+41,6/19/2022 3:27,Backhoe_Loader_1,Fuel,Level,4,Medium,Low
+41,5/21/2022 19:51,Articulated_Truck_1,Fuel,Level,6,Medium,Low
+41,6/6/2022 13:10,Excavator_1,Fuel,Level,3,Medium,Low
+41,5/26/2022 13:40,Asphalt_Paver_1,Fuel,Level,6,Medium,Low
+41,6/13/2022 13:11,Dozer_1,Engine,Speed,1771,Medium,Medium
+41,5/20/2022 1:01,Excavator_1,Engine,Speed,1515,Medium,Medium
+41,5/30/2022 15:40,Asphalt_Paver_1,Engine,Speed,1597,Medium,Medium
+41,5/5/2022 9:59,Articulated_Truck_1,Engine,Speed,1700,Medium,Medium
+41,5/6/2022 7:11,Backhoe_Loader_1,Engine,Speed,1687,Medium,Medium
+41,5/23/2022 11:09,Backhoe_Loader_1,Misc,System Voltage,13.6252552956644,Medium,High
+41,6/23/2022 19:34,Asphalt_Paver_1,Misc,System Voltage,14.99,Medium,High
+41,5/6/2022 1:09,Excavator_1,Misc,System Voltage,15.1520168567908,High,High
+41,5/26/2022 8:54,Dozer_1,Misc,System Voltage,13.4100004989055,Medium,High
+41,6/21/2022 9:28,Articulated_Truck_1,Misc,System Voltage,15.2,High,High
+41,5/27/2022 23:52,Excavator_1,Drive,Transmission Pressure,274,Medium,Medium
+41,5/15/2022 10:38,Backhoe_Loader_1,Drive,Transmission Pressure,289,Medium,Medium
+41,6/12/2022 12:53,Asphalt_Paver_1,Drive,Transmission Pressure,226,Medium,Medium
+41,6/23/2022 2:41,Articulated_Truck_1,Drive,Transmission Pressure,377,Medium,Medium
+41,5/5/2022 0:26,Dozer_1,Drive,Transmission Pressure,264,Medium,Medium
+42,6/19/2022 3:02,Articulated_Truck_1,Misc,Exhaust Gas Temparature,176,Medium,High
+42,5/6/2022 23:38,Dozer_1,Misc,Exhaust Gas Temparature,366,High,High
+42,5/4/2022 0:31,Backhoe_Loader_1,Misc,Exhaust Gas Temparature,216,Medium,High
+42,6/27/2022 3:29,Excavator_1,Misc,Exhaust Gas Temparature,312,Medium,High
+42,6/2/2022 22:17,Asphalt_Paver_1,Misc,Exhaust Gas Temparature,341,Medium,High
+42,5/29/2022 1:20,Dozer_1,Engine,Oil Pressure,39,Medium,High
+42,6/13/2022 18:49,Backhoe_Loader_1,Engine,Oil Pressure,38,Medium,High
+42,5/18/2022 4:10,Asphalt_Paver_1,Engine,Oil Pressure,59,Medium,High
+42,6/19/2022 8:39,Articulated_Truck_1,Engine,Oil Pressure,36,Medium,High
+42,6/28/2022 4:06,Excavator_1,Engine,Oil Pressure,39,Medium,High
+42,6/23/2022 16:26,Backhoe_Loader_1,Drive,Pedal Sensor,3.80304727842391,Medium,Low
+42,6/16/2022 22:11,Articulated_Truck_1,Drive,Pedal Sensor,3.9,Medium,Low
+42,6/25/2022 1:50,Dozer_1,Drive,Pedal Sensor,3.51923804536472,Medium,Low
+42,6/30/2022 3:23,Excavator_1,Drive,Pedal Sensor,4.7696542210165,High,Low
+42,6/19/2022 20:19,Asphalt_Paver_1,Drive,Pedal Sensor,3.83,Medium,Low
+42,5/9/2022 9:11,Dozer_1,Fuel,Water in Fuel,1179,Medium,High
+42,5/30/2022 10:48,Articulated_Truck_1,Fuel,Water in Fuel,424,Medium,High
+42,6/17/2022 22:02,Excavator_1,Fuel,Water in Fuel,1047,Medium,High
+42,5/27/2022 18:23,Backhoe_Loader_1,Fuel,Water in Fuel,495,Medium,High
+42,5/22/2022 3:55,Asphalt_Paver_1,Fuel,Water in Fuel,980,Medium,High
+43,6/2/2022 8:59,Backhoe_Loader_1,Misc,Hydraulic Pump Rate,82,Medium,Medium
+43,6/4/2022 8:01,Asphalt_Paver_1,Misc,Hydraulic Pump Rate,100,Medium,Medium
+43,5/2/2022 2:23,Excavator_1,Misc,Hydraulic Pump Rate,117,Medium,Medium
+43,6/8/2022 17:13,Articulated_Truck_1,Misc,Hydraulic Pump Rate,106,Medium,Medium
+43,5/9/2022 20:57,Dozer_1,Misc,Hydraulic Pump Rate,79,Medium,Medium
+43,6/29/2022 22:22,Asphalt_Paver_1,Fuel,Level,7,Medium,Low
+43,5/27/2022 18:46,Dozer_1,Fuel,Level,2,Medium,Low
+43,6/20/2022 17:33,Articulated_Truck_1,Fuel,Level,4,Medium,Low
+43,5/7/2022 1:46,Excavator_1,Fuel,Level,9,Medium,Low
+43,6/28/2022 6:57,Backhoe_Loader_1,Fuel,Level,5,Medium,Low
+43,5/18/2022 18:53,Asphalt_Paver_1,Engine,Speed,1736,Medium,Medium
+43,6/24/2022 17:24,Backhoe_Loader_1,Engine,Speed,1434,Medium,Medium
+43,6/16/2022 21:30,Dozer_1,Engine,Speed,1488,Medium,Medium
+43,6/22/2022 4:26,Excavator_1,Engine,Speed,1648,Medium,Medium
+43,5/22/2022 11:05,Articulated_Truck_1,Engine,Speed,1590,Medium,Medium
+43,6/20/2022 20:27,Backhoe_Loader_1,Drive,Transmission Pressure,210,Medium,Medium
+43,6/12/2022 19:56,Asphalt_Paver_1,Drive,Transmission Pressure,293,Medium,Medium
+43,5/29/2022 10:08,Articulated_Truck_1,Drive,Transmission Pressure,300,Medium,Medium
+43,5/20/2022 15:01,Excavator_1,Drive,Transmission Pressure,275,Medium,Medium
+43,5/27/2022 23:04,Dozer_1,Drive,Transmission Pressure,348,Medium,Medium
+44,6/16/2022 4:04,Excavator_1,Misc,Air Filter Pressure,31,Medium,Medium
+44,6/9/2022 20:11,Dozer_1,Misc,Air Filter Pressure,26,Medium,Medium
+44,5/5/2022 9:52,Backhoe_Loader_1,Misc,Air Filter Pressure,29,Medium,Medium
+44,5/4/2022 3:09,Articulated_Truck_1,Misc,Air Filter Pressure,31,Medium,Medium
+44,6/26/2022 20:55,Asphalt_Paver_1,Misc,Air Filter Pressure,22,Medium,Medium
+44,6/18/2022 5:32,Dozer_1,Engine,Oil Pressure,41,Medium,High
+44,5/5/2022 16:17,Asphalt_Paver_1,Engine,Oil Pressure,59,Medium,High
+44,5/23/2022 0:22,Excavator_1,Engine,Oil Pressure,58,Medium,High
+44,5/15/2022 18:00,Articulated_Truck_1,Engine,Oil Pressure,44,Medium,High
+44,6/30/2022 22:32,Backhoe_Loader_1,Engine,Oil Pressure,36,Medium,High
+44,5/1/2022 15:13,Dozer_1,Drive,Pedal Sensor,4.23800087350386,Medium,Low
+44,6/26/2022 0:38,Asphalt_Paver_1,Drive,Pedal Sensor,4.61,Medium,Low
+44,5/20/2022 8:34,Articulated_Truck_1,Drive,Pedal Sensor,4.6,Medium,Low
+44,5/17/2022 23:32,Excavator_1,Drive,Pedal Sensor,4.57774353824314,Medium,Low
+44,6/7/2022 20:54,Backhoe_Loader_1,Drive,Pedal Sensor,3.05643680456025,Medium,Low
+44,6/15/2022 17:30,Dozer_1,Fuel,Temparature,215,Medium,High
+44,6/28/2022 7:42,Asphalt_Paver_1,Fuel,Temparature,383,Medium,High
+44,6/17/2022 8:14,Backhoe_Loader_1,Fuel,Temparature,329,Medium,High
+44,6/22/2022 19:24,Articulated_Truck_1,Fuel,Temparature,0,Medium,High
+44,5/21/2022 16:46,Excavator_1,Fuel,Temparature,260,Medium,High
+45,6/5/2022 11:11,Dozer_1,Fuel,Pressure,37,Medium,Low
+45,5/5/2022 4:52,Articulated_Truck_1,Fuel,Pressure,44,Medium,Low
+45,5/25/2022 9:44,Backhoe_Loader_1,Fuel,Pressure,44,Medium,Low
+45,5/13/2022 23:56,Excavator_1,Fuel,Pressure,37,Medium,Low
+45,5/26/2022 5:03,Asphalt_Paver_1,Fuel,Pressure,58,Medium,Low
+45,5/6/2022 19:04,Asphalt_Paver_1,Engine,Speed,1362,Medium,Medium
+45,6/11/2022 6:26,Articulated_Truck_1,Engine,Speed,1440,Medium,Medium
+45,6/7/2022 19:16,Backhoe_Loader_1,Engine,Speed,1398,Medium,Medium
+45,5/11/2022 13:16,Excavator_1,Engine,Speed,1779,Medium,Medium
+45,6/29/2022 16:47,Dozer_1,Engine,Speed,1445,Medium,Medium
+45,6/12/2022 13:22,Excavator_1,Misc,System Voltage,13.2800114518943,Medium,High
+45,6/21/2022 16:34,Backhoe_Loader_1,Misc,System Voltage,14.7807630970853,Medium,High
+45,5/17/2022 4:51,Dozer_1,Misc,System Voltage,12.2460727845405,Medium,High
+45,5/8/2022 5:33,Articulated_Truck_1,Misc,System Voltage,14.9,Medium,High
+45,5/24/2022 18:23,Asphalt_Paver_1,Misc,System Voltage,14.84,Medium,High
+45,6/26/2022 19:06,Asphalt_Paver_1,Drive,Transmission Pressure,303,Medium,Medium
+45,5/2/2022 11:25,Dozer_1,Drive,Transmission Pressure,302,Medium,Medium
+45,6/26/2022 5:57,Articulated_Truck_1,Drive,Transmission Pressure,369,Medium,Medium
+45,5/19/2022 2:10,Backhoe_Loader_1,Drive,Transmission Pressure,412,Medium,Medium
+45,6/3/2022 5:06,Excavator_1,Drive,Transmission Pressure,323,Medium,Medium
+46,6/11/2022 3:09,Articulated_Truck_1,Misc,Exhaust Gas Temparature,182,Medium,High
+46,5/1/2022 6:33,Backhoe_Loader_1,Misc,Exhaust Gas Temparature,297,Medium,High
+46,5/3/2022 22:05,Dozer_1,Misc,Exhaust Gas Temparature,291,Medium,High
+46,6/22/2022 11:27,Asphalt_Paver_1,Misc,Exhaust Gas Temparature,295,Medium,High
+46,5/19/2022 23:03,Excavator_1,Misc,Exhaust Gas Temparature,270,Medium,High
+46,5/28/2022 12:10,Dozer_1,Drive,Pedal Sensor,4.9849187870637,High,Low
+46,6/17/2022 13:33,Backhoe_Loader_1,Drive,Pedal Sensor,4.92979105432795,High,Low
+46,6/24/2022 18:48,Articulated_Truck_1,Drive,Pedal Sensor,3.2,Medium,Low
+46,5/8/2022 11:26,Excavator_1,Drive,Pedal Sensor,4.88282636887409,High,Low
+46,5/19/2022 18:08,Asphalt_Paver_1,Drive,Pedal Sensor,3.68,Medium,Low
+46,6/11/2022 19:02,Articulated_Truck_1,Engine,Temparature,102,Medium,High
+46,5/24/2022 1:24,Asphalt_Paver_1,Engine,Temparature,77,Medium,High
+46,5/12/2022 10:21,Excavator_1,Engine,Temparature,80,Medium,High
+46,6/30/2022 3:37,Dozer_1,Engine,Temparature,89,Medium,High
+46,6/19/2022 19:04,Backhoe_Loader_1,Engine,Temparature,86,Medium,High
+46,5/8/2022 0:10,Asphalt_Paver_1,Fuel,Water in Fuel,826,Medium,High
+46,6/24/2022 19:36,Excavator_1,Fuel,Water in Fuel,1072,Medium,High
+46,5/21/2022 3:29,Articulated_Truck_1,Fuel,Water in Fuel,426,Medium,High
+46,6/18/2022 17:38,Dozer_1,Fuel,Water in Fuel,1031,Medium,High
+46,6/11/2022 9:31,Backhoe_Loader_1,Fuel,Water in Fuel,398,Medium,High
+47,5/30/2022 9:02,Articulated_Truck_1,Drive,Brake Control,2,Medium,Medium
+47,5/8/2022 11:07,Asphalt_Paver_1,Drive,Brake Control,2,Medium,Medium
+47,6/26/2022 10:29,Backhoe_Loader_1,Drive,Brake Control,8,Medium,Medium
+47,5/24/2022 5:15,Dozer_1,Drive,Brake Control,3,Medium,Medium
+47,6/14/2022 19:44,Excavator_1,Drive,Brake Control,3,Medium,Medium
+47,5/10/2022 8:19,Asphalt_Paver_1,Misc,Hydraulic Pump Rate,117,Medium,Medium
+47,5/28/2022 20:46,Articulated_Truck_1,Misc,Hydraulic Pump Rate,109,Medium,Medium
+47,6/14/2022 4:29,Dozer_1,Misc,Hydraulic Pump Rate,119,Medium,Medium
+47,6/20/2022 10:39,Excavator_1,Misc,Hydraulic Pump Rate,125,High,Medium
+47,6/8/2022 0:46,Backhoe_Loader_1,Misc,Hydraulic Pump Rate,91,Medium,Medium
+47,6/17/2022 20:57,Dozer_1,Fuel,Level,3,Medium,Low
+47,6/11/2022 22:41,Asphalt_Paver_1,Fuel,Level,4,Medium,Low
+47,6/26/2022 11:13,Articulated_Truck_1,Fuel,Level,3,Medium,Low
+47,5/24/2022 13:39,Excavator_1,Fuel,Level,2,Medium,Low
+47,6/9/2022 0:25,Backhoe_Loader_1,Fuel,Level,6,Medium,Low
+47,6/2/2022 18:16,Asphalt_Paver_1,Engine,Oil Pressure,35,Medium,High
+47,6/22/2022 4:47,Articulated_Truck_1,Engine,Oil Pressure,56,Medium,High
+47,5/25/2022 10:28,Dozer_1,Engine,Oil Pressure,26,Medium,High
+47,6/7/2022 9:31,Excavator_1,Engine,Oil Pressure,40,Medium,High
+47,6/3/2022 0:49,Backhoe_Loader_1,Engine,Oil Pressure,26,Medium,High
+48,6/21/2022 4:13,Backhoe_Loader_1,Misc,Air Filter Pressure,34,Medium,Medium
+48,5/28/2022 18:04,Excavator_1,Misc,Air Filter Pressure,35,Medium,Medium
+48,6/1/2022 5:07,Articulated_Truck_1,Misc,Air Filter Pressure,35,Medium,Medium
+48,5/12/2022 1:56,Dozer_1,Misc,Air Filter Pressure,26,Medium,Medium
+48,5/10/2022 9:24,Asphalt_Paver_1,Misc,Air Filter Pressure,22,Medium,Medium
+48,5/10/2022 19:49,Backhoe_Loader_1,Drive,Brake Control,5,Medium,Medium
+48,5/13/2022 5:10,Articulated_Truck_1,Drive,Brake Control,8,Medium,Medium
+48,5/25/2022 5:57,Asphalt_Paver_1,Drive,Brake Control,3,Medium,Medium
+48,6/9/2022 7:18,Excavator_1,Drive,Brake Control,4,Medium,Medium
+48,6/2/2022 21:45,Dozer_1,Drive,Brake Control,5,Medium,Medium
+48,6/29/2022 23:42,Backhoe_Loader_1,Engine,Temparature,90,Medium,High
+48,6/14/2022 10:10,Articulated_Truck_1,Engine,Temparature,82,Medium,High
+48,6/3/2022 8:09,Excavator_1,Engine,Temparature,104,Medium,High
+48,6/25/2022 16:29,Dozer_1,Engine,Temparature,104,Medium,High
+48,6/10/2022 18:17,Asphalt_Paver_1,Engine,Temparature,77,Medium,High
+48,5/6/2022 18:11,Articulated_Truck_1,Fuel,Temparature,0,Medium,High
+48,6/22/2022 6:00,Dozer_1,Fuel,Temparature,308,Medium,High
+48,5/5/2022 9:41,Asphalt_Paver_1,Fuel,Temparature,372,Medium,High
+48,6/25/2022 12:04,Excavator_1,Fuel,Temparature,297,Medium,High
+48,6/21/2022 8:14,Backhoe_Loader_1,Fuel,Temparature,316,Medium,High
+49,6/2/2022 2:02,Excavator_1,Drive,Brake Control,7,Medium,Medium
+49,5/26/2022 10:26,Dozer_1,Drive,Brake Control,5,Medium,Medium
+49,5/11/2022 21:15,Backhoe_Loader_1,Drive,Brake Control,3,Medium,Medium
+49,5/27/2022 2:12,Articulated_Truck_1,Drive,Brake Control,4,Medium,Medium
+49,6/9/2022 3:43,Asphalt_Paver_1,Drive,Brake Control,5,Medium,Medium
+49,6/24/2022 12:03,Asphalt_Paver_1,Fuel,Pressure,61,Medium,Low
+49,5/7/2022 3:48,Dozer_1,Fuel,Pressure,58,Medium,Low
+49,6/19/2022 15:31,Excavator_1,Fuel,Pressure,45,Medium,Low
+49,5/3/2022 11:34,Articulated_Truck_1,Fuel,Pressure,49,Medium,Low
+49,6/2/2022 19:26,Backhoe_Loader_1,Fuel,Pressure,56,Medium,Low
+49,6/6/2022 15:31,Backhoe_Loader_1,Engine,Speed,1394,Medium,Medium
+49,5/3/2022 10:13,Articulated_Truck_1,Engine,Speed,1560,Medium,Medium
+49,5/22/2022 16:32,Excavator_1,Engine,Speed,1377,Medium,Medium
+49,6/16/2022 9:04,Asphalt_Paver_1,Engine,Speed,1484,Medium,Medium
+49,6/28/2022 15:45,Dozer_1,Engine,Speed,1530,Medium,Medium
+49,6/2/2022 18:33,Excavator_1,Misc,System Voltage,13.2075124864939,Medium,High
+49,5/23/2022 2:47,Articulated_Truck_1,Misc,System Voltage,14.8,Medium,High
+49,6/21/2022 12:15,Dozer_1,Misc,System Voltage,14.2782170425377,Medium,High
+49,6/5/2022 12:35,Backhoe_Loader_1,Misc,System Voltage,14.7083488561565,Medium,High
+49,6/8/2022 4:56,Asphalt_Paver_1,Misc,System Voltage,12.92,Medium,High
+50,5/9/2022 3:25,Excavator_1,Misc,Exhaust Gas Temparature,262,Medium,High
+50,5/23/2022 10:33,Articulated_Truck_1,Misc,Exhaust Gas Temparature,176,Medium,High
+50,5/16/2022 0:54,Asphalt_Paver_1,Misc,Exhaust Gas Temparature,221,Medium,High
+50,6/7/2022 9:20,Backhoe_Loader_1,Misc,Exhaust Gas Temparature,199,Medium,High
+50,6/6/2022 13:37,Dozer_1,Misc,Exhaust Gas Temparature,300,Medium,High
+50,5/24/2022 6:15,Articulated_Truck_1,Engine,Oil Pressure,65,High,High
+50,5/8/2022 23:35,Backhoe_Loader_1,Engine,Oil Pressure,51,Medium,High
+50,5/5/2022 16:57,Excavator_1,Engine,Oil Pressure,43,Medium,High
+50,6/10/2022 20:50,Asphalt_Paver_1,Engine,Oil Pressure,51,Medium,High
+50,6/21/2022 13:02,Dozer_1,Engine,Oil Pressure,64,Medium,High
+50,6/25/2022 3:32,Asphalt_Paver_1,Drive,Transmission Pressure,232,Medium,Medium
+50,5/21/2022 16:36,Excavator_1,Drive,Transmission Pressure,363,Medium,Medium
+50,6/17/2022 9:01,Backhoe_Loader_1,Drive,Transmission Pressure,377,Medium,Medium
+50,5/24/2022 13:05,Dozer_1,Drive,Transmission Pressure,444,Medium,Medium
+50,5/12/2022 19:31,Articulated_Truck_1,Drive,Transmission Pressure,391,Medium,Medium
+50,5/23/2022 4:38,Backhoe_Loader_1,Fuel,Water in Fuel,1400,Medium,High
+50,5/27/2022 22:23,Asphalt_Paver_1,Fuel,Water in Fuel,622,Medium,High
+50,6/26/2022 11:10,Dozer_1,Fuel,Water in Fuel,1368,Medium,High
+50,5/13/2022 0:03,Excavator_1,Fuel,Water in Fuel,1439,Medium,High
+50,5/7/2022 21:21,Articulated_Truck_1,Fuel,Water in Fuel,448,Medium,High

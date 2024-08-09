@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Predict Service Need</title>
+</head>
+<body>
+    <h1>Predict Service Need</h1>
+    <form action="/predict" method="post">
+        <label for="machine">Machine Name:</label>
+        <input type="text" id="machine" name="machine" required><br><br>
+        
+        <label for="component">Component Name:</label>
+        <input type="text" id="component" name="component" required><br><br>
+        
+        <label for="parameter">Parameter Name:</label>
+        <input type="text" id="parameter" name="parameter" required><br><br>
+        
+        <label for="value">Value:</label>
+        <input type="number" id="value" name="value" step="any" required><br><br>
+        
+        <label for="current_time">Current Time (format: dd-mm-yyyy hh:mm):</label>
+        <input type="text" id="current_time" name="current_time" required><br><br>
+        
+        <input type="submit" value="Submit">
+    </form>
+
+    {% if result %}
+    <h2>Result:</h2>
+    <p>Service Status: {{ result.service_status }}</p>
+    <p>Days Left: {{ result.days_left }}</p>
+    {% endif %}
+</body>
+</html>
