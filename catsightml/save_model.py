@@ -6,9 +6,11 @@ from sklearn.metrics import classification_report, accuracy_score
 import pickle
 
 # Load and preprocess data
-df = pd.read_csv('Final_Data.csv')
-df['Time'] = pd.to_datetime(df['Time'], format='%m/%d/%Y %H:%M')  # Adjusted format
-df['Needs_Service'] = df['Probability of Failure'].map({'High': 1, 'Medium': 0, 'Low': 0})
+df = pd.read_csv('Final_Data1.csv')
+df['Time'] = pd.to_datetime(df['Time'], format='%m/%d/%Y %H:%M')
+
+# Define the conditions for servicing
+df['Needs_Service'] = ((df['Threshold'].isin(['High', 'Low'])) & (df['Probability of Failure'] == 'High')).astype(int)
 
 # Encode categorical features
 label_encoders = {}

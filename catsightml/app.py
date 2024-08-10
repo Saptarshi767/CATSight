@@ -1,6 +1,7 @@
 from flask import Flask, request, render_template
 import pandas as pd
 import pickle
+import datetime
 
 app = Flask(__name__)
 
@@ -11,14 +12,10 @@ with open('service_model.pkl', 'rb') as model_file:
 with open('label_encoders.pkl', 'rb') as le_file:
     label_encoders = pickle.load(le_file)
 
-# Dummy DataFrame to simulate the original data
-df = pd.DataFrame({
-    'Machine': [],
-    'Component': [],
-    'Parameter': [],
-    'Value': [],
-    'Time': []
-})
+# Load and preprocess data
+df = pd.read_csv('Final_Data.csv')
+df['Time'] = pd.to_datetime(df['Time'], format='%m/%d/%Y %H:%M')
+df['Needs_Service'] = df['Probability of Failure'].map({'High': 1, 'Medium': 0, 'Low': 0})
 
 def predict_service_need_and_days_left(machine, component, parameter, value, current_time):
     # Encode the inputs
@@ -56,10 +53,9 @@ def predict():
     component = request.form['component']
     parameter = request.form['parameter']
     value = float(request.form['value'])
-    current_time_str = request.form['current_time']
     
-    # Adjust date format to match the input
-    current_time = pd.to_datetime(current_time_str, format='%d/%m/%Y %H:%M')
+    # Use the current system time
+    current_time = pd.Timestamp.now()
     
     service_status, days_left = predict_service_need_and_days_left(machine, component, parameter, value, current_time)
     

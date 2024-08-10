@@ -1,0 +1,1001 @@
+﻿Id,Time,Machine,Component,Parameter,Value,Threshold,Probability of Failure
+1,06-05-2024 07:39,Asphalt_Paver_1,Drive,Brake Control,10,Medium,Medium
+1,28-06-2024 01:17,Articulated_Truck_1,Drive,Brake Control,2,Medium,Medium
+1,28-06-2024 23:08,Dozer_1,Drive,Brake Control,7,Medium,Medium
+1,07-06-2024 08:39,Backhoe_Loader_1,Drive,Brake Control,6,Medium,Medium
+1,29-06-2024 22:23,Excavator_1,Drive,Brake Control,9,Medium,Medium
+1,23-05-2024 06:10,Asphalt_Paver_1,Engine,Speed,1340,Medium,Medium
+1,12-05-2024 09:47,Articulated_Truck_1,Engine,Speed,1700,Medium,Medium
+1,05-05-2024 13:42,Excavator_1,Engine,Speed,1755,Medium,Medium
+1,19-05-2024 10:40,Backhoe_Loader_1,Engine,Speed,1352,Medium,Medium
+1,07-05-2024 09:44,Dozer_1,Engine,Speed,1580,Medium,Medium
+1,19-05-2024 14:48,Asphalt_Paver_1,Misc,System Voltage,13.22,Medium,High
+1,23-05-2024 10:00,Articulated_Truck_1,Misc,System Voltage,12.6,Medium,High
+1,29-05-2024 01:45,Excavator_1,Misc,System Voltage,13.64227188,Medium,High
+1,14-06-2024 07:01,Backhoe_Loader_1,Misc,System Voltage,14.95455433,Medium,High
+1,14-05-2024 21:15,Dozer_1,Misc,System Voltage,13.25205631,Medium,High
+1,27-06-2024 21:17,Excavator_1,Fuel,Water in Fuel,434,Medium,High
+1,17-06-2024 11:44,Backhoe_Loader_1,Fuel,Water in Fuel,1655,Medium,High
+1,09-06-2024 14:04,Articulated_Truck_1,Fuel,Water in Fuel,50,Medium,High
+1,25-05-2024 03:32,Dozer_1,Fuel,Water in Fuel,286,Medium,High
+1,12-06-2024 23:59,Asphalt_Paver_1,Fuel,Water in Fuel,1444,Medium,High
+2,06-05-2024 21:13,Dozer_1,Misc,Exhaust Gas Temparature,244,Medium,High
+2,20-06-2024 14:48,Backhoe_Loader_1,Misc,Exhaust Gas Temparature,217,Medium,High
+2,08-06-2024 20:46,Excavator_1,Misc,Exhaust Gas Temparature,304,Medium,High
+2,21-05-2024 22:05,Asphalt_Paver_1,Misc,Exhaust Gas Temparature,249,Medium,High
+2,01-06-2024 21:02,Articulated_Truck_1,Misc,Exhaust Gas Temparature,190,Medium,High
+2,02-06-2024 19:20,Asphalt_Paver_1,Fuel,Level,6,Medium,Low
+2,02-05-2024 05:43,Dozer_1,Fuel,Level,2,Medium,Low
+2,27-05-2024 08:34,Excavator_1,Fuel,Level,2,Medium,Low
+2,03-06-2024 05:13,Backhoe_Loader_1,Fuel,Level,1,Low,Low
+2,15-05-2024 20:33,Articulated_Truck_1,Fuel,Level,10,Medium,Low
+2,06-05-2024 20:48,Dozer_1,Engine,Temparature,91,Medium,High
+2,29-06-2024 18:42,Excavator_1,Engine,Temparature,93,Medium,High
+2,22-06-2024 10:39,Backhoe_Loader_1,Engine,Temparature,75,Medium,High
+2,13-05-2024 06:00,Asphalt_Paver_1,Engine,Temparature,86,Medium,High
+2,09-06-2024 08:21,Articulated_Truck_1,Engine,Temparature,75,Medium,High
+2,25-06-2024 01:19,Asphalt_Paver_1,Drive,Transmission Pressure,281,Medium,Medium
+2,25-05-2024 15:52,Excavator_1,Drive,Transmission Pressure,406,Medium,Medium
+2,01-06-2024 06:08,Dozer_1,Drive,Transmission Pressure,337,Medium,Medium
+2,02-05-2024 07:24,Articulated_Truck_1,Drive,Transmission Pressure,220,Medium,Medium
+2,14-06-2024 15:29,Backhoe_Loader_1,Drive,Transmission Pressure,219,Medium,Medium
+3,13-06-2024 16:09,Asphalt_Paver_1,Misc,Hydraulic Pump Rate,124,Medium,Medium
+3,12-06-2024 21:23,Dozer_1,Misc,Hydraulic Pump Rate,122,Medium,Medium
+3,29-06-2024 22:33,Backhoe_Loader_1,Misc,Hydraulic Pump Rate,95,Medium,Medium
+3,27-05-2024 06:31,Excavator_1,Misc,Hydraulic Pump Rate,124,Medium,Medium
+3,19-06-2024 04:00,Articulated_Truck_1,Misc,Hydraulic Pump Rate,115,Medium,Medium
+3,20-06-2024 22:44,Asphalt_Paver_1,Engine,Oil Pressure,58,Medium,High
+3,28-06-2024 02:33,Dozer_1,Engine,Oil Pressure,53,Medium,High
+3,12-06-2024 06:40,Backhoe_Loader_1,Engine,Oil Pressure,30,Medium,High
+3,01-06-2024 18:55,Articulated_Truck_1,Engine,Oil Pressure,60,Medium,High
+3,07-05-2024 16:15,Excavator_1,Engine,Oil Pressure,59,Medium,High
+3,13-06-2024 00:44,Excavator_1,Drive,Pedal Sensor,3.550386723,Medium,Low
+3,12-05-2024 06:44,Dozer_1,Drive,Pedal Sensor,3.038219028,Medium,Low
+3,06-06-2024 06:35,Backhoe_Loader_1,Drive,Pedal Sensor,4.827011927,High,Low
+3,26-06-2024 17:42,Asphalt_Paver_1,Drive,Pedal Sensor,3.06,Medium,Low
+3,20-05-2024 20:12,Articulated_Truck_1,Drive,Pedal Sensor,4.2,Medium,Low
+3,04-06-2024 23:24,Articulated_Truck_1,Fuel,Temparature,0,Medium,High
+3,15-05-2024 18:09,Dozer_1,Fuel,Temparature,298,Medium,High
+3,28-06-2024 04:22,Asphalt_Paver_1,Fuel,Temparature,394,Medium,High
+3,20-06-2024 16:43,Excavator_1,Fuel,Temparature,398,Medium,High
+3,01-05-2024 08:01,Backhoe_Loader_1,Fuel,Temparature,243,Medium,High
+4,25-06-2024 22:35,Dozer_1,Misc,Air Filter Pressure,34,Medium,Medium
+4,05-06-2024 00:21,Excavator_1,Misc,Air Filter Pressure,22,Medium,Medium
+4,23-06-2024 05:12,Backhoe_Loader_1,Misc,Air Filter Pressure,30,Medium,Medium
+4,30-06-2024 19:39,Asphalt_Paver_1,Misc,Air Filter Pressure,26,Medium,Medium
+4,23-06-2024 23:50,Articulated_Truck_1,Misc,Air Filter Pressure,22,Medium,Medium
+4,21-05-2024 23:07,Articulated_Truck_1,Fuel,Pressure,44,Medium,Low
+4,30-05-2024 14:58,Dozer_1,Fuel,Pressure,47,Medium,Low
+4,03-06-2024 16:57,Backhoe_Loader_1,Fuel,Pressure,37,Medium,Low
+4,22-05-2024 11:28,Asphalt_Paver_1,Fuel,Pressure,45,Medium,Low
+4,22-05-2024 23:13,Excavator_1,Fuel,Pressure,43,Medium,Low
+4,09-06-2024 03:45,Backhoe_Loader_1,Engine,Temparature,82,Medium,High
+4,23-05-2024 12:25,Asphalt_Paver_1,Engine,Temparature,98,Medium,High
+4,11-06-2024 14:27,Excavator_1,Engine,Temparature,104,Medium,High
+4,03-06-2024 21:24,Articulated_Truck_1,Engine,Temparature,78,Medium,High
+4,16-05-2024 08:00,Dozer_1,Engine,Temparature,89,Medium,High
+4,17-06-2024 07:14,Dozer_1,Drive,Transmission Pressure,246,Medium,Medium
+4,14-05-2024 11:42,Backhoe_Loader_1,Drive,Transmission Pressure,292,Medium,Medium
+4,07-06-2024 03:43,Excavator_1,Drive,Transmission Pressure,263,Medium,Medium
+4,21-05-2024 11:13,Articulated_Truck_1,Drive,Transmission Pressure,335,Medium,Medium
+4,07-05-2024 21:40,Asphalt_Paver_1,Drive,Transmission Pressure,259,Medium,Medium
+5,29-05-2024 00:32,Excavator_1,Drive,Pedal Sensor,3.726178894,Medium,Low
+5,01-06-2024 00:48,Articulated_Truck_1,Drive,Pedal Sensor,4.4,Medium,Low
+5,05-06-2024 01:06,Backhoe_Loader_1,Drive,Pedal Sensor,4.409465609,Medium,Low
+5,28-05-2024 03:30,Dozer_1,Drive,Pedal Sensor,4.784579445,High,Low
+5,28-06-2024 04:42,Asphalt_Paver_1,Drive,Pedal Sensor,3.78,Medium,Low
+5,24-06-2024 17:00,Dozer_1,Engine,Speed,1456,Medium,Medium
+5,17-05-2024 08:18,Asphalt_Paver_1,Engine,Speed,1538,Medium,Medium
+5,28-06-2024 06:46,Excavator_1,Engine,Speed,1523,Medium,Medium
+5,23-06-2024 11:02,Articulated_Truck_1,Engine,Speed,1750,Medium,Medium
+5,23-06-2024 06:41,Backhoe_Loader_1,Engine,Speed,1390,Medium,Medium
+5,22-05-2024 12:43,Backhoe_Loader_1,Misc,System Voltage,14.99601457,Medium,High
+5,08-06-2024 13:17,Dozer_1,Misc,System Voltage,13.86743623,Medium,High
+5,20-06-2024 12:05,Excavator_1,Misc,System Voltage,13.76061245,Medium,High
+5,23-06-2024 20:53,Articulated_Truck_1,Misc,System Voltage,13.1,Medium,High
+5,29-05-2024 01:31,Asphalt_Paver_1,Misc,System Voltage,15.42,High,High
+5,08-05-2024 08:35,Asphalt_Paver_1,Fuel,Water in Fuel,1413,Medium,High
+5,21-06-2024 11:20,Excavator_1,Fuel,Water in Fuel,276,Medium,High
+5,06-06-2024 18:13,Dozer_1,Fuel,Water in Fuel,287,Medium,High
+5,12-05-2024 02:05,Articulated_Truck_1,Fuel,Water in Fuel,70,Medium,High
+5,19-06-2024 00:00,Backhoe_Loader_1,Fuel,Water in Fuel,125,Medium,High
+6,02-05-2024 08:37,Backhoe_Loader_1,Misc,Exhaust Gas Temparature,223,Medium,High
+6,15-06-2024 13:51,Excavator_1,Misc,Exhaust Gas Temparature,312,Medium,High
+6,29-06-2024 14:50,Articulated_Truck_1,Misc,Exhaust Gas Temparature,210,Medium,High
+6,04-05-2024 21:10,Dozer_1,Misc,Exhaust Gas Temparature,368,High,High
+6,11-06-2024 03:24,Asphalt_Paver_1,Misc,Exhaust Gas Temparature,323,Medium,High
+6,03-06-2024 15:23,Dozer_1,Fuel,Level,6,Medium,Low
+6,07-06-2024 14:19,Articulated_Truck_1,Fuel,Level,9,Medium,Low
+6,28-06-2024 08:12,Asphalt_Paver_1,Fuel,Level,1,Low,Low
+6,03-06-2024 18:21,Excavator_1,Fuel,Level,10,Medium,Low
+6,23-05-2024 18:45,Backhoe_Loader_1,Fuel,Level,5,Medium,Low
+6,20-06-2024 15:06,Excavator_1,Engine,Oil Pressure,60,Medium,High
+6,03-06-2024 11:49,Asphalt_Paver_1,Engine,Oil Pressure,62,Medium,High
+6,21-06-2024 17:50,Articulated_Truck_1,Engine,Oil Pressure,67,High,High
+6,28-06-2024 13:49,Dozer_1,Engine,Oil Pressure,61,Medium,High
+6,26-05-2024 15:48,Backhoe_Loader_1,Engine,Oil Pressure,51,Medium,High
+6,23-06-2024 17:33,Backhoe_Loader_1,Drive,Transmission Pressure,376,Medium,Medium
+6,27-05-2024 23:46,Dozer_1,Drive,Transmission Pressure,222,Medium,Medium
+6,28-06-2024 23:55,Asphalt_Paver_1,Drive,Transmission Pressure,332,Medium,Medium
+6,29-06-2024 02:58,Articulated_Truck_1,Drive,Transmission Pressure,375,Medium,Medium
+6,06-05-2024 05:00,Excavator_1,Drive,Transmission Pressure,255,Medium,Medium
+7,16-05-2024 07:59,Asphalt_Paver_1,Misc,Hydraulic Pump Rate,113,Medium,Medium
+7,16-06-2024 20:11,Backhoe_Loader_1,Misc,Hydraulic Pump Rate,83,Medium,Medium
+7,29-06-2024 21:21,Articulated_Truck_1,Misc,Hydraulic Pump Rate,118,Medium,Medium
+7,14-05-2024 13:26,Excavator_1,Misc,Hydraulic Pump Rate,92,Medium,Medium
+7,19-06-2024 05:59,Dozer_1,Misc,Hydraulic Pump Rate,119,Medium,Medium
+7,22-05-2024 15:47,Backhoe_Loader_1,Drive,Pedal Sensor,3.807598708,Medium,Low
+7,09-05-2024 12:13,Dozer_1,Drive,Pedal Sensor,3.632488491,Medium,Low
+7,05-05-2024 13:18,Excavator_1,Drive,Pedal Sensor,3.272352887,Medium,Low
+7,24-06-2024 03:34,Asphalt_Paver_1,Drive,Pedal Sensor,3.12,Medium,Low
+7,03-06-2024 19:01,Articulated_Truck_1,Drive,Pedal Sensor,3.9,Medium,Low
+7,30-05-2024 18:55,Asphalt_Paver_1,Engine,Temparature,87,Medium,High
+7,28-05-2024 23:52,Articulated_Truck_1,Engine,Temparature,80,Medium,High
+7,12-05-2024 08:33,Dozer_1,Engine,Temparature,91,Medium,High
+7,26-06-2024 19:35,Excavator_1,Engine,Temparature,91,Medium,High
+7,19-05-2024 07:14,Backhoe_Loader_1,Engine,Temparature,97,Medium,High
+7,19-05-2024 10:03,Dozer_1,Fuel,Temparature,258,Medium,High
+7,27-06-2024 21:18,Backhoe_Loader_1,Fuel,Temparature,225,Medium,High
+7,13-05-2024 22:39,Excavator_1,Fuel,Temparature,287,Medium,High
+7,09-05-2024 03:18,Asphalt_Paver_1,Fuel,Temparature,398,Medium,High
+7,02-05-2024 15:33,Articulated_Truck_1,Fuel,Temparature,0,Medium,High
+8,18-05-2024 16:12,Backhoe_Loader_1,Misc,Air Filter Pressure,27,Medium,Medium
+8,05-05-2024 11:01,Dozer_1,Misc,Air Filter Pressure,21,Medium,Medium
+8,03-06-2024 00:36,Articulated_Truck_1,Misc,Air Filter Pressure,23,Medium,Medium
+8,21-05-2024 07:16,Asphalt_Paver_1,Misc,Air Filter Pressure,25,Medium,Medium
+8,29-05-2024 19:50,Excavator_1,Misc,Air Filter Pressure,27,Medium,Medium
+8,22-06-2024 15:54,Asphalt_Paver_1,Drive,Brake Control,10,Medium,Medium
+8,18-06-2024 14:11,Dozer_1,Drive,Brake Control,8,Medium,Medium
+8,20-06-2024 01:28,Excavator_1,Drive,Brake Control,8,Medium,Medium
+8,16-05-2024 09:07,Articulated_Truck_1,Drive,Brake Control,8,Medium,Medium
+8,04-06-2024 22:55,Backhoe_Loader_1,Drive,Brake Control,3,Medium,Medium
+8,21-05-2024 21:04,Dozer_1,Fuel,Pressure,48,Medium,Low
+8,26-06-2024 11:53,Backhoe_Loader_1,Fuel,Pressure,59,Medium,Low
+8,15-05-2024 15:03,Asphalt_Paver_1,Fuel,Pressure,60,Medium,Low
+8,09-06-2024 14:12,Articulated_Truck_1,Fuel,Pressure,46,Medium,Low
+8,07-05-2024 00:43,Excavator_1,Fuel,Pressure,36,Medium,Low
+8,09-05-2024 12:13,Dozer_1,Engine,Speed,1357,Medium,Medium
+8,01-05-2024 19:51,Articulated_Truck_1,Engine,Speed,1600,Medium,Medium
+8,03-05-2024 22:17,Asphalt_Paver_1,Engine,Speed,1391,Medium,Medium
+8,09-05-2024 12:19,Excavator_1,Engine,Speed,1573,Medium,Medium
+8,02-06-2024 17:20,Backhoe_Loader_1,Engine,Speed,1429,Medium,Medium
+9,03-05-2024 12:48,Dozer_1,Drive,Brake Control,5,Medium,Medium
+9,12-05-2024 07:33,Asphalt_Paver_1,Drive,Brake Control,5,Medium,Medium
+9,16-06-2024 18:04,Articulated_Truck_1,Drive,Brake Control,3,Medium,Medium
+9,02-05-2024 13:13,Backhoe_Loader_1,Drive,Brake Control,6,Medium,Medium
+9,19-05-2024 16:41,Excavator_1,Drive,Brake Control,7,Medium,Medium
+9,30-05-2024 06:17,Asphalt_Paver_1,Engine,Oil Pressure,61,Medium,High
+9,20-05-2024 11:47,Backhoe_Loader_1,Engine,Oil Pressure,49,Medium,High
+9,11-05-2024 08:31,Excavator_1,Engine,Oil Pressure,60,Medium,High
+9,30-05-2024 14:08,Dozer_1,Engine,Oil Pressure,25,Low,High
+9,18-06-2024 10:48,Articulated_Truck_1,Engine,Oil Pressure,64,Medium,High
+9,18-05-2024 15:57,Asphalt_Paver_1,Misc,System Voltage,13.01,Medium,High
+9,16-05-2024 22:24,Articulated_Truck_1,Misc,System Voltage,12.7,Medium,High
+9,05-06-2024 05:05,Dozer_1,Misc,System Voltage,14.37954839,Medium,High
+9,24-06-2024 20:26,Excavator_1,Misc,System Voltage,12.71409262,Medium,High
+9,26-05-2024 20:01,Backhoe_Loader_1,Misc,System Voltage,13.52453023,Medium,High
+9,20-05-2024 12:23,Backhoe_Loader_1,Fuel,Water in Fuel,1697,Medium,High
+9,10-05-2024 09:05,Dozer_1,Fuel,Water in Fuel,1315,Medium,High
+9,18-05-2024 21:05,Excavator_1,Fuel,Water in Fuel,422,Medium,High
+9,21-05-2024 11:04,Asphalt_Paver_1,Fuel,Water in Fuel,887,Medium,High
+9,26-05-2024 18:34,Articulated_Truck_1,Fuel,Water in Fuel,73,Medium,High
+10,27-05-2024 18:48,Backhoe_Loader_1,Drive,Brake Control,9,Medium,Medium
+10,13-05-2024 18:58,Articulated_Truck_1,Drive,Brake Control,7,Medium,Medium
+10,07-06-2024 11:45,Excavator_1,Drive,Brake Control,10,Medium,Medium
+10,10-05-2024 19:19,Dozer_1,Drive,Brake Control,2,Medium,Medium
+10,14-05-2024 12:07,Asphalt_Paver_1,Drive,Brake Control,7,Medium,Medium
+10,05-05-2024 21:47,Dozer_1,Misc,Exhaust Gas Temparature,347,Medium,High
+10,17-06-2024 04:21,Articulated_Truck_1,Misc,Exhaust Gas Temparature,222,Medium,High
+10,27-05-2024 15:05,Backhoe_Loader_1,Misc,Exhaust Gas Temparature,354,Medium,High
+10,01-06-2024 05:43,Excavator_1,Misc,Exhaust Gas Temparature,359,Medium,High
+10,19-06-2024 02:42,Asphalt_Paver_1,Misc,Exhaust Gas Temparature,338,Medium,High
+10,24-06-2024 09:38,Articulated_Truck_1,Fuel,Level,9,Medium,Low
+10,01-05-2024 20:42,Backhoe_Loader_1,Fuel,Level,8,Medium,Low
+10,11-06-2024 04:01,Asphalt_Paver_1,Fuel,Level,6,Medium,Low
+10,05-05-2024 15:16,Dozer_1,Fuel,Level,3,Medium,Low
+10,25-05-2024 08:33,Excavator_1,Fuel,Level,7,Medium,Low
+10,25-05-2024 13:26,Asphalt_Paver_1,Engine,Speed,1331,Medium,Medium
+10,06-06-2024 17:21,Dozer_1,Engine,Speed,1581,Medium,Medium
+10,09-05-2024 09:14,Articulated_Truck_1,Engine,Speed,1800,High,Medium
+10,17-06-2024 21:14,Backhoe_Loader_1,Engine,Speed,1521,Medium,Medium
+10,19-06-2024 18:36,Excavator_1,Engine,Speed,1760,Medium,Medium
+11,04-05-2024 23:13,Asphalt_Paver_1,Misc,Hydraulic Pump Rate,99,Medium,Medium
+11,29-05-2024 10:17,Dozer_1,Misc,Hydraulic Pump Rate,120,Medium,Medium
+11,19-05-2024 07:13,Excavator_1,Misc,Hydraulic Pump Rate,105,Medium,Medium
+11,06-05-2024 16:01,Articulated_Truck_1,Misc,Hydraulic Pump Rate,110,Medium,Medium
+11,16-06-2024 21:07,Backhoe_Loader_1,Misc,Hydraulic Pump Rate,88,Medium,Medium
+11,21-06-2024 18:05,Articulated_Truck_1,Engine,Oil Pressure,72,High,High
+11,04-05-2024 08:34,Excavator_1,Engine,Oil Pressure,42,Medium,High
+11,27-05-2024 12:21,Asphalt_Paver_1,Engine,Oil Pressure,56,Medium,High
+11,22-05-2024 01:06,Dozer_1,Engine,Oil Pressure,28,Medium,High
+11,20-06-2024 09:55,Backhoe_Loader_1,Engine,Oil Pressure,47,Medium,High
+11,22-06-2024 14:49,Asphalt_Paver_1,Drive,Transmission Pressure,437,Medium,Medium
+11,06-05-2024 07:56,Dozer_1,Drive,Transmission Pressure,394,Medium,Medium
+11,07-05-2024 00:00,Articulated_Truck_1,Drive,Transmission Pressure,275,Medium,Medium
+11,06-05-2024 20:00,Excavator_1,Drive,Transmission Pressure,443,Medium,Medium
+11,07-05-2024 18:50,Backhoe_Loader_1,Drive,Transmission Pressure,385,Medium,Medium
+11,26-06-2024 04:18,Excavator_1,Fuel,Temparature,389,Medium,High
+11,25-06-2024 12:15,Backhoe_Loader_1,Fuel,Temparature,224,Medium,High
+11,14-05-2024 17:05,Asphalt_Paver_1,Fuel,Temparature,272,Medium,High
+11,28-06-2024 19:18,Articulated_Truck_1,Fuel,Temparature,0,Medium,High
+11,10-06-2024 14:57,Dozer_1,Fuel,Temparature,247,Medium,High
+12,24-06-2024 01:28,Excavator_1,Misc,Air Filter Pressure,22,Medium,Medium
+12,25-06-2024 08:18,Articulated_Truck_1,Misc,Air Filter Pressure,25,Medium,Medium
+12,02-06-2024 21:54,Backhoe_Loader_1,Misc,Air Filter Pressure,25,Medium,Medium
+12,08-06-2024 14:35,Asphalt_Paver_1,Misc,Air Filter Pressure,34,Medium,Medium
+12,30-06-2024 15:55,Dozer_1,Misc,Air Filter Pressure,28,Medium,Medium
+12,05-05-2024 21:50,Backhoe_Loader_1,Drive,Pedal Sensor,4.482284399,Medium,Low
+12,14-05-2024 09:28,Excavator_1,Drive,Pedal Sensor,4.54230551,Medium,Low
+12,23-06-2024 00:10,Articulated_Truck_1,Drive,Pedal Sensor,3.7,Medium,Low
+12,22-06-2024 21:04,Dozer_1,Drive,Pedal Sensor,4.690052669,Medium,Low
+12,06-05-2024 08:31,Asphalt_Paver_1,Drive,Pedal Sensor,4.77,High,Low
+12,16-05-2024 12:24,Dozer_1,Fuel,Pressure,40,Medium,Low
+12,12-05-2024 21:22,Excavator_1,Fuel,Pressure,35,Low,Low
+12,11-06-2024 11:11,Asphalt_Paver_1,Fuel,Pressure,42,Medium,Low
+12,29-06-2024 13:37,Articulated_Truck_1,Fuel,Pressure,56,Medium,Low
+12,10-05-2024 04:48,Backhoe_Loader_1,Fuel,Pressure,49,Medium,Low
+12,06-06-2024 09:36,Excavator_1,Engine,Speed,1644,Medium,Medium
+12,28-06-2024 17:11,Backhoe_Loader_1,Engine,Speed,1720,Medium,Medium
+12,11-05-2024 11:42,Asphalt_Paver_1,Engine,Speed,1424,Medium,Medium
+12,18-05-2024 20:55,Dozer_1,Engine,Speed,1529,Medium,Medium
+12,13-06-2024 09:02,Articulated_Truck_1,Engine,Speed,1345,Medium,Medium
+13,10-06-2024 06:17,Dozer_1,Misc,System Voltage,14.71944435,Medium,High
+13,03-06-2024 05:52,Asphalt_Paver_1,Misc,System Voltage,13.01,Medium,High
+13,09-06-2024 06:04,Excavator_1,Misc,System Voltage,12.28242958,Medium,High
+13,28-05-2024 06:14,Articulated_Truck_1,Misc,System Voltage,14.1,Medium,High
+13,28-06-2024 19:01,Backhoe_Loader_1,Misc,System Voltage,15.82313627,High,High
+13,10-06-2024 15:00,Backhoe_Loader_1,Engine,Temparature,79,Medium,High
+13,21-06-2024 05:48,Dozer_1,Engine,Temparature,89,Medium,High
+13,15-05-2024 05:11,Asphalt_Paver_1,Engine,Temparature,87,Medium,High
+13,15-05-2024 22:24,Articulated_Truck_1,Engine,Temparature,90,Medium,High
+13,24-05-2024 18:41,Excavator_1,Engine,Temparature,75,Medium,High
+13,05-06-2024 07:06,Dozer_1,Drive,Transmission Pressure,223,Medium,Medium
+13,07-06-2024 03:24,Backhoe_Loader_1,Drive,Transmission Pressure,286,Medium,Medium
+13,11-05-2024 03:11,Excavator_1,Drive,Transmission Pressure,403,Medium,Medium
+13,10-06-2024 17:48,Asphalt_Paver_1,Drive,Transmission Pressure,383,Medium,Medium
+13,12-06-2024 22:26,Articulated_Truck_1,Drive,Transmission Pressure,300,Medium,Medium
+13,16-06-2024 09:20,Backhoe_Loader_1,Fuel,Water in Fuel,387,Medium,High
+13,24-05-2024 00:58,Articulated_Truck_1,Fuel,Water in Fuel,78,Medium,High
+13,04-06-2024 18:32,Dozer_1,Fuel,Water in Fuel,231,Medium,High
+13,17-06-2024 15:59,Excavator_1,Fuel,Water in Fuel,544,Medium,High
+13,13-06-2024 19:58,Asphalt_Paver_1,Fuel,Water in Fuel,776,Medium,High
+14,30-06-2024 20:17,Asphalt_Paver_1,Misc,Exhaust Gas Temparature,195,Medium,High
+14,19-06-2024 23:44,Dozer_1,Misc,Exhaust Gas Temparature,344,Medium,High
+14,09-05-2024 12:01,Backhoe_Loader_1,Misc,Exhaust Gas Temparature,364,Medium,High
+14,06-05-2024 13:30,Excavator_1,Misc,Exhaust Gas Temparature,306,Medium,High
+14,21-05-2024 20:03,Articulated_Truck_1,Misc,Exhaust Gas Temparature,265,Medium,High
+14,28-05-2024 05:42,Dozer_1,Fuel,Level,6,Medium,Low
+14,03-06-2024 18:24,Asphalt_Paver_1,Fuel,Level,4,Medium,Low
+14,10-05-2024 02:55,Excavator_1,Fuel,Level,4,Medium,Low
+14,20-06-2024 09:17,Articulated_Truck_1,Fuel,Level,9,Medium,Low
+14,12-05-2024 15:06,Backhoe_Loader_1,Fuel,Level,6,Medium,Low
+14,17-06-2024 00:42,Asphalt_Paver_1,Engine,Oil Pressure,49,Medium,High
+14,27-05-2024 17:18,Articulated_Truck_1,Engine,Oil Pressure,44,Medium,High
+14,21-05-2024 20:21,Backhoe_Loader_1,Engine,Oil Pressure,45,Medium,High
+14,30-05-2024 21:15,Excavator_1,Engine,Oil Pressure,37,Medium,High
+14,29-05-2024 13:59,Dozer_1,Engine,Oil Pressure,50,Medium,High
+14,16-06-2024 00:37,Articulated_Truck_1,Drive,Pedal Sensor,4.4,Medium,Low
+14,06-05-2024 18:34,Backhoe_Loader_1,Drive,Pedal Sensor,3.536676058,Medium,Low
+14,12-05-2024 20:40,Dozer_1,Drive,Pedal Sensor,4.432169639,Medium,Low
+14,09-06-2024 19:43,Excavator_1,Drive,Pedal Sensor,4.88319137,High,Low
+14,07-06-2024 20:12,Asphalt_Paver_1,Drive,Pedal Sensor,3.79,Medium,Low
+15,11-05-2024 11:58,Excavator_1,Misc,Hydraulic Pump Rate,77,Medium,Medium
+15,06-05-2024 15:35,Asphalt_Paver_1,Misc,Hydraulic Pump Rate,88,Medium,Medium
+15,30-06-2024 13:37,Articulated_Truck_1,Misc,Hydraulic Pump Rate,120,Medium,Medium
+15,12-05-2024 03:24,Dozer_1,Misc,Hydraulic Pump Rate,111,Medium,Medium
+15,23-06-2024 12:01,Backhoe_Loader_1,Misc,Hydraulic Pump Rate,85,Medium,Medium
+15,01-05-2024 13:12,Excavator_1,Engine,Temparature,95,Medium,High
+15,13-05-2024 07:50,Dozer_1,Engine,Temparature,95,Medium,High
+15,14-06-2024 16:03,Articulated_Truck_1,Engine,Temparature,100,Medium,High
+15,05-05-2024 00:55,Asphalt_Paver_1,Engine,Temparature,78,Medium,High
+15,28-06-2024 11:29,Backhoe_Loader_1,Engine,Temparature,93,Medium,High
+15,29-06-2024 01:08,Articulated_Truck_1,Drive,Transmission Pressure,337,Medium,Medium
+15,25-06-2024 12:17,Asphalt_Paver_1,Drive,Transmission Pressure,306,Medium,Medium
+15,23-05-2024 21:06,Excavator_1,Drive,Transmission Pressure,381,Medium,Medium
+15,13-06-2024 06:03,Dozer_1,Drive,Transmission Pressure,253,Medium,Medium
+15,30-06-2024 15:28,Backhoe_Loader_1,Drive,Transmission Pressure,272,Medium,Medium
+15,23-06-2024 08:05,Backhoe_Loader_1,Fuel,Temparature,363,Medium,High
+15,30-05-2024 23:01,Excavator_1,Fuel,Temparature,318,Medium,High
+15,27-06-2024 01:47,Dozer_1,Fuel,Temparature,326,Medium,High
+15,26-06-2024 04:23,Asphalt_Paver_1,Fuel,Temparature,291,Medium,High
+15,23-05-2024 04:38,Articulated_Truck_1,Fuel,Temparature,0,Medium,High
+16,10-05-2024 14:45,Backhoe_Loader_1,Misc,Air Filter Pressure,27,Medium,Medium
+16,23-05-2024 15:44,Excavator_1,Misc,Air Filter Pressure,23,Medium,Medium
+16,19-05-2024 20:12,Asphalt_Paver_1,Misc,Air Filter Pressure,27,Medium,Medium
+16,17-05-2024 20:48,Dozer_1,Misc,Air Filter Pressure,31,Medium,Medium
+16,21-05-2024 01:03,Articulated_Truck_1,Misc,Air Filter Pressure,27,Medium,Medium
+16,02-06-2024 17:40,Dozer_1,Drive,Pedal Sensor,3.164963607,Medium,Low
+16,09-05-2024 14:21,Articulated_Truck_1,Drive,Pedal Sensor,3.6,Medium,Low
+16,25-05-2024 11:57,Asphalt_Paver_1,Drive,Pedal Sensor,3.73,Medium,Low
+16,21-06-2024 03:11,Excavator_1,Drive,Pedal Sensor,3.68591812,Medium,Low
+16,16-06-2024 12:45,Backhoe_Loader_1,Drive,Pedal Sensor,4.881094041,High,Low
+16,31-05-2024 00:07,Asphalt_Paver_1,Fuel,Pressure,56,Medium,Low
+16,02-05-2024 17:24,Dozer_1,Fuel,Pressure,48,Medium,Low
+16,18-06-2024 10:52,Articulated_Truck_1,Fuel,Pressure,67,High,Low
+16,22-05-2024 07:50,Backhoe_Loader_1,Fuel,Pressure,57,Medium,Low
+16,19-05-2024 21:20,Excavator_1,Fuel,Pressure,50,Medium,Low
+16,22-06-2024 02:38,Backhoe_Loader_1,Engine,Speed,1744,Medium,Medium
+16,23-05-2024 01:33,Articulated_Truck_1,Engine,Speed,1455,Medium,Medium
+16,03-05-2024 10:01,Dozer_1,Engine,Speed,1364,Medium,Medium
+16,12-05-2024 03:56,Asphalt_Paver_1,Engine,Speed,1554,Medium,Medium
+16,04-05-2024 05:16,Excavator_1,Engine,Speed,1664,Medium,Medium
+17,08-05-2024 07:09,Dozer_1,Drive,Brake Control,9,Medium,Medium
+17,09-05-2024 05:29,Backhoe_Loader_1,Drive,Brake Control,2,Medium,Medium
+17,17-06-2024 05:25,Articulated_Truck_1,Drive,Brake Control,2,Medium,Medium
+17,07-06-2024 19:51,Asphalt_Paver_1,Drive,Brake Control,8,Medium,Medium
+17,10-05-2024 15:23,Excavator_1,Drive,Brake Control,4,Medium,Medium
+17,04-05-2024 14:15,Asphalt_Paver_1,Engine,Oil Pressure,26,Medium,High
+17,23-05-2024 23:09,Articulated_Truck_1,Engine,Oil Pressure,33,Medium,High
+17,08-05-2024 08:31,Excavator_1,Engine,Oil Pressure,32,Medium,High
+17,13-05-2024 19:38,Backhoe_Loader_1,Engine,Oil Pressure,40,Medium,High
+17,05-06-2024 03:39,Dozer_1,Engine,Oil Pressure,43,Medium,High
+17,23-05-2024 11:17,Articulated_Truck_1,Misc,System Voltage,14.4,Medium,High
+17,01-05-2024 12:55,Excavator_1,Misc,System Voltage,12.016341,Medium,High
+17,17-05-2024 12:45,Backhoe_Loader_1,Misc,System Voltage,14.28619476,Medium,High
+17,08-06-2024 15:27,Dozer_1,Misc,System Voltage,15.26097347,High,High
+17,15-06-2024 01:04,Asphalt_Paver_1,Misc,System Voltage,15.7,High,High
+17,27-06-2024 23:49,Backhoe_Loader_1,Fuel,Water in Fuel,1230,Medium,High
+17,25-05-2024 00:08,Excavator_1,Fuel,Water in Fuel,1760,Medium,High
+17,09-06-2024 04:10,Asphalt_Paver_1,Fuel,Water in Fuel,539,Medium,High
+17,06-06-2024 23:08,Dozer_1,Fuel,Water in Fuel,1210,Medium,High
+17,25-05-2024 21:48,Articulated_Truck_1,Fuel,Water in Fuel,81,Medium,High
+18,12-06-2024 14:23,Dozer_1,Drive,Brake Control,2,Medium,Medium
+18,05-05-2024 19:26,Backhoe_Loader_1,Drive,Brake Control,10,Medium,Medium
+18,20-05-2024 06:13,Articulated_Truck_1,Drive,Brake Control,8,Medium,Medium
+18,24-05-2024 07:16,Asphalt_Paver_1,Drive,Brake Control,10,Medium,Medium
+18,28-05-2024 00:21,Excavator_1,Drive,Brake Control,7,Medium,Medium
+18,25-06-2024 14:13,Backhoe_Loader_1,Misc,Exhaust Gas Temparature,298,Medium,High
+18,29-06-2024 22:26,Excavator_1,Misc,Exhaust Gas Temparature,213,Medium,High
+18,25-05-2024 00:20,Articulated_Truck_1,Misc,Exhaust Gas Temparature,240,Medium,High
+18,29-06-2024 21:59,Asphalt_Paver_1,Misc,Exhaust Gas Temparature,263,Medium,High
+18,17-06-2024 10:14,Dozer_1,Misc,Exhaust Gas Temparature,202,Medium,High
+18,09-05-2024 01:20,Dozer_1,Fuel,Level,3,Medium,Low
+18,15-06-2024 16:21,Backhoe_Loader_1,Fuel,Level,6,Medium,Low
+18,27-06-2024 14:26,Asphalt_Paver_1,Fuel,Level,6,Medium,Low
+18,07-06-2024 02:38,Articulated_Truck_1,Fuel,Level,7,Medium,Low
+18,23-06-2024 07:57,Excavator_1,Fuel,Level,6,Medium,Low
+18,16-05-2024 21:44,Backhoe_Loader_1,Engine,Temparature,93,Medium,High
+18,27-05-2024 14:24,Asphalt_Paver_1,Engine,Temparature,90,Medium,High
+18,30-05-2024 07:29,Articulated_Truck_1,Engine,Temparature,102,Medium,High
+18,10-06-2024 17:46,Dozer_1,Engine,Temparature,100,Medium,High
+18,27-06-2024 11:20,Excavator_1,Engine,Temparature,79,Medium,High
+19,22-06-2024 08:46,Asphalt_Paver_1,Drive,Brake Control,7,Medium,Medium
+19,24-06-2024 02:03,Articulated_Truck_1,Drive,Brake Control,4,Medium,Medium
+19,07-06-2024 01:33,Backhoe_Loader_1,Drive,Brake Control,10,Medium,Medium
+19,17-06-2024 17:04,Dozer_1,Drive,Brake Control,7,Medium,Medium
+19,16-05-2024 16:26,Excavator_1,Drive,Brake Control,8,Medium,Medium
+19,20-06-2024 23:33,Asphalt_Paver_1,Misc,Hydraulic Pump Rate,84,Medium,Medium
+19,23-05-2024 07:36,Backhoe_Loader_1,Misc,Hydraulic Pump Rate,117,Medium,Medium
+19,21-05-2024 12:46,Excavator_1,Misc,Hydraulic Pump Rate,96,Medium,Medium
+19,30-05-2024 19:30,Dozer_1,Misc,Hydraulic Pump Rate,113,Medium,Medium
+19,30-06-2024 18:55,Articulated_Truck_1,Misc,Hydraulic Pump Rate,122,Medium,Medium
+19,20-06-2024 02:33,Backhoe_Loader_1,Engine,Speed,1666,Medium,Medium
+19,20-06-2024 13:46,Articulated_Truck_1,Engine,Speed,1650,Medium,Medium
+19,12-05-2024 04:52,Asphalt_Paver_1,Engine,Speed,1481,Medium,Medium
+19,03-05-2024 07:01,Excavator_1,Engine,Speed,1712,Medium,Medium
+19,04-06-2024 13:31,Dozer_1,Engine,Speed,1665,Medium,Medium
+19,20-05-2024 13:06,Articulated_Truck_1,Fuel,Temparature,0,Medium,High
+19,04-06-2024 19:05,Excavator_1,Fuel,Temparature,295,Medium,High
+19,02-05-2024 07:43,Asphalt_Paver_1,Fuel,Temparature,395,Medium,High
+19,23-05-2024 17:34,Backhoe_Loader_1,Fuel,Temparature,250,Medium,High
+19,26-05-2024 00:09,Dozer_1,Fuel,Temparature,377,Medium,High
+20,14-06-2024 12:34,Backhoe_Loader_1,Misc,Air Filter Pressure,23,Medium,Medium
+20,15-06-2024 16:45,Articulated_Truck_1,Misc,Air Filter Pressure,29,Medium,Medium
+20,23-05-2024 04:38,Dozer_1,Misc,Air Filter Pressure,31,Medium,Medium
+20,30-06-2024 20:00,Excavator_1,Misc,Air Filter Pressure,25,Medium,Medium
+20,02-06-2024 17:54,Asphalt_Paver_1,Misc,Air Filter Pressure,24,Medium,Medium
+20,28-06-2024 05:59,Backhoe_Loader_1,Drive,Brake Control,9,Medium,Medium
+20,02-06-2024 02:28,Excavator_1,Drive,Brake Control,5,Medium,Medium
+20,12-05-2024 09:48,Articulated_Truck_1,Drive,Brake Control,5,Medium,Medium
+20,30-05-2024 18:53,Asphalt_Paver_1,Drive,Brake Control,8,Medium,Medium
+20,26-05-2024 06:06,Dozer_1,Drive,Brake Control,10,Medium,Medium
+20,19-06-2024 14:44,Asphalt_Paver_1,Engine,Oil Pressure,29,Medium,High
+20,02-06-2024 11:23,Backhoe_Loader_1,Engine,Oil Pressure,41,Medium,High
+20,19-05-2024 10:27,Excavator_1,Engine,Oil Pressure,58,Medium,High
+20,21-06-2024 14:25,Dozer_1,Engine,Oil Pressure,54,Medium,High
+20,08-05-2024 17:09,Articulated_Truck_1,Engine,Oil Pressure,55,Medium,High
+20,25-05-2024 02:23,Excavator_1,Fuel,Pressure,45,Medium,Low
+20,02-05-2024 14:34,Dozer_1,Fuel,Pressure,38,Medium,Low
+20,09-06-2024 03:52,Articulated_Truck_1,Fuel,Pressure,62,Medium,Low
+20,09-06-2024 00:47,Asphalt_Paver_1,Fuel,Pressure,65,High,Low
+20,12-06-2024 18:58,Backhoe_Loader_1,Fuel,Pressure,47,Medium,Low
+21,11-05-2024 20:59,Backhoe_Loader_1,Engine,Speed,1765,Medium,Medium
+21,06-06-2024 19:04,Excavator_1,Engine,Speed,1712,Medium,Medium
+21,09-05-2024 06:46,Asphalt_Paver_1,Engine,Speed,1300,Medium,Medium
+21,12-06-2024 05:42,Dozer_1,Engine,Speed,1398,Medium,Medium
+21,02-06-2024 11:18,Articulated_Truck_1,Engine,Speed,1640,Medium,Medium
+21,26-06-2024 15:31,Excavator_1,Misc,System Voltage,15.19257243,High,High
+21,29-05-2024 16:46,Articulated_Truck_1,Misc,System Voltage,14.7,Medium,High
+21,24-06-2024 04:29,Backhoe_Loader_1,Misc,System Voltage,15.03234671,High,High
+21,09-05-2024 21:40,Dozer_1,Misc,System Voltage,14.40007774,Medium,High
+21,14-06-2024 09:13,Asphalt_Paver_1,Misc,System Voltage,13.11,Medium,High
+21,10-06-2024 13:16,Asphalt_Paver_1,Drive,Transmission Pressure,249,Medium,Medium
+21,27-06-2024 13:06,Excavator_1,Drive,Transmission Pressure,374,Medium,Medium
+21,12-06-2024 21:34,Articulated_Truck_1,Drive,Transmission Pressure,250,Medium,Medium
+21,23-05-2024 01:36,Dozer_1,Drive,Transmission Pressure,402,Medium,Medium
+21,06-06-2024 17:28,Backhoe_Loader_1,Drive,Transmission Pressure,404,Medium,Medium
+21,10-06-2024 17:56,Asphalt_Paver_1,Fuel,Water in Fuel,1161,Medium,High
+21,05-06-2024 00:55,Articulated_Truck_1,Fuel,Water in Fuel,88,Medium,High
+21,03-06-2024 01:26,Backhoe_Loader_1,Fuel,Water in Fuel,1300,Medium,High
+21,28-05-2024 06:46,Dozer_1,Fuel,Water in Fuel,1491,Medium,High
+21,25-05-2024 08:41,Excavator_1,Fuel,Water in Fuel,263,Medium,High
+22,02-05-2024 07:48,Excavator_1,Misc,Exhaust Gas Temparature,240,Medium,High
+22,18-06-2024 01:20,Backhoe_Loader_1,Misc,Exhaust Gas Temparature,205,Medium,High
+22,27-05-2024 02:03,Asphalt_Paver_1,Misc,Exhaust Gas Temparature,243,Medium,High
+22,08-05-2024 10:33,Dozer_1,Misc,Exhaust Gas Temparature,332,Medium,High
+22,21-06-2024 03:15,Articulated_Truck_1,Misc,Exhaust Gas Temparature,210,Medium,High
+22,19-05-2024 02:06,Articulated_Truck_1,Fuel,Level,6,Medium,Low
+22,17-06-2024 08:17,Dozer_1,Fuel,Level,8,Medium,Low
+22,05-06-2024 14:21,Asphalt_Paver_1,Fuel,Level,7,Medium,Low
+22,21-06-2024 16:09,Backhoe_Loader_1,Fuel,Level,8,Medium,Low
+22,17-05-2024 15:55,Excavator_1,Fuel,Level,9,Medium,Low
+22,04-06-2024 17:55,Excavator_1,Engine,Oil Pressure,26,Medium,High
+22,24-05-2024 13:49,Asphalt_Paver_1,Engine,Oil Pressure,32,Medium,High
+22,28-05-2024 05:24,Dozer_1,Engine,Oil Pressure,48,Medium,High
+22,25-06-2024 20:18,Articulated_Truck_1,Engine,Oil Pressure,65,High,High
+22,03-06-2024 22:35,Backhoe_Loader_1,Engine,Oil Pressure,39,Medium,High
+22,07-05-2024 11:39,Excavator_1,Drive,Pedal Sensor,4.816566713,High,Low
+22,17-06-2024 17:06,Articulated_Truck_1,Drive,Pedal Sensor,3.6,Medium,Low
+22,17-06-2024 11:11,Asphalt_Paver_1,Drive,Pedal Sensor,4.2,Medium,Low
+22,09-05-2024 02:05,Backhoe_Loader_1,Drive,Pedal Sensor,3.142043207,Medium,Low
+22,02-06-2024 18:29,Dozer_1,Drive,Pedal Sensor,3.697780361,Medium,Low
+23,12-06-2024 19:45,Asphalt_Paver_1,Misc,Hydraulic Pump Rate,88,Medium,Medium
+23,18-06-2024 19:07,Articulated_Truck_1,Misc,Hydraulic Pump Rate,123,Medium,Medium
+23,11-05-2024 14:50,Excavator_1,Misc,Hydraulic Pump Rate,80,Medium,Medium
+23,15-06-2024 11:11,Dozer_1,Misc,Hydraulic Pump Rate,90,Medium,Medium
+23,21-06-2024 05:32,Backhoe_Loader_1,Misc,Hydraulic Pump Rate,96,Medium,Medium
+23,30-05-2024 05:05,Excavator_1,Engine,Speed,1593,Medium,Medium
+23,27-06-2024 22:36,Dozer_1,Engine,Speed,1497,Medium,Medium
+23,09-05-2024 15:32,Backhoe_Loader_1,Engine,Speed,1422,Medium,Medium
+23,13-06-2024 06:30,Asphalt_Paver_1,Engine,Speed,1622,Medium,Medium
+23,27-05-2024 22:41,Articulated_Truck_1,Engine,Speed,1340,Medium,Medium
+23,12-05-2024 20:36,Backhoe_Loader_1,Drive,Transmission Pressure,231,Medium,Medium
+23,17-06-2024 02:44,Excavator_1,Drive,Transmission Pressure,399,Medium,Medium
+23,09-06-2024 23:05,Articulated_Truck_1,Drive,Transmission Pressure,321,Medium,Medium
+23,26-05-2024 16:51,Asphalt_Paver_1,Drive,Transmission Pressure,427,Medium,Medium
+23,25-06-2024 08:31,Dozer_1,Drive,Transmission Pressure,450,High,Medium
+23,08-05-2024 10:16,Asphalt_Paver_1,Fuel,Temparature,288,Medium,High
+23,16-06-2024 13:19,Articulated_Truck_1,Fuel,Temparature,0,Medium,High
+23,18-06-2024 16:45,Backhoe_Loader_1,Fuel,Temparature,376,Medium,High
+23,23-05-2024 20:40,Dozer_1,Fuel,Temparature,372,Medium,High
+23,26-06-2024 09:05,Excavator_1,Fuel,Temparature,300,Medium,High
+24,30-06-2024 05:18,Backhoe_Loader_1,Misc,Air Filter Pressure,23,Medium,Medium
+24,26-06-2024 14:59,Asphalt_Paver_1,Misc,Air Filter Pressure,32,Medium,Medium
+24,14-06-2024 22:34,Excavator_1,Misc,Air Filter Pressure,22,Medium,Medium
+24,23-06-2024 23:45,Articulated_Truck_1,Misc,Air Filter Pressure,31,Medium,Medium
+24,02-06-2024 22:34,Dozer_1,Misc,Air Filter Pressure,20,Low,High
+24,26-05-2024 04:44,Excavator_1,Drive,Pedal Sensor,4.259719241,Medium,Low
+24,26-05-2024 07:34,Backhoe_Loader_1,Drive,Pedal Sensor,3.106900861,Medium,Low
+24,14-06-2024 08:05,Articulated_Truck_1,Drive,Pedal Sensor,4.5,Medium,Low
+24,06-06-2024 07:17,Dozer_1,Drive,Pedal Sensor,3.928947275,Medium,Low
+24,08-05-2024 14:36,Asphalt_Paver_1,Drive,Pedal Sensor,4.95,High,Low
+24,07-06-2024 12:15,Articulated_Truck_1,Fuel,Pressure,56,Medium,Low
+24,11-05-2024 01:30,Asphalt_Paver_1,Fuel,Pressure,37,Medium,Low
+24,04-05-2024 04:55,Excavator_1,Fuel,Pressure,37,Medium,Low
+24,21-06-2024 15:12,Backhoe_Loader_1,Fuel,Pressure,42,Medium,Low
+24,17-06-2024 03:01,Dozer_1,Fuel,Pressure,52,Medium,Low
+24,27-05-2024 06:25,Articulated_Truck_1,Engine,Temparature,104,Medium,High
+24,12-06-2024 18:49,Asphalt_Paver_1,Engine,Temparature,105,High,High
+24,23-06-2024 10:14,Excavator_1,Engine,Temparature,81,Medium,High
+24,25-05-2024 04:47,Backhoe_Loader_1,Engine,Temparature,94,Medium,High
+24,23-06-2024 02:05,Dozer_1,Engine,Temparature,95,Medium,High
+25,22-05-2024 20:48,Articulated_Truck_1,Engine,Oil Pressure,45,Medium,High
+25,17-05-2024 23:42,Excavator_1,Engine,Oil Pressure,37,Medium,High
+25,04-05-2024 18:38,Dozer_1,Engine,Oil Pressure,45,Medium,High
+25,24-05-2024 03:55,Asphalt_Paver_1,Engine,Oil Pressure,46,Medium,High
+25,18-05-2024 23:31,Backhoe_Loader_1,Engine,Oil Pressure,55,Medium,High
+25,09-05-2024 10:36,Excavator_1,Misc,System Voltage,12.4112528,Medium,High
+25,03-05-2024 06:45,Dozer_1,Misc,System Voltage,14.99873924,Medium,High
+25,17-06-2024 23:54,Articulated_Truck_1,Misc,System Voltage,14.9,Medium,High
+25,02-05-2024 17:27,Backhoe_Loader_1,Misc,System Voltage,14.35420941,Medium,High
+25,09-05-2024 10:56,Asphalt_Paver_1,Misc,System Voltage,14.79,Medium,High
+25,15-06-2024 15:14,Articulated_Truck_1,Drive,Transmission Pressure,366,Medium,Medium
+25,25-06-2024 11:08,Backhoe_Loader_1,Drive,Transmission Pressure,262,Medium,Medium
+25,14-06-2024 01:45,Dozer_1,Drive,Transmission Pressure,435,Medium,Medium
+25,20-05-2024 17:20,Asphalt_Paver_1,Drive,Transmission Pressure,378,Medium,Medium
+25,15-05-2024 19:10,Excavator_1,Drive,Transmission Pressure,280,Medium,Medium
+25,14-06-2024 08:08,Excavator_1,Fuel,Water in Fuel,1643,Medium,High
+25,20-05-2024 16:53,Backhoe_Loader_1,Fuel,Water in Fuel,283,Medium,High
+25,30-06-2024 22:11,Articulated_Truck_1,Fuel,Water in Fuel,112,Medium,High
+25,15-05-2024 00:41,Asphalt_Paver_1,Fuel,Water in Fuel,416,Medium,High
+25,01-06-2024 09:23,Dozer_1,Fuel,Water in Fuel,1369,Medium,High
+26,02-05-2024 04:59,Excavator_1,Misc,Exhaust Gas Temparature,345,Medium,High
+26,29-05-2024 05:21,Backhoe_Loader_1,Misc,Exhaust Gas Temparature,265,Medium,High
+26,18-06-2024 19:57,Dozer_1,Misc,Exhaust Gas Temparature,228,Medium,High
+26,12-06-2024 09:55,Asphalt_Paver_1,Misc,Exhaust Gas Temparature,259,Medium,High
+26,23-06-2024 00:44,Articulated_Truck_1,Misc,Exhaust Gas Temparature,190,Medium,High
+26,06-06-2024 21:59,Articulated_Truck_1,Fuel,Level,5,Medium,Low
+26,16-06-2024 14:33,Excavator_1,Fuel,Level,9,Medium,Low
+26,15-05-2024 22:43,Backhoe_Loader_1,Fuel,Level,5,Medium,Low
+26,22-06-2024 21:50,Dozer_1,Fuel,Level,2,Medium,Low
+26,19-06-2024 21:50,Asphalt_Paver_1,Fuel,Level,10,Medium,Low
+26,07-06-2024 18:45,Dozer_1,Drive,Pedal Sensor,3.869027293,Medium,Low
+26,18-05-2024 10:49,Asphalt_Paver_1,Drive,Pedal Sensor,4.28,Medium,Low
+26,09-06-2024 02:21,Articulated_Truck_1,Drive,Pedal Sensor,3.9,Medium,Low
+26,02-05-2024 05:23,Backhoe_Loader_1,Drive,Pedal Sensor,3.061734931,Medium,Low
+26,18-05-2024 13:07,Excavator_1,Drive,Pedal Sensor,3.863268818,Medium,Low
+26,06-06-2024 02:45,Dozer_1,Engine,Temparature,89,Medium,High
+26,19-05-2024 13:36,Backhoe_Loader_1,Engine,Temparature,75,Medium,High
+26,07-06-2024 19:41,Excavator_1,Engine,Temparature,93,Medium,High
+26,13-05-2024 19:45,Articulated_Truck_1,Engine,Temparature,98,Medium,High
+26,07-06-2024 19:24,Asphalt_Paver_1,Engine,Temparature,75,Medium,High
+27,26-05-2024 15:44,Asphalt_Paver_1,Drive,Brake Control,4,Medium,Medium
+27,21-06-2024 17:17,Articulated_Truck_1,Drive,Brake Control,8,Medium,Medium
+27,09-05-2024 05:13,Dozer_1,Drive,Brake Control,1,Low,Medium
+27,20-05-2024 19:45,Backhoe_Loader_1,Drive,Brake Control,5,Medium,Medium
+27,26-06-2024 02:09,Excavator_1,Drive,Brake Control,8,Medium,Medium
+27,12-05-2024 14:23,Asphalt_Paver_1,Misc,Hydraulic Pump Rate,77,Medium,Medium
+27,20-05-2024 16:04,Backhoe_Loader_1,Misc,Hydraulic Pump Rate,82,Medium,Medium
+27,25-06-2024 02:18,Dozer_1,Misc,Hydraulic Pump Rate,85,Medium,Medium
+27,27-06-2024 14:43,Articulated_Truck_1,Misc,Hydraulic Pump Rate,119,Medium,Medium
+27,07-05-2024 16:33,Excavator_1,Misc,Hydraulic Pump Rate,85,Medium,Medium
+27,22-06-2024 07:08,Excavator_1,Engine,Speed,1683,Medium,Medium
+27,01-05-2024 03:12,Dozer_1,Engine,Speed,1310,Medium,Medium
+27,17-06-2024 20:56,Backhoe_Loader_1,Engine,Speed,1341,Medium,Medium
+27,21-06-2024 22:35,Asphalt_Paver_1,Engine,Speed,1594,Medium,Medium
+27,26-05-2024 21:27,Articulated_Truck_1,Engine,Speed,1470,Medium,Medium
+27,25-05-2024 04:38,Backhoe_Loader_1,Fuel,Temparature,340,Medium,High
+27,09-06-2024 15:48,Articulated_Truck_1,Fuel,Temparature,0,Medium,High
+27,16-06-2024 11:16,Dozer_1,Fuel,Temparature,382,Medium,High
+27,07-05-2024 21:46,Asphalt_Paver_1,Fuel,Temparature,283,Medium,High
+27,03-05-2024 22:07,Excavator_1,Fuel,Temparature,355,Medium,High
+28,18-06-2024 09:59,Backhoe_Loader_1,Misc,Air Filter Pressure,22,Medium,Medium
+28,19-05-2024 19:47,Excavator_1,Misc,Air Filter Pressure,35,Medium,Medium
+28,30-06-2024 01:30,Asphalt_Paver_1,Misc,Air Filter Pressure,23,Medium,Medium
+28,08-06-2024 09:20,Dozer_1,Misc,Air Filter Pressure,26,Medium,Medium
+28,07-06-2024 12:07,Articulated_Truck_1,Misc,Air Filter Pressure,33,Medium,Medium
+28,19-06-2024 08:29,Excavator_1,Drive,Brake Control,1,Low,Medium
+28,08-05-2024 10:59,Backhoe_Loader_1,Drive,Brake Control,2,Medium,Medium
+28,09-06-2024 05:23,Articulated_Truck_1,Drive,Brake Control,3,Medium,Medium
+28,07-06-2024 20:55,Asphalt_Paver_1,Drive,Brake Control,3,Medium,Medium
+28,30-05-2024 09:46,Dozer_1,Drive,Brake Control,6,Medium,Medium
+28,12-06-2024 10:46,Backhoe_Loader_1,Engine,Oil Pressure,57,Medium,High
+28,05-06-2024 03:22,Asphalt_Paver_1,Engine,Oil Pressure,61,Medium,High
+28,13-05-2024 09:16,Excavator_1,Engine,Oil Pressure,53,Medium,High
+28,07-06-2024 11:31,Articulated_Truck_1,Engine,Oil Pressure,36,Medium,High
+28,18-05-2024 19:01,Dozer_1,Engine,Oil Pressure,38,Medium,High
+28,09-05-2024 15:57,Excavator_1,Fuel,Pressure,44,Medium,Low
+28,20-05-2024 05:38,Asphalt_Paver_1,Fuel,Pressure,58,Medium,Low
+28,01-06-2024 18:40,Dozer_1,Fuel,Pressure,54,Medium,Low
+28,29-06-2024 06:59,Backhoe_Loader_1,Fuel,Pressure,51,Medium,Low
+28,17-05-2024 08:03,Articulated_Truck_1,Fuel,Pressure,59,Medium,Low
+29,29-05-2024 23:47,Articulated_Truck_1,Drive,Brake Control,7,Medium,Medium
+29,14-06-2024 19:10,Excavator_1,Drive,Brake Control,1,Low,Medium
+29,10-05-2024 05:58,Backhoe_Loader_1,Drive,Brake Control,8,Medium,Medium
+29,15-05-2024 07:07,Dozer_1,Drive,Brake Control,5,Medium,Medium
+29,22-05-2024 20:33,Asphalt_Paver_1,Drive,Brake Control,4,Medium,Medium
+29,02-06-2024 01:46,Backhoe_Loader_1,Misc,System Voltage,13.7143291,Medium,High
+29,22-06-2024 14:04,Articulated_Truck_1,Misc,System Voltage,13.3,Medium,High
+29,05-06-2024 05:54,Excavator_1,Misc,System Voltage,14.3333815,Medium,High
+29,30-05-2024 15:48,Asphalt_Paver_1,Misc,System Voltage,15.84,High,High
+29,23-05-2024 18:32,Dozer_1,Misc,System Voltage,13.41761367,Medium,High
+29,25-05-2024 20:53,Dozer_1,Engine,Temparature,103,Medium,High
+29,18-05-2024 08:25,Asphalt_Paver_1,Engine,Temparature,102,Medium,High
+29,23-06-2024 10:50,Articulated_Truck_1,Engine,Temparature,95,Medium,High
+29,14-05-2024 13:38,Backhoe_Loader_1,Engine,Temparature,87,Medium,High
+29,08-05-2024 22:00,Excavator_1,Engine,Temparature,87,Medium,High
+29,06-05-2024 09:45,Articulated_Truck_1,Fuel,Water in Fuel,119,Medium,High
+29,26-05-2024 21:41,Excavator_1,Fuel,Water in Fuel,140,Medium,High
+29,20-06-2024 12:34,Backhoe_Loader_1,Fuel,Water in Fuel,1785,Medium,High
+29,19-05-2024 00:52,Asphalt_Paver_1,Fuel,Water in Fuel,203,Medium,High
+29,27-06-2024 20:22,Dozer_1,Fuel,Water in Fuel,371,Medium,High
+30,13-05-2024 08:52,Dozer_1,Misc,Exhaust Gas Temparature,353,Medium,High
+30,22-06-2024 23:36,Articulated_Truck_1,Misc,Exhaust Gas Temparature,180,Medium,High
+30,28-06-2024 07:21,Excavator_1,Misc,Exhaust Gas Temparature,310,Medium,High
+30,16-05-2024 09:10,Asphalt_Paver_1,Misc,Exhaust Gas Temparature,282,Medium,High
+30,11-06-2024 21:31,Backhoe_Loader_1,Misc,Exhaust Gas Temparature,198,Medium,High
+30,30-05-2024 11:43,Asphalt_Paver_1,Fuel,Level,9,Medium,Low
+30,13-06-2024 06:05,Dozer_1,Fuel,Level,8,Medium,Low
+30,29-05-2024 20:14,Excavator_1,Fuel,Level,3,Medium,Low
+30,04-06-2024 22:21,Articulated_Truck_1,Fuel,Level,4,Medium,Low
+30,11-05-2024 19:09,Backhoe_Loader_1,Fuel,Level,6,Medium,Low
+30,21-05-2024 19:03,Asphalt_Paver_1,Engine,Speed,1661,Medium,Medium
+30,10-06-2024 00:01,Dozer_1,Engine,Speed,1654,Medium,Medium
+30,29-05-2024 02:53,Articulated_Truck_1,Engine,Speed,1250,Medium,Medium
+30,12-05-2024 23:43,Backhoe_Loader_1,Engine,Speed,1435,Medium,Medium
+30,24-06-2024 06:17,Excavator_1,Engine,Speed,1455,Medium,Medium
+30,24-06-2024 06:14,Dozer_1,Drive,Transmission Pressure,271,Medium,Medium
+30,09-06-2024 21:12,Asphalt_Paver_1,Drive,Transmission Pressure,270,Medium,Medium
+30,11-06-2024 11:19,Backhoe_Loader_1,Drive,Transmission Pressure,256,Medium,Medium
+30,24-06-2024 15:39,Excavator_1,Drive,Transmission Pressure,274,Medium,Medium
+30,22-05-2024 12:35,Articulated_Truck_1,Drive,Transmission Pressure,267,Medium,Medium
+31,07-05-2024 13:53,Asphalt_Paver_1,Misc,Hydraulic Pump Rate,117,Medium,Medium
+31,04-05-2024 01:41,Dozer_1,Misc,Hydraulic Pump Rate,94,Medium,Medium
+31,11-05-2024 11:08,Backhoe_Loader_1,Misc,Hydraulic Pump Rate,82,Medium,Medium
+31,21-06-2024 14:37,Articulated_Truck_1,Misc,Hydraulic Pump Rate,118,Medium,Medium
+31,24-05-2024 09:35,Excavator_1,Misc,Hydraulic Pump Rate,102,Medium,Medium
+31,30-05-2024 21:58,Articulated_Truck_1,Engine,Oil Pressure,25,Low,High
+31,12-06-2024 13:05,Backhoe_Loader_1,Engine,Oil Pressure,65,High,High
+31,19-05-2024 01:27,Asphalt_Paver_1,Engine,Oil Pressure,40,Medium,High
+31,13-06-2024 13:46,Excavator_1,Engine,Oil Pressure,29,Medium,High
+31,18-06-2024 12:33,Dozer_1,Engine,Oil Pressure,50,Medium,High
+31,17-05-2024 04:05,Excavator_1,Drive,Pedal Sensor,4.68292418,Medium,Low
+31,13-06-2024 19:53,Articulated_Truck_1,Drive,Pedal Sensor,3.7,Medium,Low
+31,15-06-2024 10:35,Asphalt_Paver_1,Drive,Pedal Sensor,3.81,Medium,Low
+31,05-05-2024 23:19,Backhoe_Loader_1,Drive,Pedal Sensor,4.557899218,Medium,Low
+31,12-06-2024 05:07,Dozer_1,Drive,Pedal Sensor,4.100753719,Medium,Low
+31,12-06-2024 04:21,Articulated_Truck_1,Fuel,Water in Fuel,120,Medium,High
+31,11-05-2024 03:15,Asphalt_Paver_1,Fuel,Water in Fuel,924,Medium,High
+31,16-05-2024 23:49,Backhoe_Loader_1,Fuel,Water in Fuel,393,Medium,High
+31,14-06-2024 21:59,Excavator_1,Fuel,Water in Fuel,413,Medium,High
+31,06-06-2024 19:21,Dozer_1,Fuel,Water in Fuel,1337,Medium,High
+32,14-06-2024 11:44,Dozer_1,Misc,Air Filter Pressure,31,Medium,Medium
+32,24-05-2024 19:52,Asphalt_Paver_1,Misc,Air Filter Pressure,33,Medium,Medium
+32,16-06-2024 19:53,Excavator_1,Misc,Air Filter Pressure,34,Medium,Medium
+32,14-05-2024 23:13,Backhoe_Loader_1,Misc,Air Filter Pressure,25,Medium,Medium
+32,28-05-2024 10:16,Articulated_Truck_1,Misc,Air Filter Pressure,35,Medium,Medium
+32,30-06-2024 11:08,Articulated_Truck_1,Fuel,Level,4,Medium,Low
+32,10-05-2024 14:37,Dozer_1,Fuel,Level,7,Medium,Low
+32,13-05-2024 04:58,Excavator_1,Fuel,Level,9,Medium,Low
+32,08-06-2024 08:29,Backhoe_Loader_1,Fuel,Level,5,Medium,Low
+32,19-06-2024 02:44,Asphalt_Paver_1,Fuel,Level,2,Medium,Low
+32,03-06-2024 18:55,Asphalt_Paver_1,Engine,Speed,1726,Medium,Medium
+32,04-06-2024 06:36,Articulated_Truck_1,Engine,Speed,1550,Medium,Medium
+32,18-05-2024 00:34,Backhoe_Loader_1,Engine,Speed,1475,Medium,Medium
+32,11-05-2024 06:13,Dozer_1,Engine,Speed,1558,Medium,Medium
+32,07-05-2024 00:11,Excavator_1,Engine,Speed,1541,Medium,Medium
+32,09-06-2024 21:30,Asphalt_Paver_1,Drive,Transmission Pressure,206,Medium,Medium
+32,20-06-2024 05:53,Excavator_1,Drive,Transmission Pressure,397,Medium,Medium
+32,18-05-2024 07:43,Backhoe_Loader_1,Drive,Transmission Pressure,377,Medium,Medium
+32,14-06-2024 17:23,Articulated_Truck_1,Drive,Transmission Pressure,450,High,Medium
+32,07-06-2024 04:00,Dozer_1,Drive,Transmission Pressure,328,Medium,Medium
+33,19-05-2024 16:09,Backhoe_Loader_1,Engine,Oil Pressure,61,Medium,High
+33,09-06-2024 00:16,Articulated_Truck_1,Engine,Oil Pressure,35,Medium,High
+33,29-05-2024 07:35,Asphalt_Paver_1,Engine,Oil Pressure,58,Medium,High
+33,20-05-2024 15:07,Excavator_1,Engine,Oil Pressure,36,Medium,High
+33,01-05-2024 04:00,Dozer_1,Engine,Oil Pressure,62,Medium,High
+33,07-06-2024 12:29,Dozer_1,Drive,Pedal Sensor,4.461048219,Medium,Low
+33,10-05-2024 10:06,Articulated_Truck_1,Drive,Pedal Sensor,4.4,Medium,Low
+33,20-05-2024 02:50,Backhoe_Loader_1,Drive,Pedal Sensor,4.762040191,High,Low
+33,10-06-2024 16:51,Asphalt_Paver_1,Drive,Pedal Sensor,3.59,Medium,Low
+33,10-05-2024 15:44,Excavator_1,Drive,Pedal Sensor,4.33372298,Medium,Low
+33,22-06-2024 06:01,Excavator_1,Misc,System Voltage,12.42567151,Medium,High
+33,21-05-2024 00:11,Backhoe_Loader_1,Misc,System Voltage,15.05098951,High,High
+33,14-05-2024 09:43,Dozer_1,Misc,System Voltage,15.0141789,High,High
+33,18-06-2024 12:26,Articulated_Truck_1,Misc,System Voltage,15.1,High,High
+33,27-05-2024 06:28,Asphalt_Paver_1,Misc,System Voltage,14.31,Medium,High
+33,17-06-2024 17:43,Backhoe_Loader_1,Fuel,Temparature,302,Medium,High
+33,13-05-2024 05:53,Excavator_1,Fuel,Temparature,352,Medium,High
+33,18-06-2024 03:03,Asphalt_Paver_1,Fuel,Temparature,398,Medium,High
+33,16-05-2024 02:16,Articulated_Truck_1,Fuel,Temparature,0,Medium,High
+33,26-05-2024 01:00,Dozer_1,Fuel,Temparature,212,Medium,High
+34,10-06-2024 12:30,Dozer_1,Misc,Exhaust Gas Temparature,347,Medium,High
+34,04-05-2024 15:01,Backhoe_Loader_1,Misc,Exhaust Gas Temparature,293,Medium,High
+34,27-05-2024 20:00,Articulated_Truck_1,Misc,Exhaust Gas Temparature,177,Medium,High
+34,06-05-2024 19:46,Excavator_1,Misc,Exhaust Gas Temparature,195,Medium,High
+34,15-05-2024 02:17,Asphalt_Paver_1,Misc,Exhaust Gas Temparature,200,Medium,High
+34,18-06-2024 03:42,Asphalt_Paver_1,Fuel,Pressure,65,High,Low
+34,10-06-2024 03:56,Dozer_1,Fuel,Pressure,43,Medium,Low
+34,07-05-2024 09:54,Excavator_1,Fuel,Pressure,52,Medium,Low
+34,23-06-2024 20:40,Backhoe_Loader_1,Fuel,Pressure,59,Medium,Low
+34,13-05-2024 07:29,Articulated_Truck_1,Fuel,Pressure,71,High,Low
+34,01-06-2024 23:11,Articulated_Truck_1,Engine,Speed,1650,Medium,Medium
+34,29-06-2024 07:20,Excavator_1,Engine,Speed,1419,Medium,Medium
+34,03-06-2024 02:57,Dozer_1,Engine,Speed,1385,Medium,Medium
+34,12-06-2024 19:25,Asphalt_Paver_1,Engine,Speed,1709,Medium,Medium
+34,10-06-2024 23:04,Backhoe_Loader_1,Engine,Speed,1434,Medium,Medium
+34,13-05-2024 20:51,Dozer_1,Drive,Transmission Pressure,249,Medium,Medium
+34,23-06-2024 14:37,Asphalt_Paver_1,Drive,Transmission Pressure,387,Medium,Medium
+34,21-06-2024 04:35,Backhoe_Loader_1,Drive,Transmission Pressure,433,Medium,Medium
+34,16-06-2024 01:32,Articulated_Truck_1,Drive,Transmission Pressure,447,Medium,Medium
+34,27-06-2024 04:19,Excavator_1,Drive,Transmission Pressure,203,Medium,Medium
+35,23-05-2024 12:19,Asphalt_Paver_1,Misc,Hydraulic Pump Rate,110,Medium,Medium
+35,27-05-2024 22:00,Dozer_1,Misc,Hydraulic Pump Rate,108,Medium,Medium
+35,09-05-2024 03:24,Articulated_Truck_1,Misc,Hydraulic Pump Rate,117,Medium,Medium
+35,24-05-2024 20:26,Backhoe_Loader_1,Misc,Hydraulic Pump Rate,76,Medium,Medium
+35,03-05-2024 17:36,Excavator_1,Misc,Hydraulic Pump Rate,120,Medium,Medium
+35,21-06-2024 13:10,Excavator_1,Drive,Pedal Sensor,4.827448942,High,Low
+35,25-05-2024 10:00,Articulated_Truck_1,Drive,Pedal Sensor,3.6,Medium,Low
+35,12-06-2024 09:01,Dozer_1,Drive,Pedal Sensor,3.654081298,Medium,Low
+35,21-05-2024 09:27,Backhoe_Loader_1,Drive,Pedal Sensor,4.988576675,High,Low
+35,03-06-2024 16:38,Asphalt_Paver_1,Drive,Pedal Sensor,4.36,Medium,Low
+35,27-05-2024 13:21,Excavator_1,Engine,Temparature,79,Medium,High
+35,30-05-2024 03:59,Articulated_Truck_1,Engine,Temparature,94,Medium,High
+35,12-05-2024 20:53,Asphalt_Paver_1,Engine,Temparature,87,Medium,High
+35,18-05-2024 05:49,Backhoe_Loader_1,Engine,Temparature,94,Medium,High
+35,13-05-2024 05:51,Dozer_1,Engine,Temparature,85,Medium,High
+35,06-06-2024 11:23,Articulated_Truck_1,Fuel,Water in Fuel,144,Medium,High
+35,04-05-2024 23:37,Dozer_1,Fuel,Water in Fuel,1737,Medium,High
+35,24-05-2024 16:19,Excavator_1,Fuel,Water in Fuel,1647,Medium,High
+35,03-06-2024 19:30,Backhoe_Loader_1,Fuel,Water in Fuel,1325,Medium,High
+35,14-05-2024 11:22,Asphalt_Paver_1,Fuel,Water in Fuel,97,Medium,High
+36,15-05-2024 14:06,Dozer_1,Misc,Air Filter Pressure,26,Medium,Medium
+36,29-06-2024 06:03,Asphalt_Paver_1,Misc,Air Filter Pressure,20,Low,Medium
+36,22-06-2024 20:24,Excavator_1,Misc,Air Filter Pressure,29,Medium,Medium
+36,19-06-2024 13:23,Backhoe_Loader_1,Misc,Air Filter Pressure,27,Medium,Medium
+36,13-05-2024 11:20,Articulated_Truck_1,Misc,Air Filter Pressure,32,Medium,Medium
+36,25-06-2024 08:39,Asphalt_Paver_1,Drive,Brake Control,2,Medium,Medium
+36,26-06-2024 04:53,Articulated_Truck_1,Drive,Brake Control,2,Medium,Medium
+36,16-05-2024 17:11,Dozer_1,Drive,Brake Control,10,Medium,Medium
+36,26-05-2024 03:39,Excavator_1,Drive,Brake Control,9,Medium,Medium
+36,30-06-2024 05:14,Backhoe_Loader_1,Drive,Brake Control,4,Medium,Medium
+36,16-06-2024 10:52,Articulated_Truck_1,Fuel,Level,3,Medium,Low
+36,09-05-2024 05:38,Backhoe_Loader_1,Fuel,Level,5,Medium,Low
+36,07-06-2024 10:24,Dozer_1,Fuel,Level,2,Medium,Low
+36,16-05-2024 02:56,Asphalt_Paver_1,Fuel,Level,2,Medium,Low
+36,15-05-2024 15:22,Excavator_1,Fuel,Level,7,Medium,Low
+36,21-06-2024 01:23,Asphalt_Paver_1,Engine,Oil Pressure,34,Medium,High
+36,11-06-2024 02:51,Dozer_1,Engine,Oil Pressure,52,Medium,High
+36,06-05-2024 07:00,Backhoe_Loader_1,Engine,Oil Pressure,48,Medium,High
+36,27-06-2024 16:29,Excavator_1,Engine,Oil Pressure,39,Medium,High
+36,10-05-2024 12:45,Articulated_Truck_1,Engine,Oil Pressure,45,Medium,High
+37,24-06-2024 14:18,Asphalt_Paver_1,Drive,Brake Control,5,Medium,Medium
+37,03-06-2024 03:33,Backhoe_Loader_1,Drive,Brake Control,4,Medium,Medium
+37,08-06-2024 10:58,Articulated_Truck_1,Drive,Brake Control,8,Medium,Medium
+37,18-05-2024 14:22,Excavator_1,Drive,Brake Control,9,Medium,Medium
+37,23-05-2024 15:59,Dozer_1,Drive,Brake Control,7,Medium,Medium
+37,05-05-2024 13:08,Asphalt_Paver_1,Misc,System Voltage,13.98,Medium,High
+37,16-06-2024 15:27,Excavator_1,Misc,System Voltage,15.52958035,High,High
+37,19-06-2024 12:40,Backhoe_Loader_1,Misc,System Voltage,12.52320098,Medium,High
+37,05-06-2024 04:17,Articulated_Truck_1,Misc,System Voltage,13.7,Medium,High
+37,28-06-2024 18:23,Dozer_1,Misc,System Voltage,12.54043736,Medium,High
+37,15-06-2024 00:53,Dozer_1,Engine,Temparature,89,Medium,High
+37,01-06-2024 16:12,Backhoe_Loader_1,Engine,Temparature,75,Medium,High
+37,23-06-2024 05:33,Excavator_1,Engine,Temparature,92,Medium,High
+37,20-05-2024 18:34,Articulated_Truck_1,Engine,Temparature,92,Medium,High
+37,26-05-2024 19:16,Asphalt_Paver_1,Engine,Temparature,101,Medium,High
+37,08-05-2024 18:20,Excavator_1,Fuel,Temparature,348,Medium,High
+37,25-06-2024 15:39,Backhoe_Loader_1,Fuel,Temparature,202,Medium,High
+37,14-05-2024 15:59,Asphalt_Paver_1,Fuel,Temparature,279,Medium,High
+37,21-05-2024 14:46,Dozer_1,Fuel,Temparature,253,Medium,High
+37,27-06-2024 00:30,Articulated_Truck_1,Fuel,Temparature,0,Medium,High
+38,06-05-2024 20:06,Backhoe_Loader_1,Drive,Brake Control,6,Medium,Medium
+38,25-05-2024 21:05,Dozer_1,Drive,Brake Control,5,Medium,Medium
+38,09-05-2024 18:52,Articulated_Truck_1,Drive,Brake Control,4,Medium,Medium
+38,08-06-2024 17:46,Excavator_1,Drive,Brake Control,5,Medium,Medium
+38,28-05-2024 23:24,Asphalt_Paver_1,Drive,Brake Control,10,Medium,Medium
+38,26-06-2024 13:54,Backhoe_Loader_1,Misc,Exhaust Gas Temparature,211,Medium,High
+38,11-06-2024 04:31,Articulated_Truck_1,Misc,Exhaust Gas Temparature,181,Medium,High
+38,15-06-2024 03:59,Dozer_1,Misc,Exhaust Gas Temparature,309,Medium,High
+38,27-06-2024 08:23,Asphalt_Paver_1,Misc,Exhaust Gas Temparature,237,Medium,High
+38,03-06-2024 14:43,Excavator_1,Misc,Exhaust Gas Temparature,348,Medium,High
+38,02-06-2024 22:25,Excavator_1,Fuel,Pressure,53,Medium,Low
+38,25-05-2024 11:32,Articulated_Truck_1,Fuel,Pressure,72,High,Low
+38,20-05-2024 09:56,Asphalt_Paver_1,Fuel,Pressure,45,Medium,Low
+38,01-06-2024 07:11,Dozer_1,Fuel,Pressure,55,Medium,Low
+38,12-05-2024 05:24,Backhoe_Loader_1,Fuel,Pressure,56,Medium,Low
+38,05-06-2024 14:13,Backhoe_Loader_1,Engine,Speed,1585,Medium,Medium
+38,18-05-2024 18:36,Dozer_1,Engine,Speed,1724,Medium,Medium
+38,17-05-2024 15:25,Excavator_1,Engine,Speed,1443,Medium,Medium
+38,15-05-2024 16:00,Asphalt_Paver_1,Engine,Speed,1421,Medium,Medium
+38,09-05-2024 04:20,Articulated_Truck_1,Engine,Speed,1870,High,Medium
+39,12-06-2024 09:50,Excavator_1,Misc,Hydraulic Pump Rate,112,Medium,Medium
+39,13-06-2024 10:51,Backhoe_Loader_1,Misc,Hydraulic Pump Rate,90,Medium,Medium
+39,11-06-2024 02:48,Asphalt_Paver_1,Misc,Hydraulic Pump Rate,124,Medium,Medium
+39,01-06-2024 06:07,Dozer_1,Misc,Hydraulic Pump Rate,87,Medium,Medium
+39,02-06-2024 05:50,Articulated_Truck_1,Misc,Hydraulic Pump Rate,116,Medium,Medium
+39,21-05-2024 09:11,Dozer_1,Engine,Oil Pressure,33,Medium,High
+39,09-06-2024 12:41,Asphalt_Paver_1,Engine,Oil Pressure,50,Medium,High
+39,09-05-2024 08:23,Articulated_Truck_1,Engine,Oil Pressure,46,Medium,High
+39,05-05-2024 20:47,Backhoe_Loader_1,Engine,Oil Pressure,49,Medium,High
+39,03-05-2024 14:03,Excavator_1,Engine,Oil Pressure,41,Medium,High
+39,23-05-2024 20:13,Backhoe_Loader_1,Drive,Pedal Sensor,4.360016508,Medium,Low
+39,18-05-2024 13:10,Dozer_1,Drive,Pedal Sensor,4.694670306,Medium,Low
+39,20-05-2024 22:52,Articulated_Truck_1,Drive,Pedal Sensor,3.8,Medium,Low
+39,28-05-2024 02:03,Asphalt_Paver_1,Drive,Pedal Sensor,4.63,Medium,Low
+39,13-05-2024 03:23,Excavator_1,Drive,Pedal Sensor,4.533982406,Medium,Low
+39,16-06-2024 02:41,Excavator_1,Fuel,Water in Fuel,461,Medium,High
+39,04-06-2024 02:56,Dozer_1,Fuel,Water in Fuel,348,Medium,High
+39,25-05-2024 20:04,Asphalt_Paver_1,Fuel,Water in Fuel,708,Medium,High
+39,18-05-2024 20:38,Articulated_Truck_1,Fuel,Water in Fuel,184,Medium,High
+39,04-06-2024 20:30,Backhoe_Loader_1,Fuel,Water in Fuel,1342,Medium,High
+40,15-06-2024 23:56,Asphalt_Paver_1,Misc,Air Filter Pressure,23,Medium,Medium
+40,11-05-2024 14:11,Excavator_1,Misc,Air Filter Pressure,20,Low,Medium
+40,15-06-2024 17:27,Backhoe_Loader_1,Misc,Air Filter Pressure,23,Medium,Medium
+40,14-06-2024 18:31,Dozer_1,Misc,Air Filter Pressure,31,Medium,Medium
+40,12-05-2024 04:55,Articulated_Truck_1,Misc,Air Filter Pressure,36,Medium,Medium
+40,21-05-2024 14:34,Backhoe_Loader_1,Fuel,Level,6,Medium,Low
+40,12-05-2024 16:25,Dozer_1,Fuel,Level,7,Medium,Low
+40,18-05-2024 15:29,Asphalt_Paver_1,Fuel,Level,2,Medium,Low
+40,19-05-2024 23:24,Articulated_Truck_1,Fuel,Level,7,Medium,Low
+40,28-06-2024 18:33,Excavator_1,Fuel,Level,6,Medium,Low
+40,28-06-2024 23:32,Asphalt_Paver_1,Engine,Temparature,81,Medium,High
+40,13-06-2024 19:48,Dozer_1,Engine,Temparature,89,Medium,High
+40,12-05-2024 07:55,Excavator_1,Engine,Temparature,75,Medium,High
+40,18-05-2024 20:27,Articulated_Truck_1,Engine,Temparature,100,Medium,High
+40,09-06-2024 16:33,Backhoe_Loader_1,Engine,Temparature,93,Medium,High
+40,22-05-2024 13:59,Backhoe_Loader_1,Drive,Transmission Pressure,349,Medium,Medium
+40,01-05-2024 00:19,Dozer_1,Drive,Transmission Pressure,291,Medium,Medium
+40,17-05-2024 05:00,Asphalt_Paver_1,Drive,Transmission Pressure,384,Medium,Medium
+40,21-06-2024 03:03,Excavator_1,Drive,Transmission Pressure,354,Medium,Medium
+40,22-05-2024 10:03,Articulated_Truck_1,Drive,Transmission Pressure,443,Medium,Medium
+41,10-05-2024 04:13,Dozer_1,Fuel,Level,5,Medium,Low
+41,19-06-2024 03:27,Backhoe_Loader_1,Fuel,Level,4,Medium,Low
+41,21-05-2024 19:51,Articulated_Truck_1,Fuel,Level,6,Medium,Low
+41,06-06-2024 13:10,Excavator_1,Fuel,Level,3,Medium,Low
+41,26-05-2024 13:40,Asphalt_Paver_1,Fuel,Level,6,Medium,Low
+41,13-06-2024 13:11,Dozer_1,Engine,Speed,1771,Medium,Medium
+41,20-05-2024 01:01,Excavator_1,Engine,Speed,1515,Medium,Medium
+41,30-05-2024 15:40,Asphalt_Paver_1,Engine,Speed,1597,Medium,Medium
+41,05-05-2024 09:59,Articulated_Truck_1,Engine,Speed,1700,Medium,Medium
+41,06-05-2024 07:11,Backhoe_Loader_1,Engine,Speed,1687,Medium,Medium
+41,23-05-2024 11:09,Backhoe_Loader_1,Misc,System Voltage,13.6252553,Medium,High
+41,23-06-2024 19:34,Asphalt_Paver_1,Misc,System Voltage,14.99,Medium,High
+41,06-05-2024 01:09,Excavator_1,Misc,System Voltage,15.15201686,High,High
+41,26-05-2024 08:54,Dozer_1,Misc,System Voltage,13.4100005,Medium,High
+41,21-06-2024 09:28,Articulated_Truck_1,Misc,System Voltage,15.2,High,High
+41,27-05-2024 23:52,Excavator_1,Drive,Transmission Pressure,274,Medium,Medium
+41,15-05-2024 10:38,Backhoe_Loader_1,Drive,Transmission Pressure,289,Medium,Medium
+41,12-06-2024 12:53,Asphalt_Paver_1,Drive,Transmission Pressure,226,Medium,Medium
+41,23-06-2024 02:41,Articulated_Truck_1,Drive,Transmission Pressure,377,Medium,Medium
+41,05-05-2024 00:26,Dozer_1,Drive,Transmission Pressure,264,Medium,Medium
+42,19-06-2024 03:02,Articulated_Truck_1,Misc,Exhaust Gas Temparature,176,Medium,High
+42,06-05-2024 23:38,Dozer_1,Misc,Exhaust Gas Temparature,366,High,High
+42,04-05-2024 00:31,Backhoe_Loader_1,Misc,Exhaust Gas Temparature,216,Medium,High
+42,27-06-2024 03:29,Excavator_1,Misc,Exhaust Gas Temparature,312,Medium,High
+42,02-06-2024 22:17,Asphalt_Paver_1,Misc,Exhaust Gas Temparature,341,Medium,High
+42,29-05-2024 01:20,Dozer_1,Engine,Oil Pressure,39,Medium,High
+42,13-06-2024 18:49,Backhoe_Loader_1,Engine,Oil Pressure,38,Medium,High
+42,18-05-2024 04:10,Asphalt_Paver_1,Engine,Oil Pressure,59,Medium,High
+42,19-06-2024 08:39,Articulated_Truck_1,Engine,Oil Pressure,36,Medium,High
+42,28-06-2024 04:06,Excavator_1,Engine,Oil Pressure,39,Medium,High
+42,23-06-2024 16:26,Backhoe_Loader_1,Drive,Pedal Sensor,3.803047278,Medium,Low
+42,16-06-2024 22:11,Articulated_Truck_1,Drive,Pedal Sensor,3.9,Medium,Low
+42,25-06-2024 01:50,Dozer_1,Drive,Pedal Sensor,3.519238045,Medium,Low
+42,30-06-2024 03:23,Excavator_1,Drive,Pedal Sensor,4.769654221,High,Low
+42,19-06-2024 20:19,Asphalt_Paver_1,Drive,Pedal Sensor,3.83,Medium,Low
+42,09-05-2024 09:11,Dozer_1,Fuel,Water in Fuel,1179,Medium,High
+42,30-05-2024 10:48,Articulated_Truck_1,Fuel,Water in Fuel,424,Medium,High
+42,17-06-2024 22:02,Excavator_1,Fuel,Water in Fuel,1047,Medium,High
+42,27-05-2024 18:23,Backhoe_Loader_1,Fuel,Water in Fuel,495,Medium,High
+42,22-05-2024 03:55,Asphalt_Paver_1,Fuel,Water in Fuel,980,Medium,High
+43,02-06-2024 08:59,Backhoe_Loader_1,Misc,Hydraulic Pump Rate,82,Medium,Medium
+43,04-06-2024 08:01,Asphalt_Paver_1,Misc,Hydraulic Pump Rate,100,Medium,Medium
+43,02-05-2024 02:23,Excavator_1,Misc,Hydraulic Pump Rate,117,Medium,Medium
+43,08-06-2024 17:13,Articulated_Truck_1,Misc,Hydraulic Pump Rate,106,Medium,Medium
+43,09-05-2024 20:57,Dozer_1,Misc,Hydraulic Pump Rate,79,Medium,Medium
+43,29-06-2024 22:22,Asphalt_Paver_1,Fuel,Level,7,Medium,Low
+43,27-05-2024 18:46,Dozer_1,Fuel,Level,2,Medium,Low
+43,20-06-2024 17:33,Articulated_Truck_1,Fuel,Level,4,Medium,Low
+43,07-05-2024 01:46,Excavator_1,Fuel,Level,9,Medium,Low
+43,28-06-2024 06:57,Backhoe_Loader_1,Fuel,Level,5,Medium,Low
+43,18-05-2024 18:53,Asphalt_Paver_1,Engine,Speed,1736,Medium,Medium
+43,24-06-2024 17:24,Backhoe_Loader_1,Engine,Speed,1434,Medium,Medium
+43,16-06-2024 21:30,Dozer_1,Engine,Speed,1488,Medium,Medium
+43,22-06-2024 04:26,Excavator_1,Engine,Speed,1648,Medium,Medium
+43,22-05-2024 11:05,Articulated_Truck_1,Engine,Speed,1590,Medium,Medium
+43,20-06-2024 20:27,Backhoe_Loader_1,Drive,Transmission Pressure,210,Medium,Medium
+43,12-06-2024 19:56,Asphalt_Paver_1,Drive,Transmission Pressure,293,Medium,Medium
+43,29-05-2024 10:08,Articulated_Truck_1,Drive,Transmission Pressure,300,Medium,Medium
+43,20-05-2024 15:01,Excavator_1,Drive,Transmission Pressure,275,Medium,Medium
+43,27-05-2024 23:04,Dozer_1,Drive,Transmission Pressure,348,Medium,Medium
+44,16-06-2024 04:04,Excavator_1,Misc,Air Filter Pressure,31,Medium,Medium
+44,09-06-2024 20:11,Dozer_1,Misc,Air Filter Pressure,26,Medium,Medium
+44,05-05-2024 09:52,Backhoe_Loader_1,Misc,Air Filter Pressure,29,Medium,Medium
+44,04-05-2024 03:09,Articulated_Truck_1,Misc,Air Filter Pressure,31,Medium,Medium
+44,26-06-2024 20:55,Asphalt_Paver_1,Misc,Air Filter Pressure,22,Medium,Medium
+44,18-06-2024 05:32,Dozer_1,Engine,Oil Pressure,41,Medium,High
+44,05-05-2024 16:17,Asphalt_Paver_1,Engine,Oil Pressure,59,Medium,High
+44,23-05-2024 00:22,Excavator_1,Engine,Oil Pressure,58,Medium,High
+44,15-05-2024 18:00,Articulated_Truck_1,Engine,Oil Pressure,44,Medium,High
+44,30-06-2024 22:32,Backhoe_Loader_1,Engine,Oil Pressure,36,Medium,High
+44,01-05-2024 15:13,Dozer_1,Drive,Pedal Sensor,4.238000874,Medium,Low
+44,26-06-2024 00:38,Asphalt_Paver_1,Drive,Pedal Sensor,4.61,Medium,Low
+44,20-05-2024 08:34,Articulated_Truck_1,Drive,Pedal Sensor,4.6,Medium,Low
+44,17-05-2024 23:32,Excavator_1,Drive,Pedal Sensor,4.577743538,Medium,Low
+44,07-06-2024 20:54,Backhoe_Loader_1,Drive,Pedal Sensor,3.056436805,Medium,Low
+44,15-06-2024 17:30,Dozer_1,Fuel,Temparature,215,Medium,High
+44,28-06-2024 07:42,Asphalt_Paver_1,Fuel,Temparature,383,Medium,High
+44,17-06-2024 08:14,Backhoe_Loader_1,Fuel,Temparature,329,Medium,High
+44,22-06-2024 19:24,Articulated_Truck_1,Fuel,Temparature,0,Medium,High
+44,21-05-2024 16:46,Excavator_1,Fuel,Temparature,260,Medium,High
+45,05-06-2024 11:11,Dozer_1,Fuel,Pressure,37,Medium,Low
+45,05-05-2024 04:52,Articulated_Truck_1,Fuel,Pressure,44,Medium,Low
+45,25-05-2024 09:44,Backhoe_Loader_1,Fuel,Pressure,44,Medium,Low
+45,13-05-2024 23:56,Excavator_1,Fuel,Pressure,37,Medium,Low
+45,26-05-2024 05:03,Asphalt_Paver_1,Fuel,Pressure,58,Medium,Low
+45,06-05-2024 19:04,Asphalt_Paver_1,Engine,Speed,1362,Medium,Medium
+45,11-06-2024 06:26,Articulated_Truck_1,Engine,Speed,1440,Medium,Medium
+45,07-06-2024 19:16,Backhoe_Loader_1,Engine,Speed,1398,Medium,Medium
+45,11-05-2024 13:16,Excavator_1,Engine,Speed,1779,Medium,Medium
+45,29-06-2024 16:47,Dozer_1,Engine,Speed,1445,Medium,Medium
+45,12-06-2024 13:22,Excavator_1,Misc,System Voltage,13.28001145,Medium,High
+45,21-06-2024 16:34,Backhoe_Loader_1,Misc,System Voltage,14.7807631,Medium,High
+45,17-05-2024 04:51,Dozer_1,Misc,System Voltage,12.24607278,Medium,High
+45,08-05-2024 05:33,Articulated_Truck_1,Misc,System Voltage,14.9,Medium,High
+45,24-05-2024 18:23,Asphalt_Paver_1,Misc,System Voltage,14.84,Medium,High
+45,26-06-2024 19:06,Asphalt_Paver_1,Drive,Transmission Pressure,303,Medium,Medium
+45,02-05-2024 11:25,Dozer_1,Drive,Transmission Pressure,302,Medium,Medium
+45,26-06-2024 05:57,Articulated_Truck_1,Drive,Transmission Pressure,369,Medium,Medium
+45,19-05-2024 02:10,Backhoe_Loader_1,Drive,Transmission Pressure,412,Medium,Medium
+45,03-06-2024 05:06,Excavator_1,Drive,Transmission Pressure,323,Medium,Medium
+46,11-06-2024 03:09,Articulated_Truck_1,Misc,Exhaust Gas Temparature,182,Medium,High
+46,01-05-2024 06:33,Backhoe_Loader_1,Misc,Exhaust Gas Temparature,297,Medium,High
+46,03-05-2024 22:05,Dozer_1,Misc,Exhaust Gas Temparature,291,Medium,High
+46,22-06-2024 11:27,Asphalt_Paver_1,Misc,Exhaust Gas Temparature,295,Medium,High
+46,19-05-2024 23:03,Excavator_1,Misc,Exhaust Gas Temparature,270,Medium,High
+46,28-05-2024 12:10,Dozer_1,Drive,Pedal Sensor,4.984918787,High,Low
+46,17-06-2024 13:33,Backhoe_Loader_1,Drive,Pedal Sensor,4.929791054,High,Low
+46,24-06-2024 18:48,Articulated_Truck_1,Drive,Pedal Sensor,3.2,Medium,Low
+46,08-05-2024 11:26,Excavator_1,Drive,Pedal Sensor,4.882826369,High,Low
+46,19-05-2024 18:08,Asphalt_Paver_1,Drive,Pedal Sensor,3.68,Medium,Low
+46,11-06-2024 19:02,Articulated_Truck_1,Engine,Temparature,102,Medium,High
+46,24-05-2024 01:24,Asphalt_Paver_1,Engine,Temparature,77,Medium,High
+46,12-05-2024 10:21,Excavator_1,Engine,Temparature,80,Medium,High
+46,30-06-2024 03:37,Dozer_1,Engine,Temparature,89,Medium,High
+46,19-06-2024 19:04,Backhoe_Loader_1,Engine,Temparature,86,Medium,High
+46,08-05-2024 00:10,Asphalt_Paver_1,Fuel,Water in Fuel,826,Medium,High
+46,24-06-2024 19:36,Excavator_1,Fuel,Water in Fuel,1072,Medium,High
+46,21-05-2024 03:29,Articulated_Truck_1,Fuel,Water in Fuel,426,Medium,High
+46,18-06-2024 17:38,Dozer_1,Fuel,Water in Fuel,1031,Medium,High
+46,11-06-2024 09:31,Backhoe_Loader_1,Fuel,Water in Fuel,398,Medium,High
+47,30-05-2024 09:02,Articulated_Truck_1,Drive,Brake Control,2,Medium,Medium
+47,08-05-2024 11:07,Asphalt_Paver_1,Drive,Brake Control,2,Medium,Medium
+47,26-06-2024 10:29,Backhoe_Loader_1,Drive,Brake Control,8,Medium,Medium
+47,24-05-2024 05:15,Dozer_1,Drive,Brake Control,3,Medium,Medium
+47,14-06-2024 19:44,Excavator_1,Drive,Brake Control,3,Medium,Medium
+47,10-05-2024 08:19,Asphalt_Paver_1,Misc,Hydraulic Pump Rate,117,Medium,Medium
+47,28-05-2024 20:46,Articulated_Truck_1,Misc,Hydraulic Pump Rate,109,Medium,Medium
+47,14-06-2024 04:29,Dozer_1,Misc,Hydraulic Pump Rate,119,Medium,Medium
+47,20-06-2024 10:39,Excavator_1,Misc,Hydraulic Pump Rate,125,High,Medium
+47,08-06-2024 00:46,Backhoe_Loader_1,Misc,Hydraulic Pump Rate,91,Medium,Medium
+47,17-06-2024 20:57,Dozer_1,Fuel,Level,3,Medium,Low
+47,11-06-2024 22:41,Asphalt_Paver_1,Fuel,Level,4,Medium,Low
+47,26-06-2024 11:13,Articulated_Truck_1,Fuel,Level,3,Medium,Low
+47,24-05-2024 13:39,Excavator_1,Fuel,Level,2,Medium,Low
+47,09-06-2024 00:25,Backhoe_Loader_1,Fuel,Level,6,Medium,Low
+47,02-06-2024 18:16,Asphalt_Paver_1,Engine,Oil Pressure,35,Medium,High
+47,22-06-2024 04:47,Articulated_Truck_1,Engine,Oil Pressure,56,Medium,High
+47,25-05-2024 10:28,Dozer_1,Engine,Oil Pressure,26,Medium,High
+47,07-06-2024 09:31,Excavator_1,Engine,Oil Pressure,40,Medium,High
+47,03-06-2024 00:49,Backhoe_Loader_1,Engine,Oil Pressure,26,Medium,High
+48,21-06-2024 04:13,Backhoe_Loader_1,Misc,Air Filter Pressure,34,Medium,Medium
+48,28-05-2024 18:04,Excavator_1,Misc,Air Filter Pressure,35,Medium,Medium
+48,01-06-2024 05:07,Articulated_Truck_1,Misc,Air Filter Pressure,35,Medium,Medium
+48,12-05-2024 01:56,Dozer_1,Misc,Air Filter Pressure,26,Medium,Medium
+48,10-05-2024 09:24,Asphalt_Paver_1,Misc,Air Filter Pressure,22,Medium,Medium
+48,10-05-2024 19:49,Backhoe_Loader_1,Drive,Brake Control,5,Medium,Medium
+48,13-05-2024 05:10,Articulated_Truck_1,Drive,Brake Control,8,Medium,Medium
+48,25-05-2024 05:57,Asphalt_Paver_1,Drive,Brake Control,3,Medium,Medium
+48,09-06-2024 07:18,Excavator_1,Drive,Brake Control,4,Medium,Medium
+48,02-06-2024 21:45,Dozer_1,Drive,Brake Control,5,Medium,Medium
+48,29-06-2024 23:42,Backhoe_Loader_1,Engine,Temparature,90,Medium,High
+48,14-06-2024 10:10,Articulated_Truck_1,Engine,Temparature,82,Medium,High
+48,03-06-2024 08:09,Excavator_1,Engine,Temparature,104,Medium,High
+48,25-06-2024 16:29,Dozer_1,Engine,Temparature,104,Medium,High
+48,10-06-2024 18:17,Asphalt_Paver_1,Engine,Temparature,77,Medium,High
+48,06-05-2024 18:11,Articulated_Truck_1,Fuel,Temparature,0,Medium,High
+48,22-06-2024 06:00,Dozer_1,Fuel,Temparature,308,Medium,High
+48,05-05-2024 09:41,Asphalt_Paver_1,Fuel,Temparature,372,Medium,High
+48,25-06-2024 12:04,Excavator_1,Fuel,Temparature,297,Medium,High
+48,21-06-2024 08:14,Backhoe_Loader_1,Fuel,Temparature,316,Medium,High
+49,02-06-2024 02:02,Excavator_1,Drive,Brake Control,7,Medium,Medium
+49,26-05-2024 10:26,Dozer_1,Drive,Brake Control,5,Medium,Medium
+49,11-05-2024 21:15,Backhoe_Loader_1,Drive,Brake Control,3,Medium,Medium
+49,27-05-2024 02:12,Articulated_Truck_1,Drive,Brake Control,4,Medium,Medium
+49,09-06-2024 03:43,Asphalt_Paver_1,Drive,Brake Control,5,Medium,Medium
+49,24-06-2024 12:03,Asphalt_Paver_1,Fuel,Pressure,61,Medium,Low
+49,07-05-2024 03:48,Dozer_1,Fuel,Pressure,58,Medium,Low
+49,19-06-2024 15:31,Excavator_1,Fuel,Pressure,45,Medium,Low
+49,03-05-2024 11:34,Articulated_Truck_1,Fuel,Pressure,49,Medium,Low
+49,02-06-2024 19:26,Backhoe_Loader_1,Fuel,Pressure,56,Medium,Low
+49,06-06-2024 15:31,Backhoe_Loader_1,Engine,Speed,1394,Medium,Medium
+49,03-05-2024 10:13,Articulated_Truck_1,Engine,Speed,1560,Medium,Medium
+49,22-05-2024 16:32,Excavator_1,Engine,Speed,1377,Medium,Medium
+49,16-06-2024 09:04,Asphalt_Paver_1,Engine,Speed,1484,Medium,Medium
+49,28-06-2024 15:45,Dozer_1,Engine,Speed,1530,Medium,Medium
+49,02-06-2024 18:33,Excavator_1,Misc,System Voltage,13.20751249,Medium,High
+49,23-05-2024 02:47,Articulated_Truck_1,Misc,System Voltage,14.8,Medium,High
+49,21-06-2024 12:15,Dozer_1,Misc,System Voltage,14.27821704,Medium,High
+49,05-06-2024 12:35,Backhoe_Loader_1,Misc,System Voltage,14.70834886,Medium,High
+49,08-06-2024 04:56,Asphalt_Paver_1,Misc,System Voltage,12.92,Medium,High
+50,09-05-2024 03:25,Excavator_1,Misc,Exhaust Gas Temparature,262,Medium,High
+50,23-05-2024 10:33,Articulated_Truck_1,Misc,Exhaust Gas Temparature,176,Medium,High
+50,16-05-2024 00:54,Asphalt_Paver_1,Misc,Exhaust Gas Temparature,221,Medium,High
+50,07-06-2024 09:20,Backhoe_Loader_1,Misc,Exhaust Gas Temparature,199,Medium,High
+50,06-06-2024 13:37,Dozer_1,Misc,Exhaust Gas Temparature,300,Medium,High
+50,24-05-2024 06:15,Articulated_Truck_1,Engine,Oil Pressure,65,High,High
+50,08-05-2024 23:35,Backhoe_Loader_1,Engine,Oil Pressure,51,Medium,High
+50,05-05-2024 16:57,Excavator_1,Engine,Oil Pressure,43,Medium,High
+50,10-06-2024 20:50,Asphalt_Paver_1,Engine,Oil Pressure,51,Medium,High
+50,21-06-2024 13:02,Dozer_1,Engine,Oil Pressure,64,Medium,High
+50,25-06-2024 03:32,Asphalt_Paver_1,Drive,Transmission Pressure,232,Medium,Medium
+50,21-05-2024 16:36,Excavator_1,Drive,Transmission Pressure,363,Medium,Medium
+50,17-06-2024 09:01,Backhoe_Loader_1,Drive,Transmission Pressure,377,Medium,Medium
+50,24-05-2024 13:05,Dozer_1,Drive,Transmission Pressure,444,Medium,Medium
+50,12-05-2024 19:31,Articulated_Truck_1,Drive,Transmission Pressure,391,Medium,Medium
+50,23-05-2024 04:38,Backhoe_Loader_1,Fuel,Water in Fuel,1400,Medium,High
+50,27-05-2024 22:23,Asphalt_Paver_1,Fuel,Water in Fuel,622,Medium,High
+50,26-06-2024 11:10,Dozer_1,Fuel,Water in Fuel,1368,Medium,High
+50,13-05-2024 00:03,Excavator_1,Fuel,Water in Fuel,1439,Medium,High
+50,07-05-2024 21:21,Articulated_Truck_1,Fuel,Water in Fuel,448,Medium,High

@@ -218,7 +218,7 @@ Id,Time,Machine,Component,Parameter,Value,Threshold,Probability of Failure
 11,6/25/2022 12:15,Backhoe_Loader_1,Fuel,Temparature,224,Medium,High
 11,5/14/2022 17:05,Asphalt_Paver_1,Fuel,Temparature,272,Medium,High
 11,6/28/2022 19:18,Articulated_Truck_1,Fuel,Temparature,0,Medium,High
-11,6/10/2022 14:57,Dozer_1,Fuel,Temparature,247,Medium,High
+11,6/10/2022 14:57,C,Fuel,Temparature,247,Medium,High
 12,6/24/2022 1:28,Excavator_1,Misc,Air Filter Pressure,22,Medium,Medium
 12,6/25/2022 8:18,Articulated_Truck_1,Misc,Air Filter Pressure,25,Medium,Medium
 12,6/2/2022 21:54,Backhoe_Loader_1,Misc,Air Filter Pressure,25,Medium,Medium
